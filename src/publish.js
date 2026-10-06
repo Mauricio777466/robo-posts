@@ -42,23 +42,30 @@ async function call(method, url, params) {
     if (j.expires_in) console.log(`Chave renovada: válida por mais ${Math.round(j.expires_in / 86400)} dias.`);
   } catch (e) { console.log('Aviso: não foi possível renovar a chave agora.'); }
 
-  // 1) cria o contêiner de mídia
-  const { id: creationId } = await call('POST', `${GRAPH}/${IG_USER_ID}/media`, { image_url: imageUrl, caption: next.caption });
-  // 2) espera o Instagram processar
-  for (let i = 0; i < 20; i++) {
+  // 1) cria o contêiner de mídia (foto ou Reel)
+  const isReel = next.type === 'reel';
+  const params = isReel
+    ? { media_type: 'REELS', video_url: imageUrl, caption: next.caption, share_to_feed: 'true', thumb_offset: '10500' }
+    : { image_url: imageUrl, caption: next.caption };
+  const { id: creationId } = await call('POST', `${GRAPH}/${IG_USER_ID}/media`, params);
+  // 2) espera o Instagram processar (vídeo demora mais)
+  let ready = false;
+  for (let i = 0; i < (isReel ? 60 : 20); i++) {
     const { status_code } = await call('GET', `${GRAPH}/${creationId}`, { fields: 'status_code' });
-    if (status_code === 'FINISHED') break;
-    if (status_code === 'ERROR' || status_code === 'EXPIRED') throw new Error('O Instagram não conseguiu processar a imagem: ' + status_code);
-    await sleep(5000);
+    if (status_code === 'FINISHED') { ready = true; break; }
+    if (status_code === 'ERROR' || status_code === 'EXPIRED') throw new Error('O Instagram não conseguiu processar a mídia: ' + status_code);
+    await sleep(isReel ? 10000 : 5000);
   }
+  if (!ready) throw new Error('O Instagram demorou demais para processar a mídia.');
   // 3) publica
   const { id: mediaId } = await call('POST', `${GRAPH}/${IG_USER_ID}/media_publish`, { creation_id: creationId });
   console.log(`Publicado! id=${mediaId}`);
 
   // 4) avança a fila
   const statePath = path.join(ROOT, 'content/state.json');
-  const state = fs.existsSync(statePath) ? JSON.parse(fs.readFileSync(statePath, 'utf8')) : { next: 0, published: [] };
-  state.next = next.index + 1;
-  state.published.push({ id: next.id, mediaId, date: new Date().toISOString() });
+  const state = fs.existsSync(statePath) ? JSON.parse(fs.readFileSync(statePath, 'utf8')) : {};
+  state.published = state.published || [];
+  if (isReel) state.nextReel = next.index + 1; else state.next = next.index + 1;
+  state.published.push({ id: next.id, type: next.type, mediaId, date: new Date().toISOString() });
   fs.writeFileSync(statePath, JSON.stringify(state, null, 2));
 })().catch((e) => { console.error(e.message); process.exit(1); });
