@@ -11,6 +11,13 @@
       "type": "post",
       "mediaId": "17962244271228312",
       "date": "2026-10-06T19:57:56.732Z"
+    },
+    {
+      "id": "py-intro",
+      "type": "reel",
+      "manual": true,
+      "date": "2026-10-06"
     }
-  ]
+  ],
+  "nextReel": 1
 }
