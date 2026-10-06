@@ -1,5 +1,5 @@
 // Passo 1: escolhe o próximo conteúdo e gera o arquivo em docs/img/
-// Segunda e quarta: post com arte (JPG). Sexta: Reel em vídeo (MP4).
+// Segunda, quarta e sexta: Reel em vídeo com música (MP4). Terça e quinta: post com arte (JPG).
 // Para forçar um Reel em outro dia, use a variável FORCE_REEL=true.
 const fs = require('fs');
 const path = require('path');
@@ -14,7 +14,7 @@ state.nextReel = state.nextReel || 0;
 
 // dia da semana no horário de Brasília
 const weekday = new Intl.DateTimeFormat('en-US', { timeZone: 'America/Sao_Paulo', weekday: 'short' }).format(new Date());
-const isReel = process.env.FORCE_REEL === 'true' || weekday === 'Fri';
+const isReel = process.env.FORCE_REEL === 'true' || !['Tue', 'Thu'].includes(weekday);
 const date = new Intl.DateTimeFormat('en-CA', { timeZone: 'America/Sao_Paulo' }).format(new Date());
 const SIGN = '\n\nSiga @mauricio__oficialll para mais conteúdo de tecnologia. 💻\n\n';
 
