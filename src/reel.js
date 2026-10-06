@@ -3,7 +3,7 @@
 // Cada quadro é desenhado no navegador (Playwright) e o ffmpeg junta tudo em vídeo.
 const fs = require('fs');
 const path = require('path');
-const { spawn } = require('child_process');
+const { spawn, execFileSync } = require('child_process');
 const { chromium } = require('playwright');
 const os = require('os');
 const { compose } = require('./music');
@@ -49,6 +49,11 @@ body{width:${W}px;height:${H}px;overflow:hidden;font-family:P,Arial,"Noto Color 
 #checks div em{flex:none;width:34px;height:34px;border-radius:50%;border:2px solid #bbb;display:flex;align-items:center;justify-content:center;font-style:normal;font-size:20px}
 #ig{position:absolute;left:70px;bottom:60px;color:#bbb;font-size:22px;font-weight:600;letter-spacing:1px}
 #cursor{position:absolute;width:44px;height:44px;opacity:0}
+#cap{position:absolute;left:50px;right:50px;bottom:250px;word-spacing:14px;text-align:center;font-weight:800;font-size:68px;line-height:1.15;letter-spacing:-1px;color:#fff;
+  z-index:10}
+#cap .box{display:inline-block;background:rgba(10,10,10,.88);padding:16px 30px 20px;border-radius:28px;box-shadow:0 16px 40px #0006}
+#cap span{display:inline-block;margin:0 4px;word-spacing:0}
+#cap .on{color:#FFD60A;transform:scale(1.08)}
 </style></head><body>
 <div id="cam"><div id="persp"><div id="card">
   <div id="base"></div>
@@ -66,6 +71,7 @@ body{width:${W}px;height:${H}px;overflow:hidden;font-family:P,Arial,"Noto Color 
   <div id="ig">${HANDLE.toUpperCase()}</div>
   <svg id="cursor" viewBox="0 0 24 24"><path d="M4 2l16 11-7 1.5L9.5 21z" fill="#111" stroke="#fff" stroke-width="1.5"/></svg>
 </div></div></div>
+<div id="cap"></div>
 <script>
 const R=${JSON.stringify(reel).replace(/<\//g, '<\\/')};
 const $=id=>document.getElementById(id);
@@ -95,6 +101,7 @@ function cam(t){let i=0;while(i<CAM.length-2&&t>=CAM[i+1][0])i++;const [t0,a,s0]
   const k=ease(cl((t-t0)/(t1-t0)));return [P[a][0]+(P[b][0]-P[a][0])*k,P[a][1]+(P[b][1]-P[a][1])*k,s0+(s1-s0)*k];}
 const fade=(el,v,dy=24,blur=0)=>{el.style.opacity=v;el.style.transform='translateY('+(dy*(1-v))+'px)';el.style.filter=blur?'blur('+(blur*(1-v))+'px)':'none';};
 
+window.setCap=(ws,on,pop)=>{const c=$('cap');c.innerHTML=ws.length?'<b class="box">'+ws.map((w,i)=>'<span'+(i===on?' class="on"':'')+'>'+esc(w)+'</span>').join(' ')+'</b>':'';c.style.transform='scale('+(0.92+0.08*pop)+')';c.style.opacity=ws.length?1:0;};
 window.setT=t=>{
   const [x,y,s]=cam(t); $('cam').style.transform='translate('+(${W}/2-x*s)+'px,'+(${H}/2-y*s)+'px) scale('+s+')';
   // linha -> cartão
@@ -124,16 +131,46 @@ window.setT=t=>{
 
 // Trilha: se existir alguma música sua (livre de direitos) na pasta music/, usa uma delas;
 // senão, compõe uma batida lo-fi original para este vídeo.
-function pickMusic(index) {
+function pickMusic(index, seconds = DURATION) {
   const dir = path.resolve(__dirname, '..', 'music');
   const own = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => /\.(mp3|m4a|wav|aac|ogg)$/i.test(f)).sort() : [];
   if (own.length) return path.join(dir, own[index % own.length]);
-  const f = path.join(os.tmpdir(), `trilha-${index}.wav`);
-  compose(index * 31 + 5, DURATION, f);
+  const f = path.join(os.tmpdir(), `trilha-${index}-${Math.ceil(seconds)}.wav`);
+  compose(index * 31 + 5, Math.ceil(seconds), f);
   return f;
 }
 
+// Narração: voz neural (src/narrate.py) + tempo de cada palavra para as legendas.
+function narrate(reel) {
+  if (!reel.narration || process.env.NO_VOICE === 'true') return null;
+  const mp3 = path.join(os.tmpdir(), `voz-${reel.id}.mp3`), js = mp3.replace('.mp3', '.json');
+  try {
+    execFileSync('python3', [path.join(__dirname, 'narrate.py'), reel.narration, mp3, js], { stdio: 'inherit' });
+    return { mp3, words: JSON.parse(fs.readFileSync(js, 'utf8')) };
+  } catch (e) {
+    console.log('Aviso: narração indisponível, o vídeo sai só com música.', e.message);
+    return null;
+  }
+}
+
+// Agrupa as palavras em blocos curtos (até 4 palavras), quebrando na pontuação.
+function chunks(words) {
+  const out = []; let cur = [];
+  for (const w of words) {
+    cur.push(w);
+    const len = cur.map((x) => x.w).join(' ').length;
+    if (cur.length >= 4 || len > 20 || /[.,!?;:]$/.test(w.w)) { out.push(cur); cur = []; }
+  }
+  if (cur.length) out.push(cur);
+  return out;
+}
+
+const VOICE_DELAY = 0.35;
+
 async function renderReel(reel, index, outFile, opts = {}) {
+  const voice = opts.stills ? null : narrate(reel);
+  const dur = voice ? Math.max(DURATION, voice.words[voice.words.length - 1].e + VOICE_DELAY + 1.3) : DURATION;
+  const groups = voice ? chunks(voice.words.map((w) => ({ ...w, s: w.s + VOICE_DELAY, e: w.e + VOICE_DELAY }))) : [];
   const browser = await chromium.launch();
   try {
     const page = await browser.newPage({ viewport: { width: W, height: H } });
@@ -144,15 +181,24 @@ async function renderReel(reel, index, outFile, opts = {}) {
       for (const t of opts.stills) { await page.evaluate((x) => window.setT(x), t); await page.screenshot({ path: outFile.replace('.mp4', `-${t}.jpg`), type: 'jpeg', quality: 80 }); }
       return;
     }
+    const music = pickMusic(index || 0, dur), fadeOut = `afade=t=out:st=${(dur - 1.2).toFixed(2)}:d=1.2`;
+    const audio = voice
+      ? ['-i', voice.mp3, '-filter_complex', `[1:a]volume=0.13,afade=t=in:d=0.5,${fadeOut}[m];[2:a]adelay=${VOICE_DELAY * 1000}|${VOICE_DELAY * 1000},volume=1.15[v];[m][v]amix=inputs=2:duration=first:normalize=0,alimiter=limit=0.95[a]`, '-map', '0:v', '-map', '[a]']
+      : ['-af', `afade=t=in:d=0.5,${fadeOut},volume=0.9`];
     const ff = spawn('ffmpeg', ['-y', '-loglevel', 'error', '-f', 'image2pipe', '-framerate', String(FPS), '-c:v', 'mjpeg', '-i', '-',
-      '-stream_loop', '-1', '-i', pickMusic(index || 0),
+      '-stream_loop', '-1', '-i', music, ...audio,
       '-c:v', 'libx264', '-pix_fmt', 'yuv420p', '-profile:v', 'high', '-r', String(FPS), '-b:v', '3500k', '-maxrate', '4500k', '-bufsize', '9M',
-      '-af', `afade=t=in:d=0.5,afade=t=out:st=${DURATION - 1.2}:d=1.2,volume=0.9`, '-c:a', 'aac', '-b:a', '160k', '-t', String(DURATION), '-movflags', '+faststart', outFile]);
+      '-c:a', 'aac', '-b:a', '160k', '-t', dur.toFixed(2), '-movflags', '+faststart', outFile]);
     let err = '';
     ff.stderr.on('data', (d) => (err += d));
     const done = new Promise((res, rej) => ff.on('close', (code) => (code === 0 ? res() : rej(new Error('ffmpeg: ' + err)))));
-    for (let i = 0; i < FPS * DURATION; i++) {
-      await page.evaluate((t) => window.setT(t), i / FPS);
+    for (let i = 0; i < Math.round(FPS * dur); i++) {
+      const t = i / FPS;
+      // a animação de 15s é esticada para acompanhar a narração
+      let cap = { ws: [], on: -1, pop: 1 };
+      const g = groups.find((x, k) => t >= x[0].s && t < (groups[k + 1] ? groups[k + 1][0].s : x[x.length - 1].e + 0.6));
+      if (g) { const on = g.findIndex((w) => t >= w.s && t < w.e + 0.05); cap = { ws: g.map((w) => w.w), on, pop: Math.min(1, (t - g[0].s) / 0.12) }; }
+      await page.evaluate(([x, c]) => { window.setT(x); window.setCap(c.ws, c.on, c.pop); }, [t * DURATION / dur, cap]);
       const buf = await page.screenshot({ type: 'jpeg', quality: 88 });
       if (!ff.stdin.write(buf)) await new Promise((r) => ff.stdin.once('drain', r));
     }
