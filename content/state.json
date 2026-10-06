@@ -17,7 +17,13 @@
       "type": "reel",
       "manual": true,
       "date": "2026-10-06"
+    },
+    {
+      "id": "js-intro",
+      "type": "reel",
+      "mediaId": "18018166052974463",
+      "date": "2026-10-06T22:13:57.811Z"
     }
   ],
-  "nextReel": 1
+  "nextReel": 2
 }
