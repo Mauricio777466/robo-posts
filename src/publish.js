@@ -1,10 +1,10 @@
-// Passo 2: publica no Instagram pela API oficial da Meta (Instagram Graph API)
+// Passo 2: publica no Instagram pela API oficial (API do Instagram com login do Instagram)
 // Precisa dos segredos IG_USER_ID e IG_ACCESS_TOKEN configurados no GitHub.
 const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.resolve(__dirname, '..');
-const GRAPH = 'https://graph.facebook.com/v21.0';
+const GRAPH = 'https://graph.instagram.com/v21.0';
 const { IG_USER_ID, IG_ACCESS_TOKEN, GITHUB_REPOSITORY, GITHUB_SHA_PUBLISHED, DRY_RUN } = process.env;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -34,6 +34,13 @@ async function call(method, url, params) {
     if (r.ok) break;
     await sleep(6000);
   }
+
+  // 0) renova a validade da chave (chaves do Instagram valem 60 dias; renovar estende o prazo)
+  try {
+    const r = await fetch(`https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=${IG_ACCESS_TOKEN}`);
+    const j = await r.json();
+    if (j.expires_in) console.log(`Chave renovada: válida por mais ${Math.round(j.expires_in / 86400)} dias.`);
+  } catch (e) { console.log('Aviso: não foi possível renovar a chave agora.'); }
 
   // 1) cria o contêiner de mídia
   const { id: creationId } = await call('POST', `${GRAPH}/${IG_USER_ID}/media`, { image_url: imageUrl, caption: next.caption });
