@@ -1,0 +1,352 @@
+[
+  {
+    "id": "senha-forte",
+    "tag": "Segurança",
+    "layout": "list",
+    "title": "Senha forte não é *opcional*.",
+    "subtitle": "A maioria das invasões começa por uma senha fraca ou repetida.",
+    "items": ["Use *frases longas*, com 12+ caracteres", "Uma senha *diferente* para cada serviço", "Use um *gerenciador de senhas*", "Ative a *verificação em 2 etapas*", "Nunca envie senha por mensagem"],
+    "caption": "Senha forte não é opcional. 🔐\n\nGrande parte dos acessos indevidos acontece por causa de senhas fracas ou repetidas em vários sites. Se um serviço vaza, todos os outros ficam em risco.\n\n✅ Prefira frases longas a palavras curtas\n✅ Uma senha diferente para cada serviço\n✅ Use um gerenciador de senhas\n✅ Ative a verificação em 2 etapas\n\nSalve este post e revise suas senhas hoje.",
+    "hashtags": "#segurancadainformacao #senhas #cybersecurity #tecnologia #dicasdetecnologia #protecaodedados #macapa #amapa"
+  },
+  {
+    "id": "ia-no-negocio",
+    "tag": "Inteligência Artificial",
+    "layout": "cards",
+    "title": "IA no dia a dia do *seu negócio*.",
+    "items": [["💬", "Atendimento", "Respostas rápidas para dúvidas frequentes"], ["📝", "Textos", "Rascunhos de posts, e-mails e descrições"], ["📊", "Análises", "Resumo de planilhas e relatórios"], ["🎨", "Criativos", "Ideias de artes e campanhas"]],
+    "caption": "A inteligência artificial já está no dia a dia de muitos negócios, inclusive pequenos. 🤖\n\nAlguns usos práticos:\n✅ Responder dúvidas frequentes mais rápido\n✅ Criar rascunhos de textos e e-mails\n✅ Resumir planilhas e relatórios\n✅ Gerar ideias para campanhas\n\nO segredo é usar a IA como assistente e sempre revisar o resultado antes de usar.\n\nVocê já usa IA no seu trabalho? Conta aqui 👇",
+    "hashtags": "#inteligenciaartificial #ia #tecnologia #produtividade #empreendedorismo #inovacao #macapa #amapa"
+  },
+  {
+    "id": "como-site-abre",
+    "tag": "Como funciona",
+    "layout": "terminal",
+    "title": "O que acontece quando você abre um *site*?",
+    "lines": ["# 1. Você digita o endereço", "> www.exemplo.com.br", "# 2. O DNS traduz o nome em um IP", "> 203.0.113.10", "# 3. Conexão segura (HTTPS)", "> cadeado 🔒 ativo", "# 4. O servidor responde", "> HTML + CSS + JavaScript", "# 5. O navegador monta a página"],
+    "caption": "Já parou pra pensar no que acontece quando você abre um site? 🌐\n\n1️⃣ Você digita o endereço\n2️⃣ O DNS traduz esse nome para o IP do servidor (como uma agenda de contatos da internet)\n3️⃣ É feita uma conexão segura (HTTPS)\n4️⃣ O servidor envia os arquivos da página\n5️⃣ O navegador junta tudo e mostra o site\n\nTudo isso em menos de um segundo. ⚡\n\nSalve para lembrar!",
+    "hashtags": "#comofunciona #internet #desenvolvimentoweb #programacao #tecnologia #dns #macapa #amapa"
+  },
+  {
+    "id": "http-https",
+    "tag": "Segurança",
+    "layout": "versus",
+    "title": "HTTP x *HTTPS*: qual a diferença?",
+    "left": { "title": "HTTP", "items": ["Dados trafegam *sem criptografia*", "Navegador marca como *não seguro*", "Pior para o Google"] },
+    "right": { "title": "HTTPS 🔒", "items": ["Dados *criptografados*", "Mostra o *cadeado*", "Mais confiança do visitante"] },
+    "subtitle": "O \"S\" vem de *seguro*. Hoje, todo site deveria usar HTTPS.",
+    "caption": "HTTP x HTTPS: o S faz toda a diferença. 🔒\n\nNo HTTP, as informações trafegam sem criptografia. No HTTPS, os dados entre o visitante e o site são criptografados, o que dificulta que alguém intercepte senhas ou dados de pagamento.\n\n✅ Navegadores marcam sites sem HTTPS como \"não seguros\"\n✅ O cadeado passa confiança\n✅ O Google também considera o HTTPS\n\nConfira: o seu site tem o cadeado?",
+    "hashtags": "#https #seguranca #sites #desenvolvimentoweb #cybersecurity #tecnologia #macapa #amapa"
+  },
+  {
+    "id": "backup-testado",
+    "tag": "Dados",
+    "layout": "big",
+    "statement": "Backup que nunca foi testado *não é backup*.",
+    "subtitle": "Faça cópias automáticas, guarde em outro lugar e *teste a restauração* de tempos em tempos.",
+    "caption": "Backup que nunca foi testado não é backup. 💾\n\nMuita gente só descobre que o backup não funciona na hora em que mais precisa.\n\n✅ Faça cópias automáticas e frequentes\n✅ Guarde pelo menos uma cópia em outro lugar (nuvem ou outro dispositivo)\n✅ Teste restaurar os arquivos de tempos em tempos\n\nQuando foi a última vez que você testou o seu?",
+    "hashtags": "#backup #dados #seguranca #tecnologia #ti #dicas #macapa #amapa"
+  },
+  {
+    "id": "sinais-phishing",
+    "tag": "Golpes",
+    "layout": "list",
+    "numbered": true,
+    "title": "5 sinais de *phishing*.",
+    "subtitle": "Phishing é a mensagem falsa feita para roubar seus dados.",
+    "items": ["*Urgência*: \"sua conta será bloqueada\"", "Link com endereço *estranho*", "Pedido de *senha ou código*", "Erros de português e logos tortos", "Oferta *boa demais* pra ser verdade"],
+    "caption": "Phishing é aquela mensagem falsa feita para roubar seus dados. 🎣\n\nFique atento a estes sinais:\n1️⃣ Urgência: \"sua conta será bloqueada hoje\"\n2️⃣ Links com endereço estranho\n3️⃣ Pedido de senha ou código de verificação\n4️⃣ Erros de português e logos mal feitos\n5️⃣ Ofertas boas demais pra ser verdade\n\nNa dúvida, não clique: acesse o site oficial digitando o endereço você mesmo.\n\nCompartilhe com quem precisa ver isso!",
+    "hashtags": "#phishing #golpe #segurancadigital #cybersecurity #fiqueatento #tecnologia #macapa #amapa"
+  },
+  {
+    "id": "linguagens-web",
+    "tag": "Programação",
+    "layout": "cards",
+    "title": "As linguagens que movem a *web*.",
+    "items": [["🧱", "HTML", "A estrutura: títulos, textos, imagens"], ["🎨", "CSS", "O visual: cores, fontes e layout"], ["⚙️", "JavaScript", "A interação: botões, animações, lógica"], ["🗄️", "SQL", "Os dados: guardar e buscar informações"]],
+    "caption": "Todo site que você usa é feito com algumas peças básicas. 🧩\n\n🧱 HTML: a estrutura da página\n🎨 CSS: o visual (cores, fontes, layout)\n⚙️ JavaScript: a interação e a lógica\n🗄️ SQL: onde os dados são guardados e consultados\n\nPense numa casa: HTML são as paredes, CSS é a pintura e a decoração, JavaScript é a parte elétrica, e o banco de dados é o armário onde tudo fica guardado.\n\nQuer aprender programação? Comece por aqui!",
+    "hashtags": "#programacao #html #css #javascript #sql #desenvolvimentoweb #aprenderaprogramar #macapa"
+  },
+  {
+    "id": "lgpd-direitos",
+    "tag": "LGPD",
+    "layout": "list",
+    "title": "Seus *direitos* sobre os seus dados.",
+    "subtitle": "A LGPD garante ao titular, entre outros, o direito de:",
+    "items": ["*Confirmar* se seus dados são tratados", "*Acessar* os seus dados", "*Corrigir* dados errados ou desatualizados", "Pedir a *eliminação* de dados", "*Portabilidade* para outro fornecedor"],
+    "source": "Fonte: Lei 13.709/2018 (LGPD), art. 18. Conteúdo informativo.",
+    "caption": "Você sabia que tem direitos sobre os seus dados pessoais? ⚖️\n\nA LGPD (Lei 13.709/2018), no art. 18, garante ao titular, entre outros, o direito de:\n✅ Confirmar se seus dados são tratados\n✅ Acessar esses dados\n✅ Corrigir dados incompletos ou desatualizados\n✅ Pedir a eliminação de dados, nos casos previstos em lei\n✅ Pedir a portabilidade para outro fornecedor\n\nℹ️ Conteúdo informativo. Em caso de dúvida, consulte um advogado.",
+    "hashtags": "#lgpd #protecaodedados #privacidade #direitodigital #dadospessoais #tecnologia #macapa #amapa"
+  },
+  {
+    "id": "site-x-app",
+    "tag": "Tecnologia",
+    "layout": "versus",
+    "title": "Site ou *aplicativo*?",
+    "left": { "title": "Site", "items": ["Abre direto no *navegador*", "Aparece no *Google*", "Custo menor para começar"] },
+    "right": { "title": "App", "items": ["Instalado no *celular*", "Usa notificações e câmera", "Ideal para uso *frequente*"] },
+    "subtitle": "Não existe melhor: existe o que faz sentido para o *seu objetivo*.",
+    "caption": "Site ou aplicativo? 🤔\n\n🌐 Site: abre direto no navegador, aparece no Google e costuma ser mais barato para começar.\n📱 App: fica instalado no celular, pode enviar notificações e usar recursos como câmera e GPS. Faz mais sentido quando o usuário volta todo dia.\n\nTambém existe o meio-termo: o web app, um site que funciona como aplicativo.\n\nNão existe melhor opção. Existe a que faz sentido para o seu objetivo.",
+    "hashtags": "#site #aplicativo #app #desenvolvimento #tecnologia #webapp #macapa #amapa"
+  },
+  {
+    "id": "git-4-comandos",
+    "tag": "Programação",
+    "layout": "terminal",
+    "title": "Git em *4 comandos*.",
+    "lines": ["# começa a versionar a pasta", "$ git init", "# escolhe o que vai salvar", "$ git add .", "# cria um ponto de salvamento", "$ git commit -m \"primeira versão\"", "# envia para o GitHub", "$ git push"],
+    "caption": "Git é o \"salvar progresso\" de quem programa. 💾\n\nCom ele você guarda cada versão do projeto e pode voltar atrás se algo der errado.\n\n🔹 git init: começa a versionar a pasta\n🔹 git add: escolhe os arquivos\n🔹 git commit: cria um ponto de salvamento\n🔹 git push: envia para o repositório online (ex.: GitHub)\n\nSe você está começando na programação, aprenda Git cedo. Salve este post!",
+    "hashtags": "#git #github #programacao #dev #desenvolvedor #aprenderaprogramar #tecnologia #macapa"
+  },
+  {
+    "id": "2fa",
+    "tag": "Segurança",
+    "layout": "list",
+    "title": "Verificação em 2 etapas: *ative hoje*.",
+    "subtitle": "Mesmo que roubem sua senha, sem o segundo código ninguém entra.",
+    "items": ["*WhatsApp*: Configurações › Conta", "*Instagram*: Central de Contas › Senha e segurança", "*E-mail* e conta Google ou Apple", "*Banco* e apps de pagamento", "Prefira *app autenticador* a SMS"],
+    "caption": "Ative a verificação em 2 etapas hoje. 🔐\n\nCom ela, além da senha, é preciso um segundo código para entrar na conta. Mesmo que alguém descubra sua senha, não consegue acessar.\n\nOnde ativar primeiro:\n✅ WhatsApp\n✅ Instagram\n✅ E-mail\n✅ Banco e apps de pagamento\n\n💡 Sempre que possível, use um app autenticador em vez de SMS.\n\nJá ativou? Comenta 👇",
+    "hashtags": "#seguranca #2fa #verificacaoemduasetapas #cybersecurity #whatsapp #instagram #macapa #amapa"
+  },
+  {
+    "id": "mobile-first",
+    "tag": "Design",
+    "layout": "big",
+    "statement": "Seu cliente está no *celular*.",
+    "subtitle": "*Mobile first*: projete pensando primeiro na tela pequena. Botões grandes, texto legível e página leve.",
+    "caption": "Seu cliente está no celular. 📱\n\nHoje, a maior parte dos acessos à internet vem de smartphones. Por isso existe o conceito de \"mobile first\": projetar primeiro para a tela pequena.\n\n✅ Botões fáceis de tocar\n✅ Texto legível sem dar zoom\n✅ Página leve, que carrega rápido no 4G\n\nAbra seu site no celular agora: a experiência está boa?",
+    "hashtags": "#mobilefirst #design #ux #sites #desenvolvimentoweb #tecnologia #macapa #amapa"
+  },
+  {
+    "id": "nuvem",
+    "tag": "Cloud",
+    "layout": "cards",
+    "title": "O que é a *nuvem*, afinal?",
+    "items": [["🖥️", "Servidores", "Computadores potentes em data centers"], ["📁", "Armazenamento", "Arquivos acessíveis de qualquer lugar"], ["📈", "Escala", "Cresce conforme a demanda"], ["💳", "Sob demanda", "Paga pelo que usa"]],
+    "caption": "\"Está na nuvem\". Mas o que isso significa? ☁️\n\nA nuvem são computadores de verdade, em grandes data centers, que você acessa pela internet.\n\n🖥️ Servidores que rodam sites e sistemas\n📁 Armazenamento acessível de qualquer lugar\n📈 Capacidade que cresce conforme a demanda\n💳 Em muitos serviços, você paga pelo que usa\n\nGoogle Drive, Netflix e o seu e-mail funcionam assim.",
+    "hashtags": "#cloud #nuvem #computacaoemnuvem #tecnologia #ti #internet #macapa #amapa"
+  },
+  {
+    "id": "wifi-publico",
+    "tag": "Segurança",
+    "layout": "list",
+    "title": "Wi-Fi público: *cuidado*.",
+    "subtitle": "Rede aberta de shopping, aeroporto ou café exige atenção.",
+    "items": ["Evite acessar *banco* em rede aberta", "Confira o *nome exato* da rede", "Prefira sites com *HTTPS*", "Use os *dados móveis* para o que é sensível", "Desative a conexão *automática*"],
+    "caption": "Wi-Fi grátis é ótimo, mas pede cuidado. 📶\n\nEm redes abertas, outras pessoas conectadas podem tentar interceptar dados, ou criar redes falsas com nomes parecidos.\n\n✅ Evite acessar banco e fazer compras em rede aberta\n✅ Confira o nome exato da rede com o estabelecimento\n✅ Prefira sites com HTTPS\n✅ Para o que é sensível, use os dados móveis\n✅ Desative a conexão automática a redes abertas\n\nCompartilhe com quem vive conectado no Wi-Fi do shopping!",
+    "hashtags": "#wifi #seguranca #cybersecurity #dicas #privacidade #tecnologia #macapa #amapa"
+  },
+  {
+    "id": "front-back",
+    "tag": "Programação",
+    "layout": "versus",
+    "title": "Front-end x *Back-end*.",
+    "left": { "title": "Front-end", "items": ["O que você *vê* e clica", "HTML, CSS, JavaScript", "Visual e experiência"] },
+    "right": { "title": "Back-end", "items": ["O que roda no *servidor*", "C#, Node, Python, Java...", "Regras, dados e segurança"] },
+    "subtitle": "Quem domina os dois é chamado de *full stack*.",
+    "caption": "Front-end x Back-end: qual a diferença? 💻\n\n🎨 Front-end: tudo que você vê e com que interage. Botões, telas, animações. Usa HTML, CSS e JavaScript.\n⚙️ Back-end: o que roda no servidor. Regras de negócio, banco de dados, login, segurança. Usa linguagens como C#, Node.js, Python e Java.\n\nQuem trabalha com os dois é chamado de desenvolvedor full stack.\n\nVocê se identifica mais com qual lado?",
+    "hashtags": "#frontend #backend #fullstack #programacao #dev #desenvolvedor #tecnologia #macapa"
+  },
+  {
+    "id": "api-conversa",
+    "tag": "Como funciona",
+    "layout": "terminal",
+    "title": "Como uma *API* conversa.",
+    "lines": ["# o app pede uma informação", "GET /api/pedidos/123", "", "# o servidor responde em JSON", "{", "  \"pedido\": 123,", "  \"status\": \"enviado\",", "  \"previsao\": \"2 dias\"", "}"],
+    "caption": "API é o garçom da tecnologia. 🍽️\n\nO aplicativo (cliente) faz um pedido, a API leva até o servidor (cozinha) e traz a resposta de volta.\n\nNo exemplo: o app pergunta \"qual o status do pedido 123?\" e a API responde em JSON: \"enviado, chega em 2 dias\".\n\nÉ assim que o app do banco, o rastreio da encomenda e o login com Google funcionam.\n\nSalve para entender de vez o que é API!",
+    "hashtags": "#api #programacao #backend #json #dev #comofunciona #tecnologia #macapa"
+  },
+  {
+    "id": "site-lento",
+    "tag": "Performance",
+    "layout": "list",
+    "numbered": true,
+    "title": "Site lento? *5 vilões*.",
+    "items": ["*Imagens* pesadas, sem compressão", "Excesso de *plugins* e scripts", "*Hospedagem* fraca", "Sem *cache*", "Vídeos e fontes carregados sem necessidade"],
+    "subtitle": "Cada segundo a mais de espera aumenta a chance de o visitante desistir.",
+    "caption": "Seu site está lento? 🐢\n\nOs vilões mais comuns:\n1️⃣ Imagens pesadas, sem compressão\n2️⃣ Excesso de plugins e scripts\n3️⃣ Hospedagem fraca\n4️⃣ Falta de cache\n5️⃣ Vídeos e fontes carregados sem necessidade\n\n💡 Teste grátis: Google PageSpeed Insights. Ele mostra a nota e o que melhorar.\n\nSalve e faça o teste no seu site!",
+    "hashtags": "#performance #sitelento #pagespeed #seo #desenvolvimentoweb #sites #tecnologia #macapa"
+  },
+  {
+    "id": "atualizacao-seguranca",
+    "tag": "Segurança",
+    "layout": "big",
+    "statement": "Atualização também é *segurança*.",
+    "subtitle": "Muitas atualizações corrigem *falhas* que já são conhecidas por criminosos. Não deixe para depois.",
+    "caption": "Atualização também é segurança. 🔄\n\nAquele aviso de \"atualização disponível\" muitas vezes traz correções de falhas de segurança que já são conhecidas, inclusive por quem quer explorá-las.\n\n✅ Celular e computador\n✅ Navegador e aplicativos\n✅ Plugins e sistemas do seu site\n\nAtive as atualizações automáticas sempre que possível.",
+    "hashtags": "#atualizacao #seguranca #cybersecurity #ti #tecnologia #dicas #macapa #amapa"
+  },
+  {
+    "id": "golpes-digitais",
+    "tag": "Golpes",
+    "layout": "cards",
+    "title": "Golpes digitais *mais comuns*.",
+    "items": [["📞", "Falso suporte", "\"Sou do banco, confirme seus dados\""], ["👤", "Perfil clonado", "Pede dinheiro se passando por alguém"], ["🧾", "Boleto ou Pix falso", "Dados do recebedor trocados"], ["🔗", "Link falso", "Promoção que leva a site falso"]],
+    "caption": "Conhecer o golpe é o primeiro passo para não cair nele. 🚨\n\n📞 Falso suporte: alguém liga ou manda mensagem se passando pelo banco\n👤 Perfil clonado: usa foto de um conhecido para pedir dinheiro\n🧾 Boleto ou Pix falso: confira sempre o nome do recebedor antes de pagar\n🔗 Link falso: promoção que leva a um site idêntico ao original\n\nNa dúvida, desligue e confirme pelo canal oficial.\n\nCompartilhe para proteger mais gente!",
+    "hashtags": "#golpe #golpedopix #seguranca #fiqueatento #cybersecurity #protecao #macapa #amapa"
+  },
+  {
+    "id": "seo-basico",
+    "tag": "Google",
+    "layout": "list",
+    "title": "SEO básico: apareça no *Google*.",
+    "subtitle": "SEO é o conjunto de práticas para seu site ser encontrado.",
+    "items": ["*Título* claro em cada página", "Textos com as palavras que o cliente *busca*", "Site *rápido* e bom no celular", "*Perfil da Empresa* no Google atualizado", "Endereço com *HTTPS*"],
+    "caption": "SEO é o que ajuda seu site a aparecer no Google. 🔎\n\nO básico que já faz diferença:\n✅ Um título claro em cada página\n✅ Textos que usam as palavras que o cliente realmente pesquisa\n✅ Site rápido e bom no celular\n✅ Perfil da Empresa no Google com endereço, horário e fotos\n✅ HTTPS ativo\n\nSEO é trabalho contínuo, mas começa com esses passos.",
+    "hashtags": "#seo #google #marketingdigital #sites #negociolocal #tecnologia #macapa #amapa"
+  },
+  {
+    "id": "dominio-hospedagem",
+    "tag": "Sites",
+    "layout": "versus",
+    "title": "Domínio x *Hospedagem*.",
+    "left": { "title": "Domínio", "items": ["O *endereço* do site", "Ex.: suaempresa.com.br", "Renovado todo ano"] },
+    "right": { "title": "Hospedagem", "items": ["O *terreno* onde o site fica", "Servidor ligado 24h", "Guarda arquivos e dados"] },
+    "subtitle": "Domínio é o endereço da casa. Hospedagem é o *terreno*.",
+    "caption": "Domínio e hospedagem não são a mesma coisa. 🏠\n\n🔗 Domínio: é o endereço, tipo suaempresa.com.br. No Brasil, os domínios .br são registrados no Registro.br e renovados periodicamente.\n🖥️ Hospedagem: é o servidor onde ficam os arquivos e os dados do site, ligado 24 horas.\n\nPensa assim: o domínio é o endereço da casa, a hospedagem é o terreno onde ela está construída.\n\nSalve para não confundir mais!",
+    "hashtags": "#dominio #hospedagem #sites #internet #registrobr #tecnologia #macapa #amapa"
+  },
+  {
+    "id": "senha-hash",
+    "tag": "Programação",
+    "layout": "terminal",
+    "title": "Senha não se guarda. Se *protege com hash*.",
+    "lines": ["# ERRADO: senha em texto puro", "senha = \"minhasenha123\"", "", "# CERTO: guardar só o hash", "hash = bcrypt(\"minhasenha123\")", "> $2b$12$Xk9...q7Lw", "", "# no login, compara os hashes"],
+    "caption": "Um sistema bem feito nunca guarda a sua senha como ela é. 🔐\n\nEle guarda um \"hash\": uma transformação de mão única. Mesmo que o banco de dados vaze, a senha original não aparece.\n\nNo login, o sistema gera o hash do que você digitou e compara com o guardado.\n\n💡 Algoritmos como bcrypt e Argon2 foram feitos para isso.\n\nSe algum site te manda sua senha por e-mail quando você pede para recuperar, desconfie.",
+    "hashtags": "#programacao #seguranca #hash #bcrypt #backend #dev #cybersecurity #macapa"
+  },
+  {
+    "id": "profissoes-tech",
+    "tag": "Carreira",
+    "layout": "cards",
+    "title": "Profissões da *tecnologia*.",
+    "items": [["🎨", "Front-end", "Telas e experiência do usuário"], ["⚙️", "Back-end", "Servidores, regras e dados"], ["📊", "Dados", "Análise e inteligência"], ["🛡️", "Segurança", "Proteção de sistemas e redes"], ["✏️", "UX/UI", "Design de produtos digitais"], ["🚀", "DevOps", "Deploy, nuvem e automação"]],
+    "caption": "Tecnologia não é só \"programador\". 👩‍💻👨‍💻\n\nAlgumas áreas da TI:\n🎨 Front-end: telas e experiência\n⚙️ Back-end: servidores e regras de negócio\n📊 Dados: análise e inteligência\n🛡️ Segurança: proteção de sistemas\n✏️ UX/UI: design de produtos digitais\n🚀 DevOps: deploy, nuvem e automação\n\nQual dessas mais combina com você?",
+    "hashtags": "#carreiraemti #tecnologia #programacao #ti #ux #dados #devops #macapa"
+  },
+  {
+    "id": "comecar-programar",
+    "tag": "Carreira",
+    "layout": "list",
+    "numbered": true,
+    "title": "Primeiros passos na *programação*.",
+    "items": ["Aprenda *lógica de programação*", "Escolha *uma* linguagem e vá até o fim", "Faça *projetos pequenos* de verdade", "Use *Git e GitHub* desde o início", "Mostre seu trabalho em um *portfólio*"],
+    "caption": "Quer começar a programar? 🚀\n\n1️⃣ Aprenda lógica de programação primeiro\n2️⃣ Escolha uma linguagem e não pule de uma pra outra\n3️⃣ Faça projetos pequenos, mas de verdade\n4️⃣ Use Git e GitHub desde o começo\n5️⃣ Monte um portfólio com o que você fez\n\nConsistência vale mais que velocidade. Uma hora por dia, todo dia, faz muita diferença.\n\nMarque alguém que quer entrar na área!",
+    "hashtags": "#programacao #aprenderaprogramar #carreiraemti #dev #iniciante #tecnologia #estudos #macapa"
+  },
+  {
+    "id": "dados-patrimonio",
+    "tag": "Dados",
+    "layout": "big",
+    "statement": "Dados de clientes são *patrimônio*. E responsabilidade.",
+    "subtitle": "Colete só o necessário, guarde com segurança e saiba *por que* está guardando.",
+    "caption": "Dados de clientes são patrimônio. E também responsabilidade. 📂\n\nCada nome, telefone e endereço guardado precisa de cuidado, e a LGPD exige medidas de segurança para protegê-los.\n\n✅ Colete só o necessário\n✅ Guarde em local seguro, com acesso restrito\n✅ Saiba para que cada dado é usado\n✅ Descarte o que não precisa mais\n\nℹ️ Conteúdo informativo.",
+    "hashtags": "#dados #lgpd #protecaodedados #privacidade #seguranca #gestao #macapa #amapa"
+  },
+  {
+    "id": "lowcode-codigo",
+    "tag": "Tecnologia",
+    "layout": "versus",
+    "title": "No-code x *Código*.",
+    "left": { "title": "No-code", "items": ["Monta *arrastando* blocos", "Rápido para testar ideias", "Limitado à ferramenta"] },
+    "right": { "title": "Código", "items": ["*Liberdade* total", "Escala e integra melhor", "Exige quem saiba programar"] },
+    "subtitle": "Cada um tem seu lugar. O importante é saber *quando* usar cada um.",
+    "caption": "No-code ou código? ⚖️\n\n🧩 No-code: você monta arrastando blocos. Ótimo para testar uma ideia rápido, mas fica limitado ao que a ferramenta permite.\n💻 Código: liberdade total para criar, integrar e crescer, mas exige conhecimento técnico.\n\nMuitos projetos começam no no-code e migram para código quando crescem.\n\nVocê já usou alguma ferramenta no-code?",
+    "hashtags": "#nocode #lowcode #programacao #tecnologia #startup #inovacao #dev #macapa"
+  },
+  {
+    "id": "checklist-lancamento",
+    "tag": "Sites",
+    "layout": "list",
+    "title": "Checklist antes de *lançar* um site.",
+    "items": ["*HTTPS* ativo em todas as páginas", "Testado no *celular*", "Formulários e botões *funcionando*", "*Velocidade* conferida", "*Backup* e Google configurados"],
+    "subtitle": "Lançar com pressa costuma sair caro.",
+    "caption": "Vai lançar um site? Confira antes. ✅\n\n✅ HTTPS ativo em todas as páginas\n✅ Testado em celulares de tamanhos diferentes\n✅ Formulários e botões funcionando de verdade\n✅ Velocidade conferida no PageSpeed\n✅ Backup configurado\n✅ Google Search Console e analytics configurados\n\nSalve este checklist para o seu próximo projeto!",
+    "hashtags": "#sites #desenvolvimentoweb #checklist #lancamento #webdesign #tecnologia #macapa #amapa"
+  },
+  {
+    "id": "ia-cuidados",
+    "tag": "Inteligência Artificial",
+    "layout": "cards",
+    "title": "IA generativa: *4 cuidados*.",
+    "items": [["🔍", "Confira fatos", "A IA pode errar com confiança"], ["🔒", "Dados sensíveis", "Não cole senhas nem dados de clientes"], ["©️", "Direitos", "Atenção a imagens e textos de terceiros"], ["🧠", "Revisão humana", "Use como assistente, não piloto automático"]],
+    "caption": "IA generativa é poderosa, mas pede cuidado. 🤖\n\n🔍 Confira os fatos: a IA pode errar e parecer muito segura\n🔒 Não compartilhe senhas nem dados pessoais de clientes\n©️ Fique atento a direitos de imagens e textos\n🧠 Sempre revise: use como assistente, não como piloto automático\n\nUsada com critério, a IA economiza muito tempo.\n\nQual cuidado você acha mais importante?",
+    "hashtags": "#inteligenciaartificial #ia #iagenerativa #tecnologia #etica #seguranca #inovacao #macapa"
+  },
+  {
+    "id": "automacao",
+    "tag": "Automação",
+    "layout": "terminal",
+    "title": "Automatize o que é *repetitivo*.",
+    "lines": ["# quando chega um pedido novo...", "> salva na planilha     ✓", "> avisa no WhatsApp     ✓", "> gera a nota fiscal    ✓", "> envia o rastreio      ✓", "", "# tempo gasto por você: 0 min"],
+    "caption": "Se você faz a mesma tarefa todo dia, ela provavelmente pode ser automatizada. ⚙️\n\nExemplo de fluxo: chega um pedido novo, e o sistema sozinho:\n✅ Salva na planilha\n✅ Avisa a equipe\n✅ Gera os documentos\n✅ Envia o rastreio para o cliente\n\nAutomação reduz erros e libera tempo para o que realmente importa.\n\nQual tarefa repetitiva você gostaria de automatizar?",
+    "hashtags": "#automacao #produtividade #tecnologia #processos #empreendedorismo #inovacao #macapa #amapa"
+  },
+  {
+    "id": "instagram-protegido",
+    "tag": "Segurança",
+    "layout": "list",
+    "title": "Seu Instagram *protegido*.",
+    "items": ["Ative a *autenticação de dois fatores*", "Revise os *dispositivos conectados*", "Atenção a e-mails \"do Instagram\" *falsos*", "Não compartilhe *códigos* recebidos por SMS", "Use *senha exclusiva* para a conta"],
+    "subtitle": "Perder o perfil é perder clientes, histórico e contatos.",
+    "caption": "Seu Instagram é um patrimônio. Proteja. 📲\n\n✅ Ative a autenticação de dois fatores\n✅ Revise os dispositivos conectados de tempos em tempos\n✅ Cuidado com e-mails e DMs \"do Instagram\" pedindo para clicar em links\n✅ Nunca passe códigos que chegam por SMS\n✅ Use uma senha só para essa conta\n\n💡 Você encontra tudo em Central de Contas > Senha e segurança.\n\nCompartilhe com quem vende pelo Instagram!",
+    "hashtags": "#instagram #seguranca #redessociais #contaprotegida #dicas #empreendedor #macapa #amapa"
+  },
+  {
+    "id": "sql-nosql",
+    "tag": "Banco de dados",
+    "layout": "versus",
+    "title": "SQL x *NoSQL*.",
+    "left": { "title": "SQL", "items": ["Dados em *tabelas*", "Estrutura bem definida", "Ex.: PostgreSQL, MySQL"] },
+    "right": { "title": "NoSQL", "items": ["Dados em *documentos*, chave-valor...", "Estrutura flexível", "Ex.: MongoDB, Redis"] },
+    "subtitle": "A escolha depende do *tipo de dado* e do projeto.",
+    "caption": "SQL ou NoSQL? 🗄️\n\n📋 SQL (relacional): dados em tabelas com colunas bem definidas. Ótimo para vendas, estoque, financeiro. Ex.: PostgreSQL, MySQL, SQL Server.\n📦 NoSQL: dados em documentos, chave-valor ou grafos, com estrutura flexível. Ex.: MongoDB, Redis.\n\nNão existe um melhor: existe o que se encaixa no tipo de dado e no projeto.\n\nQual você usa mais?",
+    "hashtags": "#bancodedados #sql #nosql #postgresql #mongodb #programacao #backend #dev"
+  },
+  {
+    "id": "codigo-legivel",
+    "tag": "Programação",
+    "layout": "big",
+    "statement": "O melhor código é o que *outra pessoa* entende.",
+    "subtitle": "Nomes claros, funções pequenas e *menos esperteza*. Seu eu do futuro agradece.",
+    "caption": "O melhor código é o que outra pessoa consegue entender. 🧠\n\n✅ Nomes claros para variáveis e funções\n✅ Funções pequenas, que fazem uma coisa só\n✅ Comentários explicando o porquê, não o óbvio\n✅ Simplicidade acima de \"truques\"\n\nCódigo é lido muito mais vezes do que é escrito. E muitas vezes quem vai ler é você mesmo, daqui a seis meses.\n\nConcorda? 👇",
+    "hashtags": "#cleancode #programacao #dev #boaspraticas #desenvolvedor #codigo #tecnologia #macapa"
+  },
+  {
+    "id": "ferramentas-dev",
+    "tag": "Ferramentas",
+    "layout": "cards",
+    "title": "Ferramentas *gratuitas* para quem cria.",
+    "items": [["🧑‍💻", "VS Code", "Editor de código leve e completo"], ["🌳", "Git", "Controle de versões do projeto"], ["🐙", "GitHub", "Guarda e publica seus projetos"], ["🎨", "Figma", "Design de telas e protótipos"]],
+    "caption": "Dá pra começar em tecnologia sem gastar com ferramentas. 🛠️\n\n🧑‍💻 VS Code: editor de código gratuito\n🌳 Git: controle de versões\n🐙 GitHub: guarda seus projetos e ainda publica sites estáticos de graça com o GitHub Pages\n🎨 Figma: design de telas, com plano gratuito\n\nSalve e compartilhe com quem está começando!",
+    "hashtags": "#ferramentas #vscode #github #figma #git #programacao #dev #iniciante"
+  },
+  {
+    "id": "ransomware",
+    "tag": "Segurança",
+    "layout": "list",
+    "title": "Ransomware: como se *proteger*.",
+    "subtitle": "É o ataque que sequestra seus arquivos e cobra resgate.",
+    "items": ["*Backups* fora da rede, testados", "Sistemas sempre *atualizados*", "Não abrir *anexos* suspeitos", "*Antivírus* ativo e atualizado", "Cada um acessa só o que *precisa*"],
+    "caption": "Ransomware: o ataque que sequestra seus arquivos. 🔒💰\n\nO criminoso criptografa os dados e cobra um resgate para devolver. E pagar não garante nada.\n\nComo se proteger:\n✅ Backups guardados fora da rede e testados\n✅ Sistemas e programas atualizados\n✅ Não abrir anexos e links suspeitos\n✅ Antivírus ativo\n✅ Cada pessoa com acesso só ao que precisa\n\nPrevenção é sempre mais barata.",
+    "hashtags": "#ransomware #cybersecurity #seguranca #backup #ti #protecaodedados #macapa #amapa"
+  },
+  {
+    "id": "codigos-http",
+    "tag": "Como funciona",
+    "layout": "terminal",
+    "title": "404, 500... o que *significam*?",
+    "lines": ["200  ✓ deu certo", "301  → página mudou de endereço", "403  ✗ acesso negado", "404  ✗ página não encontrada", "500  ✗ erro no servidor", "503  ✗ servidor indisponível", "", "# 2xx ok · 3xx redirect", "# 4xx erro do pedido · 5xx do servidor"],
+    "caption": "Já viu um \"Erro 404\" e ficou sem entender? 🤔\n\nSão os códigos de status HTTP, a forma como o servidor responde:\n✅ 200: deu tudo certo\n➡️ 301: a página mudou de endereço\n⛔ 403: acesso negado\n❓ 404: página não encontrada\n💥 500: erro no servidor\n⏳ 503: servidor indisponível no momento\n\nRegra rápida: 4xx é problema no pedido, 5xx é problema no servidor.\n\nSalve para consultar!",
+    "hashtags": "#http #erro404 #desenvolvimentoweb #programacao #comofunciona #internet #dev #macapa"
+  },
+  {
+    "id": "estrategia",
+    "tag": "Tecnologia",
+    "layout": "big",
+    "statement": "Tecnologia é ferramenta. *Estratégia* é o que dá resultado.",
+    "subtitle": "Antes de escolher a ferramenta, defina o *problema* que você quer resolver.",
+    "caption": "Tecnologia é ferramenta. Estratégia é o que dá resultado. 🎯\n\nNão adianta ter o sistema mais moderno se ele não resolve um problema real.\n\nAntes de investir em qualquer tecnologia, pergunte:\n✅ Qual problema eu quero resolver?\n✅ Como vou medir se deu certo?\n✅ Quem vai usar no dia a dia?\n\nPrimeiro o problema. Depois a ferramenta.",
+    "hashtags": "#estrategia #tecnologia #gestao #inovacao #empreendedorismo #transformacaodigital #macapa #amapa"
+  }
+]

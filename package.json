@@ -1,0 +1,12 @@
+{
+  "name": "robo-posts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gera e publica posts de tecnologia no Instagram @mauricio__oficialll automaticamente.",
+  "scripts": {
+    "preview": "node src/preview.js"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}

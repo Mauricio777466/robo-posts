@@ -1,0 +1,63 @@
+name: Robô de posts
+
+on:
+  # Segunda, quarta e sexta às 19h (horário de Brasília = 22h UTC)
+  schedule:
+    - cron: '0 22 * * 1,3,5'
+  # Permite rodar na mão pela aba Actions
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Modo teste (gera a arte, mas NÃO publica)'
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: robo-posts
+  cancel-in-progress: false
+
+jobs:
+  postar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Instalar dependências
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+          sudo apt-get install -y fonts-noto-color-emoji fonts-dejavu-core
+
+      - name: Gerar a arte do próximo post
+        run: node src/prepare.js
+
+      - name: Salvar a arte no repositório (link público)
+        run: |
+          git config user.name "robo-posts"
+          git config user.email "robo-posts@users.noreply.github.com"
+          git add docs/img
+          git commit -m "Arte: $(node -p "require('./next.json').id")"
+          git push
+          echo "GITHUB_SHA_PUBLISHED=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+
+      - name: Publicar no Instagram
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          DRY_RUN: ${{ inputs.dry_run == true && 'true' || 'false' }}
+        run: node src/publish.js
+
+      - name: Avançar a fila de posts
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          git add content/state.json
+          git commit -m "Publicado: $(node -p "require('./next.json').id")"
+          git push
