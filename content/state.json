@@ -29,7 +29,13 @@
       "type": "reel",
       "mediaId": "18177436645445081",
       "date": "2026-10-07T20:59:23.855Z"
+    },
+    {
+      "id": "sql-intro",
+      "type": "reel",
+      "mediaId": "17960982846000496",
+      "date": "2026-10-08T01:37:59.924Z"
     }
   ],
-  "nextReel": 3
+  "nextReel": 4
 }
