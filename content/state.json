@@ -1,5 +1,5 @@
 {
-  "next": 2,
+  "next": 3,
   "published": [
     {
       "id": "senha-forte",
@@ -35,6 +35,12 @@
       "type": "reel",
       "mediaId": "17960982846000496",
       "date": "2026-10-08T01:37:59.924Z"
+    },
+    {
+      "id": "como-site-abre",
+      "type": "post",
+      "mediaId": "17968592898076363",
+      "date": "2026-10-08T20:34:33.479Z"
     }
   ],
   "nextReel": 4
