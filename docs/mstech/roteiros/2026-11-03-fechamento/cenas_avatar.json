@@ -1,0 +1,78 @@
+{
+  "titulo": "Fechamento do caixa - Santana",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 43.9,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Sumiu dinheiro do caixa e ninguém sabe? Tirou dinheiro do caixa pra pagar fornecedor e esqueceu de anotar. No fechamento ninguém lembra de nada. Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês. No Gestão Comercial, toda sangria e todo suprimento ficam registrados com hora e funcionário. No fechamento você vê na tela quanto tem que ter em dinheiro, PIX e cartão. E você ainda vê o relatório do dia pra saber quanto entrou de verdade. Fechamento em poucos minutos, sem briga e sem caderninho. Manda CAIXA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.5,
+      "fala": "Sumiu dinheiro do caixa e ninguém sabe?",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Sumiu dinheiro do caixa e ninguém sabe?",
+      "fundo_sugerido": "Mão contando notas, cara de preocupação."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.9,
+      "duracao_s": 6.1,
+      "fala": "Tirou dinheiro do caixa pra pagar fornecedor e esqueceu de anotar. No fechamento ninguém lembra de nada.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "Tirou dinheiro do caixa pra pagar fornecedor e esqueceu de a",
+      "fundo_sugerido": "Caderno rabiscado e calculadora."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 9.4,
+      "duracao_s": 5.4,
+      "fala": "Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "Diferenças de dez, vinte reais por dia viram centenas de rea",
+      "fundo_sugerido": "Caderno rabiscado e calculadora."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 15.2,
+      "duracao_s": 10.4,
+      "fala": "No Gestão Comercial, toda sangria e todo suprimento ficam registrados com hora e funcionário. No fechamento você vê na tela quanto tem que ter em dinheiro, PIX e cartão.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "No Gestão Comercial, toda sangria e todo suprimento ficam re",
+      "fundo_sugerido": "Tela de fechamento do Gestão Comercial com os totais por forma de pagamento."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 26.0,
+      "duracao_s": 8.2,
+      "fala": "E você ainda vê o relatório do dia pra saber quanto entrou de verdade. Fechamento em poucos minutos, sem briga e sem caderninho.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "E você ainda vê o relatório do dia pra saber quanto entrou d",
+      "fundo_sugerido": "Tela de fechamento do Gestão Comercial com os totais por forma de pagamento."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 34.6,
+      "duracao_s": 9.3,
+      "fala": "Manda CAIXA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Manda CAIXA pra MS Tech Soluções no direct e veja isso funci",
+      "fundo_sugerido": "Gaveta fechada, sorriso, texto do @ na tela."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "titulo": "Reforma tributária - Macapá",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 48.0,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "A reforma tributária vai chegar no seu balcão. A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar. Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar. Organiza seu comércio agora com o Gestão Comercial: produtos cadastrados, vendas registradas e relatório pro contador. A nota fiscal é a próxima novidade, em breve. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão. Quer testar sete dias grátis? O link está na bio. Ou manda REFORMA no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.9,
+      "fala": "A reforma tributária vai chegar no seu balcão.",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "A reforma tributária vai chegar no seu balcão",
+      "fundo_sugerido": "Texto grande na tela: IBS + CBS."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 3.3,
+      "duracao_s": 8.9,
+      "fala": "A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "A reforma tributária está chegando com o IBS e a CBS, e quem",
+      "fundo_sugerido": "Pilha de papéis e notas bagunçadas."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 12.6,
+      "duracao_s": 5.0,
+      "fala": "Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "Quem deixar pra última hora vai correr, pagar mais caro e ai",
+      "fundo_sugerido": "Pilha de papéis e notas bagunçadas."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 18.0,
+      "duracao_s": 8.9,
+      "fala": "Organiza seu comércio agora com o Gestão Comercial: produtos cadastrados, vendas registradas e relatório pro contador. A nota fiscal é a próxima novidade, em breve.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "Organiza seu comércio agora com o Gestão Comercial: produtos",
+      "fundo_sugerido": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 27.3,
+      "duracao_s": 10.7,
+      "fala": "E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "E quando a nota fiscal chegar ao sistema, em breve, o seu ca",
+      "fundo_sugerido": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 38.4,
+      "duracao_s": 9.6,
+      "fala": "Quer testar sete dias grátis? O link está na bio. Ou manda REFORMA no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Quer testar sete dias grátis? O link está na bio",
+      "fundo_sugerido": "Calendário com o texto: comece agora."
+    }
+  ]
+}

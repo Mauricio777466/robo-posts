@@ -1,0 +1,55 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Viral,Arial Black,88,&H0015CCFA,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,2,60,60,520,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:01.30,Viral,,0,0,0,,{\k10}A {\k49}REFORMA {\k54}TRIBUTÁRIA
+Dialogue: 0,0:00:01.26,0:00:01.93,Viral,,0,0,0,,{\k13}VAI {\k35}CHEGAR {\k11}NO
+Dialogue: 0,0:00:01.89,0:00:03.50,Viral,,0,0,0,,{\k18}SEU {\k44}BALCÃO {\k10}A
+Dialogue: 0,0:00:03.46,0:00:04.77,Viral,,0,0,0,,{\k53}REFORMA {\k54}TRIBUTÁRIA {\k17}ESTÁ
+Dialogue: 0,0:00:04.74,0:00:05.52,Viral,,0,0,0,,{\k46}CHEGANDO {\k21}COM {\k5}O
+Dialogue: 0,0:00:05.48,0:00:06.22,Viral,,0,0,0,,{\k57}IBS {\k5}E {\k5}A
+Dialogue: 0,0:00:06.18,0:00:07.47,Viral,,0,0,0,,{\k65}CBS {\k10}E {\k22}QUEM
+Dialogue: 0,0:00:07.43,0:00:08.21,Viral,,0,0,0,,{\k14}TEM {\k48}CADASTRO {\k8}DE
+Dialogue: 0,0:00:08.17,0:00:09.36,Viral,,0,0,0,,{\k40}PRODUTO {\k60}BAGUNÇADO {\k12}VAI
+Dialogue: 0,0:00:09.33,0:00:10.18,Viral,,0,0,0,,{\k40}SOFRER {\k14}NA {\k24}HORA
+Dialogue: 0,0:00:10.14,0:00:10.87,Viral,,0,0,0,,{\k10}DE {\k10}SE {\k46}ADAPTAR
+Dialogue: 0,0:00:11.65,0:00:12.51,Viral,,0,0,0,,{\k19}QUEM {\k41}DEIXAR {\k19}PRA
+Dialogue: 0,0:00:12.48,0:00:13.22,Viral,,0,0,0,,{\k31}ÚLTIMA {\k22}HORA {\k14}VAI
+Dialogue: 0,0:00:13.18,0:00:14.45,Viral,,0,0,0,,{\k37}CORRER {\k30}PAGAR {\k26}MAIS
+Dialogue: 0,0:00:14.41,0:00:15.11,Viral,,0,0,0,,{\k31}CARO {\k6}E {\k25}AINDA
+Dialogue: 0,0:00:15.07,0:00:17.15,Viral,,0,0,0,,{\k37}ARRISCAR {\k28}ERRAR {\k54}ORGANIZA
+Dialogue: 0,0:00:17.11,0:00:18.15,Viral,,0,0,0,,{\k16}SEU {\k44}COMÉRCIO {\k36}AGORA
+Dialogue: 0,0:00:18.11,0:00:18.67,Viral,,0,0,0,,{\k13}COM {\k4}O {\k31}GESTÃO
+Dialogue: 0,0:00:18.63,0:00:20.77,Viral,,0,0,0,,{\k58}COMERCIAL {\k49}PRODUTOS {\k73}CADASTRADOS
+Dialogue: 0,0:00:20.95,0:00:22.13,Viral,,0,0,0,,{\k41}VENDAS {\k59}REGISTRADAS {\k11}E
+Dialogue: 0,0:00:22.09,0:00:23.27,Viral,,0,0,0,,{\k48}RELATÓRIO {\k13}PRO {\k49}CONTADOR
+Dialogue: 0,0:00:24.05,0:00:25.01,Viral,,0,0,0,,{\k10}A {\k34}NOTA {\k46}FISCAL
+Dialogue: 0,0:00:24.98,0:00:25.58,Viral,,0,0,0,,{\k7}É {\k6}A {\k40}PRÓXIMA
+Dialogue: 0,0:00:25.54,0:00:26.92,Viral,,0,0,0,,{\k62}NOVIDADE {\k13}EM {\k40}BREVE
+Dialogue: 0,0:00:27.70,0:00:28.15,Viral,,0,0,0,,{\k11}E {\k24}QUANDO {\k2}A
+Dialogue: 0,0:00:28.11,0:00:29.22,Viral,,0,0,0,,{\k34}NOTA {\k38}FISCAL {\k31}CHEGAR
+Dialogue: 0,0:00:29.18,0:00:30.21,Viral,,0,0,0,,{\k8}AO {\k54}SISTEMA {\k11}EM
+Dialogue: 0,0:00:30.17,0:00:31.17,Viral,,0,0,0,,{\k39}BREVE {\k6}O {\k19}SEU
+Dialogue: 0,0:00:31.13,0:00:32.06,Viral,,0,0,0,,{\k55}CADASTRO {\k17}JÁ {\k13}VAI
+Dialogue: 0,0:00:32.02,0:00:33.87,Viral,,0,0,0,,{\k29}ESTAR {\k42}PRONTO {\k25}COM
+Dialogue: 0,0:00:33.83,0:00:35.31,Viral,,0,0,0,,{\k24}TUDO {\k62}REGISTRADO {\k23}VOCÊ
+Dialogue: 0,0:00:35.28,0:00:36.07,Viral,,0,0,0,,{\k54}CONVERSA {\k14}COM {\k4}O
+Dialogue: 0,0:00:36.03,0:00:36.91,Viral,,0,0,0,,{\k50}CONTADOR {\k18}COM {\k12}OS
+Dialogue: 0,0:00:36.88,0:00:37.63,Viral,,0,0,0,,{\k36}NÚMEROS {\k8}NA {\k24}MÃO
+Dialogue: 0,0:00:38.41,0:00:39.48,Viral,,0,0,0,,{\k21}QUER {\k41}TESTAR {\k39}SETE
+Dialogue: 0,0:00:39.45,0:00:41.23,Viral,,0,0,0,,{\k25}DIAS {\k54}GRÁTIS {\k10}O
+Dialogue: 0,0:00:41.19,0:00:41.92,Viral,,0,0,0,,{\k34}LINK {\k22}ESTÁ {\k11}NA
+Dialogue: 0,0:00:41.89,0:00:43.54,Viral,,0,0,0,,{\k30}BIO {\k16}OU {\k30}MANDA
+Dialogue: 0,0:00:43.50,0:00:44.77,Viral,,0,0,0,,{\k53}REFORMA {\k11}NO {\k56}DIRECT
+Dialogue: 0,0:00:45.55,0:00:46.11,Viral,,0,0,0,,{\k11}E {\k32}SEGUE {\k5}A
+Dialogue: 0,0:00:46.07,0:00:46.78,Viral,,0,0,0,,{\k29}GENTE {\k13}PRA {\k22}MAIS
+Dialogue: 0,0:00:46.74,0:00:47.47,Viral,,0,0,0,,{\k36}DICAS {\k12}PRO {\k17}SEU
+Dialogue: 0,0:00:47.43,0:00:48.57,Viral,,0,0,0,,{\k49}COMÉRCIO {\k7}EM {\k50}MACAPÁ

@@ -1,0 +1,12 @@
+{
+  "text": "Sumiu dinheiro do caixa e ninguém sabe? <break time=\"0.4s\" /> Tirou dinheiro do caixa pra pagar fornecedor e esqueceu de anotar. No fechamento ninguém lembra de nada. <break time=\"0.4s\" /> Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês. <break time=\"0.4s\" /> No Gestão Comercial, toda sangria e todo suprimento ficam registrados com hora e funcionário. No fechamento você vê na tela quanto tem que ter em dinheiro, PIX e cartão. <break time=\"0.4s\" /> E você ainda vê o relatório do dia pra saber quanto entrou de verdade. Fechamento em poucos minutos, sem briga e sem caderninho. <break time=\"0.4s\" /> Manda CAIXA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.35,
+    "use_speaker_boost": true
+  },
+  "_voice_id": "PREENCHA_NO_CONFIG",
+  "_endpoint": "POST https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
+}

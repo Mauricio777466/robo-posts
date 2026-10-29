@@ -1,0 +1,50 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Viral,Arial Black,88,&H0015CCFA,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,2,60,60,520,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:00.75,Viral,,0,0,0,,{\k28}VOCÊ {\k26}SABE {\k4}O
+Dialogue: 0,0:00:00.71,0:00:01.51,Viral,,0,0,0,,{\k6}QUE {\k58}ACONTECE {\k8}NO
+Dialogue: 0,0:00:01.47,0:00:03.12,Viral,,0,0,0,,{\k18}SEU {\k49}CAIXA {\k8}O
+Dialogue: 0,0:00:03.08,0:00:04.02,Viral,,0,0,0,,{\k53}OPERADOR {\k30}MUDA {\k4}O
+Dialogue: 0,0:00:03.98,0:00:04.70,Viral,,0,0,0,,{\k32}PREÇO {\k12}NA {\k20}HORA
+Dialogue: 0,0:00:04.66,0:00:05.58,Viral,,0,0,0,,{\k10}DE {\k42}PASSAR {\k16}DÁ
+Dialogue: 0,0:00:05.54,0:00:06.80,Viral,,0,0,0,,{\k49}DESCONTO {\k11}PRO {\k59}CONHECIDO
+Dialogue: 0,0:00:07.04,0:00:07.63,Viral,,0,0,0,,{\k7}E {\k29}VOCÊ {\k16}SÓ
+Dialogue: 0,0:00:07.60,0:00:08.42,Viral,,0,0,0,,{\k53}DESCOBRE {\k19}QUANDO {\k2}O
+Dialogue: 0,0:00:08.38,0:00:10.17,Viral,,0,0,0,,{\k32}LUCRO {\k43}SOME {\k14}UM
+Dialogue: 0,0:00:10.13,0:00:11.38,Viral,,0,0,0,,{\k49}DESCONTO {\k29}AQUI {\k12}UM
+Dialogue: 0,0:00:11.35,0:00:12.41,Viral,,0,0,0,,{\k31}PREÇO {\k38}TROCADO {\k29}ALI
+Dialogue: 0,0:00:12.68,0:00:13.15,Viral,,0,0,0,,{\k8}E {\k11}NO {\k20}FIM
+Dialogue: 0,0:00:13.11,0:00:13.63,Viral,,0,0,0,,{\k11}DO {\k22}MÊS {\k12}O
+Dialogue: 0,0:00:13.59,0:00:14.64,Viral,,0,0,0,,{\k55}PREJUÍZO {\k5}É {\k37}GRANDE
+Dialogue: 0,0:00:14.60,0:00:15.33,Viral,,0,0,0,,{\k1}E {\k35}NINGUÉM {\k29}SABE
+Dialogue: 0,0:00:15.29,0:00:17.08,Viral,,0,0,0,,{\k47}EXPLICAR {\k10}O {\k34}GESTÃO
+Dialogue: 0,0:00:17.04,0:00:18.39,Viral,,0,0,0,,{\k58}COMERCIAL {\k23}FAZ {\k47}BACKUP
+Dialogue: 0,0:00:18.35,0:00:19.65,Viral,,0,0,0,,{\k64}AUTOMÁTICO {\k30}TODO {\k29}DIA
+Dialogue: 0,0:00:20.43,0:00:21.36,Viral,,0,0,0,,{\k19}SE {\k4}O {\k62}COMPUTADOR
+Dialogue: 0,0:00:21.32,0:00:22.53,Viral,,0,0,0,,{\k16}DER {\k52}PROBLEMA {\k23}SEUS
+Dialogue: 0,0:00:22.49,0:00:23.86,Viral,,0,0,0,,{\k31}DADOS {\k30}ESTÃO {\k68}GUARDADOS
+Dialogue: 0,0:00:24.64,0:00:25.59,Viral,,0,0,0,,{\k29}MAIS {\k46}CONTROLE {\k13}PRA
+Dialogue: 0,0:00:25.55,0:00:26.18,Viral,,0,0,0,,{\k26}VOCÊ {\k5}E {\k24}MAIS
+Dialogue: 0,0:00:26.14,0:00:27.41,Viral,,0,0,0,,{\k73}TRANQUILIDADE {\k12}PRA {\k34}EQUIPE
+Dialogue: 0,0:00:27.37,0:00:29.34,Viral,,0,0,0,,{\k32}HONESTA {\k47}TRABALHAR {\k29}VOCÊ
+Dialogue: 0,0:00:29.30,0:00:29.99,Viral,,0,0,0,,{\k42}DEFINE {\k5}O {\k14}QUE
+Dialogue: 0,0:00:29.95,0:00:31.04,Viral,,0,0,0,,{\k24}CADA {\k54}FUNCIONÁRIO {\k23}PODE
+Dialogue: 0,0:00:31.00,0:00:31.96,Viral,,0,0,0,,{\k36}FAZER {\k4}E {\k49}CONFERE
+Dialogue: 0,0:00:31.92,0:00:34.02,Viral,,0,0,0,,{\k28}TUDO {\k56}DEPOIS {\k36}MANDA
+Dialogue: 0,0:00:33.98,0:00:35.05,Viral,,0,0,0,,{\k43}SEGURO {\k10}NO {\k47}DIRECT
+Dialogue: 0,0:00:35.01,0:00:35.33,Viral,,0,0,0,,{\k6}QUE {\k7}EU {\k11}TE
+Dialogue: 0,0:00:35.29,0:00:36.47,Viral,,0,0,0,,{\k42}MOSTRO {\k59}FUNCIONANDO {\k10}NA
+Dialogue: 0,0:00:36.43,0:00:38.06,Viral,,0,0,0,,{\k24}SUA {\k38}LOJA {\k11}E
+Dialogue: 0,0:00:38.02,0:00:38.73,Viral,,0,0,0,,{\k30}SEGUE {\k5}A {\k29}GENTE
+Dialogue: 0,0:00:38.69,0:00:39.48,Viral,,0,0,0,,{\k12}PRA {\k22}MAIS {\k39}DICAS
+Dialogue: 0,0:00:39.45,0:00:40.30,Viral,,0,0,0,,{\k12}PRO {\k16}SEU {\k50}COMÉRCIO
+Dialogue: 0,0:00:40.26,0:00:40.97,Viral,,0,0,0,,{\k6}EM {\k59}SANTANA

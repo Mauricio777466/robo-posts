@@ -1,0 +1,31 @@
+ROTEIRO REELS - REFORMA TRIBUTÁRIA
+Duração estimada: 47 segundos | Palavra do direct: REFORMA
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Seu contador já te falou da reforma?
+TELA: Texto grande na tela: IBS + CBS.
+
+[02.9s - 11.8s] DOR  (tom: preocupação)
+FALA: A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar.
+TELA: Pilha de papéis e notas bagunçadas.
+
+[12.2s - 17.2s] O PREJUÍZO  (tom: seriedade)
+FALA: Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar.
+TELA: Pilha de papéis e notas bagunçadas.
+
+[17.6s - 27.2s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: A MS Tech Soluções implanta o Gestão Comercial e ajuda a deixar o cadastro em ordem agora, com calma. A nota fiscal no sistema vem em breve.
+TELA: Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.
+
+[27.6s - 38.3s] O RESULTADO  (tom: alegria)
+FALA: Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto.
+TELA: Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.
+
+[38.7s - 47.3s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda REFORMA no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Calendário com o texto: comece agora.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Seu contador já te falou da reforma? A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar. Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar. A MS Tech Soluções implanta o Gestão Comercial e ajuda a deixar o cadastro em ordem agora, com calma. A nota fiscal no sistema vem em breve. Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Manda REFORMA no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Macapá.

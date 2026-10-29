@@ -1,0 +1,78 @@
+{
+  "titulo": "Novidades do Gestão Comercial - Santana",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 48.1,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Seu sistema parou no tempo? Você paga por um sistema e, quando pede uma melhoria, ninguém responde. Fica tudo do mesmo jeito por anos. E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente. O Gestão Comercial da MS Tech Soluções recebe atualização direto no computador. Já chegaram o Caixa Rápido, o app do dono e o app do vendedor. E a nota fiscal vem em breve. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Me chama no WhatsApp (96) 98115-7991 e fala NOVIDADE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 1.8,
+      "fala": "Seu sistema parou no tempo?",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Seu sistema parou no tempo?",
+      "fundo_sugerido": "Tela de 'Atualizações' do Gestão Comercial."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.2,
+      "duracao_s": 6.8,
+      "fala": "Você paga por um sistema e, quando pede uma melhoria, ninguém responde. Fica tudo do mesmo jeito por anos.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "Você paga por um sistema e, quando pede uma melhoria, ningué",
+      "fundo_sugerido": "Computador velho com sistema travado."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 9.4,
+      "duracao_s": 5.7,
+      "fala": "E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "E sistema parado custa caro: você perde tempo, perde venda e",
+      "fundo_sugerido": "Computador velho com sistema travado."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 15.5,
+      "duracao_s": 11.8,
+      "fala": "O Gestão Comercial da MS Tech Soluções recebe atualização direto no computador. Já chegaram o Caixa Rápido, o app do dono e o app do vendedor. E a nota fiscal vem em breve.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "O Gestão Comercial da MS Tech Soluções recebe atualização di",
+      "fundo_sugerido": "Montagem: Caixa Rápido, app do dono e app do vendedor."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 27.7,
+      "duracao_s": 10.0,
+      "fala": "Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Você acompanha as mudanças sem trocar de sistema e sem dor d",
+      "fundo_sugerido": "Montagem: Caixa Rápido, app do dono e app do vendedor."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 38.1,
+      "duracao_s": 10.0,
+      "fala": "Me chama no WhatsApp (96) 98115-7991 e fala NOVIDADE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Me chama no WhatsApp (96) 98115-7991 e fala NOVIDADE",
+      "fundo_sugerido": "Selo EM BREVE: nota fiscal."
+    }
+  ]
+}

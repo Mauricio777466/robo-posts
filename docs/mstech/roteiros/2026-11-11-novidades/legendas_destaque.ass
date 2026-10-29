@@ -1,0 +1,54 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Viral,Arial Black,88,&H0015CCFA,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,2,60,60,520,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:00.68,Viral,,0,0,0,,{\k11}O {\k17}QUE {\k23}VEM
+Dialogue: 0,0:00:00.64,0:00:01.16,Viral,,0,0,0,,{\k14}POR {\k22}AÍ {\k8}NO
+Dialogue: 0,0:00:01.12,0:00:03.43,Viral,,0,0,0,,{\k40}GESTÃO {\k71}COMERCIAL {\k31}MUITO
+Dialogue: 0,0:00:03.39,0:00:04.45,Viral,,0,0,0,,{\k46}COMÉRCIO {\k5}EM {\k48}SANTANA
+Dialogue: 0,0:00:04.41,0:00:05.52,Viral,,0,0,0,,{\k31}AINDA {\k22}USA {\k50}SISTEMA
+Dialogue: 0,0:00:05.48,0:00:06.46,Viral,,0,0,0,,{\k12}QUE {\k35}NUNCA {\k43}RECEBE
+Dialogue: 0,0:00:06.42,0:00:08.18,Viral,,0,0,0,,{\k55}MELHORIA {\k11}A {\k20}LEI
+Dialogue: 0,0:00:08.14,0:00:09.31,Viral,,0,0,0,,{\k38}MUDA {\k7}O {\k43}CLIENTE
+Dialogue: 0,0:00:09.27,0:00:10.09,Viral,,0,0,0,,{\k37}MUDA {\k8}E {\k5}O
+Dialogue: 0,0:00:10.05,0:00:11.38,Viral,,0,0,0,,{\k45}PROGRAMA {\k49}CONTINUA {\k32}IGUAL
+Dialogue: 0,0:00:12.16,0:00:13.20,Viral,,0,0,0,,{\k11}E {\k46}SISTEMA {\k40}PARADO
+Dialogue: 0,0:00:13.16,0:00:14.44,Viral,,0,0,0,,{\k30}CUSTA {\k30}CARO {\k29}VOCÊ
+Dialogue: 0,0:00:14.40,0:00:15.83,Viral,,0,0,0,,{\k39}PERDE {\k36}TEMPO {\k34}PERDE
+Dialogue: 0,0:00:15.79,0:00:16.50,Viral,,0,0,0,,{\k32}VENDA {\k4}E {\k28}FICA
+Dialogue: 0,0:00:16.47,0:00:17.09,Viral,,0,0,0,,{\k18}PRA {\k26}TRÁS {\k11}DO
+Dialogue: 0,0:00:17.06,0:00:19.26,Viral,,0,0,0,,{\k64}CONCORRENTE {\k13}A {\k54}MS
+Dialogue: 0,0:00:19.22,0:00:20.16,Viral,,0,0,0,,{\k19}TECH {\k54}SOLUÇÕES {\k13}É
+Dialogue: 0,0:00:20.12,0:00:21.00,Viral,,0,0,0,,{\k29}DAQUI {\k11}DO {\k41}AMAPÁ
+Dialogue: 0,0:00:20.96,0:00:21.50,Viral,,0,0,0,,{\k5}E {\k40}ESCUTA {\k2}O
+Dialogue: 0,0:00:21.47,0:00:23.58,Viral,,0,0,0,,{\k60}LOJISTA {\k26}CADA {\k36}PEDIDO
+Dialogue: 0,0:00:23.55,0:00:24.38,Viral,,0,0,0,,{\k22}VIRA {\k46}MELHORIA {\k8}NO
+Dialogue: 0,0:00:24.34,0:00:25.81,Viral,,0,0,0,,{\k36}GESTÃO {\k65}COMERCIAL {\k10}E
+Dialogue: 0,0:00:25.77,0:00:26.31,Viral,,0,0,0,,{\k21}QUEM {\k17}JÁ {\k10}É
+Dialogue: 0,0:00:26.27,0:00:27.31,Viral,,0,0,0,,{\k48}CLIENTE {\k46}RECEBE {\k2}A
+Dialogue: 0,0:00:27.27,0:00:29.11,Viral,,0,0,0,,{\k70}ATUALIZAÇÃO {\k11}E {\k14}TEM
+Dialogue: 0,0:00:29.08,0:00:30.30,Viral,,0,0,0,,{\k49}SUPORTE {\k34}DAQUI {\k14}QUE
+Dialogue: 0,0:00:30.26,0:00:30.87,Viral,,0,0,0,,{\k28}FALA {\k2}A {\k23}SUA
+Dialogue: 0,0:00:30.83,0:00:31.72,Viral,,0,0,0,,{\k32}LÍNGUA {\k4}E {\k46}CONHECE
+Dialogue: 0,0:00:31.68,0:00:32.37,Viral,,0,0,0,,{\k2}O {\k49}COMÉRCIO {\k10}DA
+Dialogue: 0,0:00:32.33,0:00:34.54,Viral,,0,0,0,,{\k47}REGIÃO {\k29}VOCÊ {\k56}ACOMPANHA
+Dialogue: 0,0:00:34.51,0:00:35.34,Viral,,0,0,0,,{\k7}AS {\k53}MUDANÇAS {\k16}SEM
+Dialogue: 0,0:00:35.30,0:00:36.36,Viral,,0,0,0,,{\k37}TROCAR {\k10}DE {\k52}SISTEMA
+Dialogue: 0,0:00:36.32,0:00:36.95,Viral,,0,0,0,,{\k5}E {\k24}SEM {\k26}DOR
+Dialogue: 0,0:00:36.91,0:00:38.72,Viral,,0,0,0,,{\k8}DE {\k49}CABEÇA {\k34}MANDA
+Dialogue: 0,0:00:38.68,0:00:39.85,Viral,,0,0,0,,{\k54}NOVIDADE {\k7}NO {\k48}DIRECT
+Dialogue: 0,0:00:39.81,0:00:40.16,Viral,,0,0,0,,{\k6}QUE {\k8}EU {\k13}TE
+Dialogue: 0,0:00:40.12,0:00:41.29,Viral,,0,0,0,,{\k41}MOSTRO {\k59}FUNCIONANDO {\k10}NA
+Dialogue: 0,0:00:41.25,0:00:42.87,Viral,,0,0,0,,{\k24}SUA {\k38}LOJA {\k11}E
+Dialogue: 0,0:00:42.84,0:00:43.55,Viral,,0,0,0,,{\k30}SEGUE {\k5}A {\k29}GENTE
+Dialogue: 0,0:00:43.51,0:00:44.30,Viral,,0,0,0,,{\k12}PRA {\k22}MAIS {\k39}DICAS
+Dialogue: 0,0:00:44.27,0:00:45.12,Viral,,0,0,0,,{\k12}PRO {\k16}SEU {\k51}COMÉRCIO
+Dialogue: 0,0:00:45.08,0:00:45.79,Viral,,0,0,0,,{\k6}EM {\k59}SANTANA

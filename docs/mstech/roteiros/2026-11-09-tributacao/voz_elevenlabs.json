@@ -1,0 +1,12 @@
+{
+  "text": "IBS e CBS: seu comércio já ouviu falar? <break time=\"0.4s\" /> Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa. <break time=\"0.4s\" /> Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar. <break time=\"0.4s\" /> Organiza seu comércio agora com o Gestão Comercial: produtos cadastrados, vendas registradas e relatório pro contador. A nota fiscal é a próxima novidade, em breve. <break time=\"0.4s\" /> Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. <break time=\"0.4s\" /> Comenta REFORMA aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.35,
+    "use_speaker_boost": true
+  },
+  "_voice_id": "PREENCHA_NO_CONFIG",
+  "_endpoint": "POST https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
+}

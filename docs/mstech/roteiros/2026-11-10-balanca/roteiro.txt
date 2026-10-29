@@ -1,0 +1,31 @@
+ROTEIRO REELS - ETIQUETA DA BALANÇA NO CAIXA
+Duração estimada: 45 segundos | Palavra do direct: BALANÇA
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Bipou a etiqueta, já saiu o valor.
+TELA: Close na etiqueta da balança sendo bipada.
+
+[02.9s - 11.1s] DOR  (tom: preocupação)
+FALA: No açougue ou na padaria, o operador lê o peso na etiqueta e digita na mão. Um número errado e você perde dinheiro.
+TELA: Operador digitando o peso devagar.
+
+[11.5s - 18.3s] O PREJUÍZO  (tom: seriedade)
+FALA: Um erro de cem gramas por venda parece pouco, mas no fim do mês vira um prejuízo que dói.
+TELA: Operador digitando o peso devagar.
+
+[18.7s - 25.8s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Gestão Comercial lê a etiqueta da balança direto no leitor do caixa: produto e valor certinhos, sem digitar nada.
+TELA: Produto pesado aparecendo sozinho na tela do caixa.
+
+[26.2s - 35.5s] O RESULTADO  (tom: alegria)
+FALA: Mais rapidez no caixa e o valor sempre certo, pra você e pro cliente. Serve pra açougue, padaria, hortifrúti e tudo que sai pesado na balança.
+TELA: Produto pesado aparecendo sozinho na tela do caixa.
+
+[35.9s - 45.2s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda BALANÇA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Balança com o @ da MS Tech.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Bipou a etiqueta, já saiu o valor. No açougue ou na padaria, o operador lê o peso na etiqueta e digita na mão. Um número errado e você perde dinheiro. Um erro de cem gramas por venda parece pouco, mas no fim do mês vira um prejuízo que dói. O Gestão Comercial lê a etiqueta da balança direto no leitor do caixa: produto e valor certinhos, sem digitar nada. Mais rapidez no caixa e o valor sempre certo, pra você e pro cliente. Serve pra açougue, padaria, hortifrúti e tudo que sai pesado na balança. Manda BALANÇA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.

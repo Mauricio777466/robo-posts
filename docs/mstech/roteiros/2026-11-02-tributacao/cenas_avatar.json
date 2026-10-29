@@ -1,0 +1,78 @@
+{
+  "titulo": "Reforma tributária - Macapá",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 43.4,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Seu contador já te falou da reforma? Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa. E o seu contador vai precisar de informação organizada, não de uma caixa de sapato cheia de papel. Organiza seu comércio agora com o Gestão Comercial: produtos cadastrados, vendas registradas e relatório pro contador. A nota fiscal é a próxima novidade, em breve. Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Comenta REFORMA aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.5,
+      "fala": "Seu contador já te falou da reforma?",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Seu contador já te falou da reforma?",
+      "fundo_sugerido": "Texto grande na tela: IBS + CBS."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.9,
+      "duracao_s": 5.0,
+      "fala": "Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "Muito comerciante em Macapá vai deixar pra última hora e pag",
+      "fundo_sugerido": "Pilha de papéis e notas bagunçadas."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 8.3,
+      "duracao_s": 6.4,
+      "fala": "E o seu contador vai precisar de informação organizada, não de uma caixa de sapato cheia de papel.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "E o seu contador vai precisar de informação organizada, não ",
+      "fundo_sugerido": "Pilha de papéis e notas bagunçadas."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 15.1,
+      "duracao_s": 8.9,
+      "fala": "Organiza seu comércio agora com o Gestão Comercial: produtos cadastrados, vendas registradas e relatório pro contador. A nota fiscal é a próxima novidade, em breve.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "Organiza seu comércio agora com o Gestão Comercial: produtos",
+      "fundo_sugerido": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 24.4,
+      "duracao_s": 10.7,
+      "fala": "Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Com tudo registrado, você conversa com o contador com os núm",
+      "fundo_sugerido": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 35.5,
+      "duracao_s": 7.9,
+      "fala": "Comenta REFORMA aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Comenta REFORMA aqui embaixo que eu te chamo no direct",
+      "fundo_sugerido": "Calendário com o texto: comece agora."
+    }
+  ]
+}

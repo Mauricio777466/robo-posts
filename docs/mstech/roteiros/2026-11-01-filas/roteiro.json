@@ -1,0 +1,62 @@
+{
+  "id": "20261029-162724-filas-300214",
+  "tema": "filas",
+  "titulo_tema": "Fila no caixa",
+  "palavra_direct": "FILA",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Sabe quanto você perde no horário de pico?",
+      "segundos": 2.9,
+      "visual": "Close na fila do caixa ou cesta largada no chão.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Sábado de manhã em Santana: um caixa só, dez pessoas esperando, e tem cliente largando a cesta e indo pro concorrente.",
+      "segundos": 7.5,
+      "visual": "Relógio na parede, cliente impaciente olhando o celular.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "E cliente que vai embora irritado conta pros amigos. Você perde a venda de hoje e a de amanhã.",
+      "segundos": 6.8,
+      "visual": "Relógio na parede, cliente impaciente olhando o celular.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "Coloca um Caixa Rápido do lado do balcão: quem leva pouca coisa paga sozinho em segundos, e seu operador cuida das compras grandes.",
+      "segundos": 8.2,
+      "visual": "Tela do Caixa Rápido: leitor, lista de produtos e QR do PIX.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "E o melhor: a venda entra no sistema na hora, com estoque e caixa batendo certinho. Resultado: fila menor, cliente satisfeito e o seu operador livre pra atender quem precisa.",
+      "segundos": 10.7,
+      "visual": "Tela do Caixa Rápido: leitor, lista de produtos e QR do PIX.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Manda FILA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 9.3,
+      "visual": "Você apontando para a tela com o @ da MS Tech.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    3,
+    0,
+    0,
+    2,
+    1,
+    4
+  ],
+  "criado_em": "2026-10-29T16:27:24",
+  "narracao": "Sabe quanto você perde no horário de pico? Sábado de manhã em Santana: um caixa só, dez pessoas esperando, e tem cliente largando a cesta e indo pro concorrente. E cliente que vai embora irritado conta pros amigos. Você perde a venda de hoje e a de amanhã. Coloca um Caixa Rápido do lado do balcão: quem leva pouca coisa paga sozinho em segundos, e seu operador cuida das compras grandes. E o melhor: a venda entra no sistema na hora, com estoque e caixa batendo certinho. Resultado: fila menor, cliente satisfeito e o seu operador livre pra atender quem precisa. Manda FILA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 47.4
+}

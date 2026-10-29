@@ -1,0 +1,31 @@
+ROTEIRO REELS - CONTROLE DE ESTOQUE
+Duração estimada: 37 segundos | Palavra do direct: ESTOQUE
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Comprou de novo o que ainda tinha?
+TELA: Prateleira vazia.
+
+[02.9s - 08.3s] DOR  (tom: preocupação)
+FALA: O cliente pede, você jura que tinha, vai procurar e acabou. Ele compra no vizinho.
+TELA: Depósito cheio do produto errado.
+
+[08.7s - 13.3s] O PREJUÍZO  (tom: seriedade)
+FALA: E produto em falta faz o cliente se acostumar a comprar no concorrente.
+TELA: Depósito cheio do produto errado.
+
+[13.7s - 18.7s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Gestão Comercial junta caixa e estoque no mesmo lugar: vendeu, baixou. Simples assim.
+TELA: Tela de produtos do Gestão Comercial com a quantidade em estoque.
+
+[19.1s - 27.0s] O RESULTADO  (tom: alegria)
+FALA: Tudo no mesmo sistema do caixa, sem planilha separada. Você compra melhor, gasta menos e não deixa faltar o que mais vende.
+TELA: Tela de produtos do Gestão Comercial com a quantidade em estoque.
+
+[27.4s - 37.4s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Me chama no WhatsApp (96) 98115-7991 e fala ESTOQUE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Prateleira cheia com o @ da MS Tech.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Comprou de novo o que ainda tinha? O cliente pede, você jura que tinha, vai procurar e acabou. Ele compra no vizinho. E produto em falta faz o cliente se acostumar a comprar no concorrente. O Gestão Comercial junta caixa e estoque no mesmo lugar: vendeu, baixou. Simples assim. Tudo no mesmo sistema do caixa, sem planilha separada. Você compra melhor, gasta menos e não deixa faltar o que mais vende. Me chama no WhatsApp (96) 98115-7991 e fala ESTOQUE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.

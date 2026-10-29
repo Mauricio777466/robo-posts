@@ -1,0 +1,62 @@
+{
+  "id": "20261029-163000-tributacao-020201",
+  "tema": "tributacao",
+  "titulo_tema": "Reforma tributária",
+  "palavra_direct": "REFORMA",
+  "cidade": "Macapá",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "IBS e CBS: seu comércio já ouviu falar?",
+      "segundos": 2.9,
+      "visual": "Texto grande na tela: IBS + CBS.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa.",
+      "segundos": 5.0,
+      "visual": "Pilha de papéis e notas bagunçadas.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar.",
+      "segundos": 5.0,
+      "visual": "Pilha de papéis e notas bagunçadas.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "Organiza seu comércio agora com o Gestão Comercial: produtos cadastrados, vendas registradas e relatório pro contador. A nota fiscal é a próxima novidade, em breve.",
+      "segundos": 8.9,
+      "visual": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto.",
+      "segundos": 10.7,
+      "visual": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Comenta REFORMA aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "segundos": 7.9,
+      "visual": "Calendário com o texto: comece agora.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    0,
+    2,
+    0,
+    2,
+    0,
+    1
+  ],
+  "criado_em": "2026-10-29T16:30:00",
+  "narracao": "IBS e CBS: seu comércio já ouviu falar? Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa. Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar. Organiza seu comércio agora com o Gestão Comercial: produtos cadastrados, vendas registradas e relatório pro contador. A nota fiscal é a próxima novidade, em breve. Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Comenta REFORMA aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "duracao_estimada_s": 42.4
+}

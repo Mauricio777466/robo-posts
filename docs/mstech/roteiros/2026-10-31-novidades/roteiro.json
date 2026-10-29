@@ -1,0 +1,62 @@
+{
+  "id": "20261029-162702-novidades-110003",
+  "tema": "novidades",
+  "titulo_tema": "Novidades do Gestão Comercial",
+  "palavra_direct": "NOVIDADE",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Seu sistema parou no tempo?",
+      "segundos": 1.8,
+      "visual": "Tela de 'Atualizações' do Gestão Comercial.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Você paga por um sistema e, quando pede uma melhoria, ninguém responde. Fica tudo do mesmo jeito por anos.",
+      "segundos": 6.8,
+      "visual": "Computador velho com sistema travado.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente.",
+      "segundos": 5.7,
+      "visual": "Computador velho com sistema travado.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "O Gestão Comercial da MS Tech Soluções recebe atualização direto no computador. Já chegaram o Caixa Rápido, o app do dono e o app do vendedor. E a nota fiscal vem em breve.",
+      "segundos": 11.8,
+      "visual": "Montagem: Caixa Rápido, app do dono e app do vendedor.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região.",
+      "segundos": 10.0,
+      "visual": "Montagem: Caixa Rápido, app do dono e app do vendedor.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Me chama no WhatsApp (96) 98115-7991 e fala NOVIDADE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 10.0,
+      "visual": "Selo EM BREVE: nota fiscal.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    1,
+    1,
+    0,
+    0,
+    0,
+    3
+  ],
+  "criado_em": "2026-10-29T16:27:02",
+  "narracao": "Seu sistema parou no tempo? Você paga por um sistema e, quando pede uma melhoria, ninguém responde. Fica tudo do mesmo jeito por anos. E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente. O Gestão Comercial da MS Tech Soluções recebe atualização direto no computador. Já chegaram o Caixa Rápido, o app do dono e o app do vendedor. E a nota fiscal vem em breve. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Me chama no WhatsApp (96) 98115-7991 e fala NOVIDADE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 48.1
+}

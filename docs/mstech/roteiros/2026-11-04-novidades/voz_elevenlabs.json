@@ -1,0 +1,12 @@
+{
+  "text": "Sistema bom é sistema que evolui. <break time=\"0.4s\" /> Muito comércio em Santana ainda usa sistema que nunca recebe melhoria. A lei muda, o cliente muda, e o programa continua igual. <break time=\"0.4s\" /> Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa. <break time=\"0.4s\" /> A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização. <break time=\"0.4s\" /> Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. <break time=\"0.4s\" /> Manda NOVIDADE no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.35,
+    "use_speaker_boost": true
+  },
+  "_voice_id": "PREENCHA_NO_CONFIG",
+  "_endpoint": "POST https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
+}

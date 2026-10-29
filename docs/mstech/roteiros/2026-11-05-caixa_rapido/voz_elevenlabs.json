@@ -1,0 +1,12 @@
+{
+  "text": "O cliente passa e paga sozinho. <break time=\"0.4s\" /> No horário de almoço todo mundo quer pagar rápido, e seu único caixa não dá conta. <break time=\"0.4s\" /> E contratar mais gente pesa na folha de pagamento todo mês. <break time=\"0.4s\" /> O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem. <break time=\"0.4s\" /> O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria. <break time=\"0.4s\" /> Me chama no WhatsApp (96) 98115-7991 e fala RÁPIDO. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.35,
+    "use_speaker_boost": true
+  },
+  "_voice_id": "PREENCHA_NO_CONFIG",
+  "_endpoint": "POST https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
+}

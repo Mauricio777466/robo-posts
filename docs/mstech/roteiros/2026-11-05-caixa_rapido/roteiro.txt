@@ -1,0 +1,31 @@
+ROTEIRO REELS - CAIXA RÁPIDO (AUTOATENDIMENTO)
+Duração estimada: 40 segundos | Palavra do direct: RÁPIDO
+============================================================
+
+[00.0s - 02.1s] GANCHO  (tom: surpresa)
+FALA: O cliente passa e paga sozinho.
+TELA: Cliente passando produto no leitor do Caixa Rápido.
+
+[02.5s - 08.2s] DOR  (tom: preocupação)
+FALA: No horário de almoço todo mundo quer pagar rápido, e seu único caixa não dá conta.
+TELA: Fila no balcão no horário de almoço.
+
+[08.6s - 12.5s] O PREJUÍZO  (tom: seriedade)
+FALA: E contratar mais gente pesa na folha de pagamento todo mês.
+TELA: Fila no balcão no horário de almoço.
+
+[12.9s - 22.5s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem.
+TELA: Tela do PIX com QR e a tela de compra aprovada.
+
+[22.9s - 29.7s] O RESULTADO  (tom: alegria)
+FALA: O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria.
+TELA: Tela do PIX com QR e a tela de compra aprovada.
+
+[30.1s - 40.1s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Me chama no WhatsApp (96) 98115-7991 e fala RÁPIDO. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Cupom saindo da impressora.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+O cliente passa e paga sozinho. No horário de almoço todo mundo quer pagar rápido, e seu único caixa não dá conta. E contratar mais gente pesa na folha de pagamento todo mês. O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem. O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria. Me chama no WhatsApp (96) 98115-7991 e fala RÁPIDO. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.

@@ -1,0 +1,53 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Viral,Arial Black,88,&H0015CCFA,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,2,60,60,520,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:01.15,Viral,,0,0,0,,{\k40}BIPOU {\k5}A {\k53}ETIQUETA
+Dialogue: 0,0:00:01.36,0:00:02.02,Viral,,0,0,0,,{\k19}JÁ {\k37}SAIU {\k2}O
+Dialogue: 0,0:00:01.98,0:00:03.86,Viral,,0,0,0,,{\k36}VALOR {\k14}NO {\k48}AÇOUGUE
+Dialogue: 0,0:00:03.82,0:00:04.52,Viral,,0,0,0,,{\k5}OU {\k10}NA {\k48}PADARIA
+Dialogue: 0,0:00:04.76,0:00:05.57,Viral,,0,0,0,,{\k7}O {\k50}OPERADOR {\k16}LÊ
+Dialogue: 0,0:00:05.53,0:00:06.12,Viral,,0,0,0,,{\k7}O {\k34}PESO {\k11}NA
+Dialogue: 0,0:00:06.08,0:00:07.13,Viral,,0,0,0,,{\k50}ETIQUETA {\k4}E {\k43}DIGITA
+Dialogue: 0,0:00:07.09,0:00:08.51,Viral,,0,0,0,,{\k10}NA {\k28}MÃO {\k16}UM
+Dialogue: 0,0:00:08.47,0:00:09.32,Viral,,0,0,0,,{\k30}NÚMERO {\k43}ERRADO {\k4}E
+Dialogue: 0,0:00:09.28,0:00:10.39,Viral,,0,0,0,,{\k26}VOCÊ {\k36}PERDE {\k41}DINHEIRO
+Dialogue: 0,0:00:11.17,0:00:11.81,Viral,,0,0,0,,{\k22}UM {\k24}ERRO {\k11}DE
+Dialogue: 0,0:00:11.77,0:00:12.69,Viral,,0,0,0,,{\k26}CEM {\k41}GRAMAS {\k18}POR
+Dialogue: 0,0:00:12.66,0:00:13.74,Viral,,0,0,0,,{\k29}VENDA {\k35}PARECE {\k37}POUCO
+Dialogue: 0,0:00:13.99,0:00:14.59,Viral,,0,0,0,,{\k22}MAS {\k10}NO {\k22}FIM
+Dialogue: 0,0:00:14.56,0:00:15.23,Viral,,0,0,0,,{\k12}DO {\k30}MÊS {\k18}VIRA
+Dialogue: 0,0:00:15.19,0:00:16.00,Viral,,0,0,0,,{\k6}UM {\k57}PREJUÍZO {\k11}QUE
+Dialogue: 0,0:00:15.96,0:00:17.55,Viral,,0,0,0,,{\k25}DÓI {\k11}O {\k34}GESTÃO
+Dialogue: 0,0:00:17.51,0:00:18.40,Viral,,0,0,0,,{\k59}COMERCIAL {\k16}LÊ {\k7}A
+Dialogue: 0,0:00:18.36,0:00:19.42,Viral,,0,0,0,,{\k46}ETIQUETA {\k8}DA {\k45}BALANÇA
+Dialogue: 0,0:00:19.39,0:00:20.30,Viral,,0,0,0,,{\k40}DIRETO {\k7}NO {\k37}LEITOR
+Dialogue: 0,0:00:20.26,0:00:21.55,Viral,,0,0,0,,{\k11}DO {\k41}CAIXA {\k48}PRODUTO
+Dialogue: 0,0:00:21.51,0:00:22.56,Viral,,0,0,0,,{\k4}E {\k29}VALOR {\k65}CERTINHOS
+Dialogue: 0,0:00:22.70,0:00:23.80,Viral,,0,0,0,,{\k19}SEM {\k48}DIGITAR {\k35}NADA
+Dialogue: 0,0:00:24.58,0:00:25.51,Viral,,0,0,0,,{\k31}MAIS {\k43}RAPIDEZ {\k11}NO
+Dialogue: 0,0:00:25.47,0:00:25.94,Viral,,0,0,0,,{\k35}CAIXA {\k2}E {\k2}O
+Dialogue: 0,0:00:25.90,0:00:27.09,Viral,,0,0,0,,{\k30}VALOR {\k39}SEMPRE {\k43}CERTO
+Dialogue: 0,0:00:27.30,0:00:27.88,Viral,,0,0,0,,{\k14}PRA {\k29}VOCÊ {\k7}E
+Dialogue: 0,0:00:27.84,0:00:29.89,Viral,,0,0,0,,{\k16}PRO {\k51}CLIENTE {\k51}SERVE
+Dialogue: 0,0:00:29.86,0:00:31.25,Viral,,0,0,0,,{\k16}PRA {\k45}AÇOUGUE {\k51}PADARIA
+Dialogue: 0,0:00:31.44,0:00:32.42,Viral,,0,0,0,,{\k61}HORTIFRÚTI {\k4}E {\k25}TUDO
+Dialogue: 0,0:00:32.38,0:00:33.27,Viral,,0,0,0,,{\k12}QUE {\k23}SAI {\k47}PESADO
+Dialogue: 0,0:00:33.23,0:00:35.07,Viral,,0,0,0,,{\k7}NA {\k53}BALANÇA {\k35}MANDA
+Dialogue: 0,0:00:35.04,0:00:36.26,Viral,,0,0,0,,{\k53}BALANÇA {\k17}PRA {\k46}MS
+Dialogue: 0,0:00:36.23,0:00:37.15,Viral,,0,0,0,,{\k20}TECH {\k56}SOLUÇÕES {\k8}NO
+Dialogue: 0,0:00:37.12,0:00:38.13,Viral,,0,0,0,,{\k50}DIRECT {\k7}E {\k36}VEJA
+Dialogue: 0,0:00:38.09,0:00:39.11,Viral,,0,0,0,,{\k25}ISSO {\k56}FUNCIONANDO {\k13}NA
+Dialogue: 0,0:00:39.08,0:00:40.89,Viral,,0,0,0,,{\k49}PRÁTICA {\k11}E {\k32}SEGUE
+Dialogue: 0,0:00:40.85,0:00:41.40,Viral,,0,0,0,,{\k5}A {\k29}GENTE {\k13}PRA
+Dialogue: 0,0:00:41.36,0:00:42.13,Viral,,0,0,0,,{\k22}MAIS {\k36}DICAS {\k12}PRO
+Dialogue: 0,0:00:42.09,0:00:42.90,Viral,,0,0,0,,{\k17}SEU {\k49}COMÉRCIO {\k7}EM
+Dialogue: 0,0:00:42.86,0:00:43.42,Viral,,0,0,0,,{\k50}MACAPÁ

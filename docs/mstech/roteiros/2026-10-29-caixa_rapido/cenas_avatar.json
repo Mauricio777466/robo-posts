@@ -1,0 +1,78 @@
+{
+  "titulo": "Caixa Rápido (autoatendimento) - Santana",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 43.8,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Mercadinho com autoatendimento em Santana? Tem sim. Você vê autoatendimento nos mercados grandes e acha que é caro demais pra sua loja. E contratar mais gente pesa na folha de pagamento todo mês. O Caixa Rápido da MS Tech Soluções funciona com o seu cadastro do Gestão Comercial: o cliente passa no leitor, lê até a etiqueta da balança, paga no PIX ou na sua maquininha e leva o cupom. O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria. Me chama no WhatsApp (96) 98115-7991 e fala RÁPIDO. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.5,
+      "fala": "Mercadinho com autoatendimento em Santana? Tem sim.",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Mercadinho com autoatendimento em Santana? Tem sim",
+      "fundo_sugerido": "Cliente passando produto no leitor do Caixa Rápido."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.9,
+      "duracao_s": 5.4,
+      "fala": "Você vê autoatendimento nos mercados grandes e acha que é caro demais pra sua loja.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "Você vê autoatendimento nos mercados grandes e acha que é ca",
+      "fundo_sugerido": "Fila no balcão no horário de almoço."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 8.7,
+      "duracao_s": 3.9,
+      "fala": "E contratar mais gente pesa na folha de pagamento todo mês.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "E contratar mais gente pesa na folha de pagamento todo mês",
+      "fundo_sugerido": "Fila no balcão no horário de almoço."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 13.0,
+      "duracao_s": 13.2,
+      "fala": "O Caixa Rápido da MS Tech Soluções funciona com o seu cadastro do Gestão Comercial: o cliente passa no leitor, lê até a etiqueta da balança, paga no PIX ou na sua maquininha e leva o cupom.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "O Caixa Rápido da MS Tech Soluções funciona com o seu cadast",
+      "fundo_sugerido": "Tela do PIX com QR e a tela de compra aprovada."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 26.6,
+      "duracao_s": 6.8,
+      "fala": "O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "O cliente ganha tempo, e você vende mais no mesmo horário",
+      "fundo_sugerido": "Tela do PIX com QR e a tela de compra aprovada."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 33.8,
+      "duracao_s": 10.0,
+      "fala": "Me chama no WhatsApp (96) 98115-7991 e fala RÁPIDO. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Me chama no WhatsApp (96) 98115-7991 e fala RÁPIDO",
+      "fundo_sugerido": "Cupom saindo da impressora."
+    }
+  ]
+}

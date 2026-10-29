@@ -1,0 +1,62 @@
+{
+  "id": "20261029-162614-caixa_rapido-001003",
+  "tema": "caixa_rapido",
+  "titulo_tema": "Caixa Rápido (autoatendimento)",
+  "palavra_direct": "RÁPIDO",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Mercadinho com autoatendimento em Santana? Tem sim.",
+      "segundos": 2.5,
+      "visual": "Cliente passando produto no leitor do Caixa Rápido.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Você vê autoatendimento nos mercados grandes e acha que é caro demais pra sua loja.",
+      "segundos": 5.4,
+      "visual": "Fila no balcão no horário de almoço.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "E contratar mais gente pesa na folha de pagamento todo mês.",
+      "segundos": 3.9,
+      "visual": "Fila no balcão no horário de almoço.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "O Caixa Rápido da MS Tech Soluções funciona com o seu cadastro do Gestão Comercial: o cliente passa no leitor, lê até a etiqueta da balança, paga no PIX ou na sua maquininha e leva o cupom.",
+      "segundos": 13.2,
+      "visual": "Tela do PIX com QR e a tela de compra aprovada.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria.",
+      "segundos": 6.8,
+      "visual": "Tela do PIX com QR e a tela de compra aprovada.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Me chama no WhatsApp (96) 98115-7991 e fala RÁPIDO. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 10.0,
+      "visual": "Cupom saindo da impressora.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    3
+  ],
+  "criado_em": "2026-10-29T16:26:14",
+  "narracao": "Mercadinho com autoatendimento em Santana? Tem sim. Você vê autoatendimento nos mercados grandes e acha que é caro demais pra sua loja. E contratar mais gente pesa na folha de pagamento todo mês. O Caixa Rápido da MS Tech Soluções funciona com o seu cadastro do Gestão Comercial: o cliente passa no leitor, lê até a etiqueta da balança, paga no PIX ou na sua maquininha e leva o cupom. O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria. Me chama no WhatsApp (96) 98115-7991 e fala RÁPIDO. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 43.8
+}

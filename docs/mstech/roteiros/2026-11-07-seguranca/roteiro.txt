@@ -1,0 +1,31 @@
+ROTEIRO REELS - SEGURANÇA NO CAIXA
+Duração estimada: 42 segundos | Palavra do direct: SEGURO
+============================================================
+
+[00.0s - 02.9s] GANCHO  (tom: surpresa)
+FALA: Você sabe o que acontece no seu caixa?
+TELA: Close numa etiqueta de preço sendo riscada.
+
+[03.3s - 10.8s] DOR  (tom: preocupação)
+FALA: O operador muda o preço na hora de passar, dá desconto pro conhecido, e você só descobre quando o lucro some.
+TELA: Computador desligado com fumaça (efeito) ou caixa vazio.
+
+[11.2s - 18.3s] O PREJUÍZO  (tom: seriedade)
+FALA: Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar.
+TELA: Computador desligado com fumaça (efeito) ou caixa vazio.
+
+[18.7s - 24.8s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Gestão Comercial faz backup automático todo dia. Se o computador der problema, seus dados estão guardados.
+TELA: Tela pedindo a senha do gerente para trocar o preço.
+
+[25.2s - 33.4s] O RESULTADO  (tom: alegria)
+FALA: Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar. Você define o que cada funcionário pode fazer e confere tudo depois.
+TELA: Tela pedindo a senha do gerente para trocar o preço.
+
+[33.8s - 42.4s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda SEGURO no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Cadeado na tela com o @ da MS Tech.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Você sabe o que acontece no seu caixa? O operador muda o preço na hora de passar, dá desconto pro conhecido, e você só descobre quando o lucro some. Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar. O Gestão Comercial faz backup automático todo dia. Se o computador der problema, seus dados estão guardados. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar. Você define o que cada funcionário pode fazer e confere tudo depois. Manda SEGURO no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.

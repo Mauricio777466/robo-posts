@@ -1,0 +1,31 @@
+ROTEIRO REELS - CAIXA RÁPIDO (AUTOATENDIMENTO)
+Duração estimada: 44 segundos | Palavra do direct: RÁPIDO
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Mercadinho com autoatendimento em Santana? Tem sim.
+TELA: Cliente passando produto no leitor do Caixa Rápido.
+
+[02.9s - 08.3s] DOR  (tom: preocupação)
+FALA: Você vê autoatendimento nos mercados grandes e acha que é caro demais pra sua loja.
+TELA: Fila no balcão no horário de almoço.
+
+[08.7s - 12.6s] O PREJUÍZO  (tom: seriedade)
+FALA: E contratar mais gente pesa na folha de pagamento todo mês.
+TELA: Fila no balcão no horário de almoço.
+
+[13.0s - 26.2s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Caixa Rápido da MS Tech Soluções funciona com o seu cadastro do Gestão Comercial: o cliente passa no leitor, lê até a etiqueta da balança, paga no PIX ou na sua maquininha e leva o cupom.
+TELA: Tela do PIX com QR e a tela de compra aprovada.
+
+[26.6s - 33.4s] O RESULTADO  (tom: alegria)
+FALA: O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria.
+TELA: Tela do PIX com QR e a tela de compra aprovada.
+
+[33.8s - 43.8s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Me chama no WhatsApp (96) 98115-7991 e fala RÁPIDO. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Cupom saindo da impressora.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Mercadinho com autoatendimento em Santana? Tem sim. Você vê autoatendimento nos mercados grandes e acha que é caro demais pra sua loja. E contratar mais gente pesa na folha de pagamento todo mês. O Caixa Rápido da MS Tech Soluções funciona com o seu cadastro do Gestão Comercial: o cliente passa no leitor, lê até a etiqueta da balança, paga no PIX ou na sua maquininha e leva o cupom. O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria. Me chama no WhatsApp (96) 98115-7991 e fala RÁPIDO. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.

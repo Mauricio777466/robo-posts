@@ -1,0 +1,12 @@
+{
+  "text": "A reforma tributária vai chegar no seu balcão. <break time=\"0.4s\" /> A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar. <break time=\"0.4s\" /> Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar. <break time=\"0.4s\" /> Organiza seu comércio agora com o Gestão Comercial: produtos cadastrados, vendas registradas e relatório pro contador. A nota fiscal é a próxima novidade, em breve. <break time=\"0.4s\" /> E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão. <break time=\"0.4s\" /> Quer testar sete dias grátis? O link está na bio. Ou manda REFORMA no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.35,
+    "use_speaker_boost": true
+  },
+  "_voice_id": "PREENCHA_NO_CONFIG",
+  "_endpoint": "POST https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
+}

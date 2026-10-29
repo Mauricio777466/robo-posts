@@ -1,0 +1,38 @@
+{
+  "empresa": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "whatsapp": "(96) 98115-7991",
+  "sistema": "Gestão Comercial",
+  "cidades": [
+    "Macapá",
+    "Santana"
+  ],
+  "hashtags_fixas": [
+    "#Macapá",
+    "#Santana",
+    "#Amapá",
+    "#AutomacaoComercial",
+    "#MSTechSolucoes",
+    "#ComercioLocal",
+    "#GestaoComercial"
+  ],
+  "max_hashtags": 15,
+  "formato": "longo",
+  "voz_edge": "pt-BR-AntonioNeural",
+  "velocidade_voz": "+4%",
+  "volume_musica": 0.12,
+  "palavras_por_segundo": 2.8,
+  "palavras_por_bloco": 3,
+  "legenda_maiusculas": true,
+  "copiar_para_estudio": true,
+  "pasta_estudio_roteiros": "D:\\Estudio MS Tech\\Roteiros\\Reels",
+  "pasta_saida": "",
+  "elevenlabs": {
+    "voice_id": "",
+    "model_id": "eleven_multilingual_v2",
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.35,
+    "use_speaker_boost": true
+  }
+}

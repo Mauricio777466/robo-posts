@@ -1,0 +1,12 @@
+{
+  "text": "Você sabe o que acontece no seu caixa? <break time=\"0.4s\" /> O operador muda o preço na hora de passar, dá desconto pro conhecido, e você só descobre quando o lucro some. <break time=\"0.4s\" /> Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar. <break time=\"0.4s\" /> O Gestão Comercial faz backup automático todo dia. Se o computador der problema, seus dados estão guardados. <break time=\"0.4s\" /> Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar. Você define o que cada funcionário pode fazer e confere tudo depois. <break time=\"0.4s\" /> Manda SEGURO no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.35,
+    "use_speaker_boost": true
+  },
+  "_voice_id": "PREENCHA_NO_CONFIG",
+  "_endpoint": "POST https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
+}

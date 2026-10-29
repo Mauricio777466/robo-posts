@@ -1,0 +1,62 @@
+{
+  "id": "20261029-163035-novidades-200210",
+  "tema": "novidades",
+  "titulo_tema": "Novidades do Gestão Comercial",
+  "palavra_direct": "NOVIDADE",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "O que vem por aí no Gestão Comercial.",
+      "segundos": 2.9,
+      "visual": "Tela de 'Atualizações' do Gestão Comercial.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Muito comércio em Santana ainda usa sistema que nunca recebe melhoria. A lei muda, o cliente muda, e o programa continua igual.",
+      "segundos": 7.9,
+      "visual": "Computador velho com sistema travado.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente.",
+      "segundos": 5.7,
+      "visual": "Computador velho com sistema travado.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização.",
+      "segundos": 9.6,
+      "visual": "Montagem: Caixa Rápido, app do dono e app do vendedor.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça.",
+      "segundos": 10.0,
+      "visual": "Montagem: Caixa Rápido, app do dono e app do vendedor.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Manda NOVIDADE no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 8.6,
+      "visual": "Selo EM BREVE: nota fiscal.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    2,
+    0,
+    0,
+    2,
+    1,
+    0
+  ],
+  "criado_em": "2026-10-29T16:30:35",
+  "narracao": "O que vem por aí no Gestão Comercial. Muito comércio em Santana ainda usa sistema que nunca recebe melhoria. A lei muda, o cliente muda, e o programa continua igual. E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente. A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. Manda NOVIDADE no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 46.7
+}

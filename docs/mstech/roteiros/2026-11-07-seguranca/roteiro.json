@@ -1,0 +1,62 @@
+{
+  "id": "20261029-162919-seguranca-300110",
+  "tema": "seguranca",
+  "titulo_tema": "Segurança no caixa",
+  "palavra_direct": "SEGURO",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Você sabe o que acontece no seu caixa?",
+      "segundos": 2.9,
+      "visual": "Close numa etiqueta de preço sendo riscada.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "O operador muda o preço na hora de passar, dá desconto pro conhecido, e você só descobre quando o lucro some.",
+      "segundos": 7.5,
+      "visual": "Computador desligado com fumaça (efeito) ou caixa vazio.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar.",
+      "segundos": 7.1,
+      "visual": "Computador desligado com fumaça (efeito) ou caixa vazio.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "O Gestão Comercial faz backup automático todo dia. Se o computador der problema, seus dados estão guardados.",
+      "segundos": 6.1,
+      "visual": "Tela pedindo a senha do gerente para trocar o preço.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar. Você define o que cada funcionário pode fazer e confere tudo depois.",
+      "segundos": 8.2,
+      "visual": "Tela pedindo a senha do gerente para trocar o preço.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Manda SEGURO no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 8.6,
+      "visual": "Cadeado na tela com o @ da MS Tech.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    3,
+    0,
+    0,
+    1,
+    1,
+    0
+  ],
+  "criado_em": "2026-10-29T16:29:19",
+  "narracao": "Você sabe o que acontece no seu caixa? O operador muda o preço na hora de passar, dá desconto pro conhecido, e você só descobre quando o lucro some. Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar. O Gestão Comercial faz backup automático todo dia. Se o computador der problema, seus dados estão guardados. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar. Você define o que cada funcionário pode fazer e confere tudo depois. Manda SEGURO no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 42.4
+}

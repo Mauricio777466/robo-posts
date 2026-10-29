@@ -1,0 +1,78 @@
+{
+  "titulo": "Etiqueta da balança no caixa - Macapá",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 45.2,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Bipou a etiqueta, já saiu o valor. No açougue ou na padaria, o operador lê o peso na etiqueta e digita na mão. Um número errado e você perde dinheiro. Um erro de cem gramas por venda parece pouco, mas no fim do mês vira um prejuízo que dói. O Gestão Comercial lê a etiqueta da balança direto no leitor do caixa: produto e valor certinhos, sem digitar nada. Mais rapidez no caixa e o valor sempre certo, pra você e pro cliente. Serve pra açougue, padaria, hortifrúti e tudo que sai pesado na balança. Manda BALANÇA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.5,
+      "fala": "Bipou a etiqueta, já saiu o valor.",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Bipou a etiqueta, já saiu o valor",
+      "fundo_sugerido": "Close na etiqueta da balança sendo bipada."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.9,
+      "duracao_s": 8.2,
+      "fala": "No açougue ou na padaria, o operador lê o peso na etiqueta e digita na mão. Um número errado e você perde dinheiro.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "No açougue ou na padaria, o operador lê o peso na etiqueta e",
+      "fundo_sugerido": "Operador digitando o peso devagar."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 11.5,
+      "duracao_s": 6.8,
+      "fala": "Um erro de cem gramas por venda parece pouco, mas no fim do mês vira um prejuízo que dói.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "Um erro de cem gramas por venda parece pouco, mas no fim do ",
+      "fundo_sugerido": "Operador digitando o peso devagar."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 18.7,
+      "duracao_s": 7.1,
+      "fala": "O Gestão Comercial lê a etiqueta da balança direto no leitor do caixa: produto e valor certinhos, sem digitar nada.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "O Gestão Comercial lê a etiqueta da balança direto no leitor",
+      "fundo_sugerido": "Produto pesado aparecendo sozinho na tela do caixa."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 26.2,
+      "duracao_s": 9.3,
+      "fala": "Mais rapidez no caixa e o valor sempre certo, pra você e pro cliente. Serve pra açougue, padaria, hortifrúti e tudo que sai pesado na balança.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Mais rapidez no caixa e o valor sempre certo, pra você e pro",
+      "fundo_sugerido": "Produto pesado aparecendo sozinho na tela do caixa."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 35.9,
+      "duracao_s": 9.3,
+      "fala": "Manda BALANÇA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Manda BALANÇA pra MS Tech Soluções no direct e veja isso fun",
+      "fundo_sugerido": "Balança com o @ da MS Tech."
+    }
+  ]
+}

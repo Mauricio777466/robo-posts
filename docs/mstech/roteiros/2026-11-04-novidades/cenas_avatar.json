@@ -1,0 +1,78 @@
+{
+  "titulo": "Novidades do Gestão Comercial - Santana",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 45.6,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Sistema bom é sistema que evolui. Muito comércio em Santana ainda usa sistema que nunca recebe melhoria. A lei muda, o cliente muda, e o programa continua igual. Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa. A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Manda NOVIDADE no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.1,
+      "fala": "Sistema bom é sistema que evolui.",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Sistema bom é sistema que evolui",
+      "fundo_sugerido": "Tela de 'Atualizações' do Gestão Comercial."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.5,
+      "duracao_s": 7.9,
+      "fala": "Muito comércio em Santana ainda usa sistema que nunca recebe melhoria. A lei muda, o cliente muda, e o programa continua igual.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "Muito comércio em Santana ainda usa sistema que nunca recebe",
+      "fundo_sugerido": "Computador velho com sistema travado."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 10.8,
+      "duracao_s": 5.4,
+      "fala": "Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "Quando a lei muda, quem tem sistema sem atualização corre at",
+      "fundo_sugerido": "Computador velho com sistema travado."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 16.6,
+      "duracao_s": 9.6,
+      "fala": "A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "A MS Tech Soluções é daqui do Amapá e escuta o lojista",
+      "fundo_sugerido": "Montagem: Caixa Rápido, app do dono e app do vendedor."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 26.6,
+      "duracao_s": 10.0,
+      "fala": "Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Você acompanha as mudanças sem trocar de sistema e sem dor d",
+      "fundo_sugerido": "Montagem: Caixa Rápido, app do dono e app do vendedor."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 37.0,
+      "duracao_s": 8.6,
+      "fala": "Manda NOVIDADE no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Manda NOVIDADE no direct que eu te mostro funcionando na sua",
+      "fundo_sugerido": "Selo EM BREVE: nota fiscal."
+    }
+  ]
+}

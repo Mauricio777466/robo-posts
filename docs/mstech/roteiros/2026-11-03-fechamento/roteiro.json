@@ -1,0 +1,62 @@
+{
+  "id": "20261029-162804-fechamento-211014",
+  "tema": "fechamento",
+  "titulo_tema": "Fechamento do caixa",
+  "palavra_direct": "CAIXA",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Sumiu dinheiro do caixa e ninguém sabe?",
+      "segundos": 2.5,
+      "visual": "Mão contando notas, cara de preocupação.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Tirou dinheiro do caixa pra pagar fornecedor e esqueceu de anotar. No fechamento ninguém lembra de nada.",
+      "segundos": 6.1,
+      "visual": "Caderno rabiscado e calculadora.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês.",
+      "segundos": 5.4,
+      "visual": "Caderno rabiscado e calculadora.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "No Gestão Comercial, toda sangria e todo suprimento ficam registrados com hora e funcionário. No fechamento você vê na tela quanto tem que ter em dinheiro, PIX e cartão.",
+      "segundos": 10.4,
+      "visual": "Tela de fechamento do Gestão Comercial com os totais por forma de pagamento.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "E você ainda vê o relatório do dia pra saber quanto entrou de verdade. Fechamento em poucos minutos, sem briga e sem caderninho.",
+      "segundos": 8.2,
+      "visual": "Tela de fechamento do Gestão Comercial com os totais por forma de pagamento.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Manda CAIXA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 9.3,
+      "visual": "Gaveta fechada, sorriso, texto do @ na tela.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    2,
+    1,
+    1,
+    0,
+    1,
+    4
+  ],
+  "criado_em": "2026-10-29T16:28:04",
+  "narracao": "Sumiu dinheiro do caixa e ninguém sabe? Tirou dinheiro do caixa pra pagar fornecedor e esqueceu de anotar. No fechamento ninguém lembra de nada. Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês. No Gestão Comercial, toda sangria e todo suprimento ficam registrados com hora e funcionário. No fechamento você vê na tela quanto tem que ter em dinheiro, PIX e cartão. E você ainda vê o relatório do dia pra saber quanto entrou de verdade. Fechamento em poucos minutos, sem briga e sem caderninho. Manda CAIXA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 43.9
+}

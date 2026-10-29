@@ -1,0 +1,31 @@
+ROTEIRO REELS - FECHAMENTO DO CAIXA
+Duração estimada: 44 segundos | Palavra do direct: CAIXA
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Sumiu dinheiro do caixa e ninguém sabe?
+TELA: Mão contando notas, cara de preocupação.
+
+[02.9s - 09.0s] DOR  (tom: preocupação)
+FALA: Tirou dinheiro do caixa pra pagar fornecedor e esqueceu de anotar. No fechamento ninguém lembra de nada.
+TELA: Caderno rabiscado e calculadora.
+
+[09.4s - 14.8s] O PREJUÍZO  (tom: seriedade)
+FALA: Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês.
+TELA: Caderno rabiscado e calculadora.
+
+[15.2s - 25.6s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: No Gestão Comercial, toda sangria e todo suprimento ficam registrados com hora e funcionário. No fechamento você vê na tela quanto tem que ter em dinheiro, PIX e cartão.
+TELA: Tela de fechamento do Gestão Comercial com os totais por forma de pagamento.
+
+[26.0s - 34.2s] O RESULTADO  (tom: alegria)
+FALA: E você ainda vê o relatório do dia pra saber quanto entrou de verdade. Fechamento em poucos minutos, sem briga e sem caderninho.
+TELA: Tela de fechamento do Gestão Comercial com os totais por forma de pagamento.
+
+[34.6s - 43.9s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda CAIXA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Gaveta fechada, sorriso, texto do @ na tela.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Sumiu dinheiro do caixa e ninguém sabe? Tirou dinheiro do caixa pra pagar fornecedor e esqueceu de anotar. No fechamento ninguém lembra de nada. Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês. No Gestão Comercial, toda sangria e todo suprimento ficam registrados com hora e funcionário. No fechamento você vê na tela quanto tem que ter em dinheiro, PIX e cartão. E você ainda vê o relatório do dia pra saber quanto entrou de verdade. Fechamento em poucos minutos, sem briga e sem caderninho. Manda CAIXA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.

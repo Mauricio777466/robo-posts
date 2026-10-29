@@ -1,0 +1,78 @@
+{
+  "titulo": "Controle de estoque - Macapá",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 37.4,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Comprou de novo o que ainda tinha? O cliente pede, você jura que tinha, vai procurar e acabou. Ele compra no vizinho. E produto em falta faz o cliente se acostumar a comprar no concorrente. O Gestão Comercial junta caixa e estoque no mesmo lugar: vendeu, baixou. Simples assim. Tudo no mesmo sistema do caixa, sem planilha separada. Você compra melhor, gasta menos e não deixa faltar o que mais vende. Me chama no WhatsApp (96) 98115-7991 e fala ESTOQUE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.5,
+      "fala": "Comprou de novo o que ainda tinha?",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Comprou de novo o que ainda tinha?",
+      "fundo_sugerido": "Prateleira vazia."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.9,
+      "duracao_s": 5.4,
+      "fala": "O cliente pede, você jura que tinha, vai procurar e acabou. Ele compra no vizinho.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "O cliente pede, você jura que tinha, vai procurar e acabou",
+      "fundo_sugerido": "Depósito cheio do produto errado."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 8.7,
+      "duracao_s": 4.6,
+      "fala": "E produto em falta faz o cliente se acostumar a comprar no concorrente.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "E produto em falta faz o cliente se acostumar a comprar no c",
+      "fundo_sugerido": "Depósito cheio do produto errado."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 13.7,
+      "duracao_s": 5.0,
+      "fala": "O Gestão Comercial junta caixa e estoque no mesmo lugar: vendeu, baixou. Simples assim.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "O Gestão Comercial junta caixa e estoque no mesmo lugar: ven",
+      "fundo_sugerido": "Tela de produtos do Gestão Comercial com a quantidade em estoque."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 19.1,
+      "duracao_s": 7.9,
+      "fala": "Tudo no mesmo sistema do caixa, sem planilha separada. Você compra melhor, gasta menos e não deixa faltar o que mais vende.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Tudo no mesmo sistema do caixa, sem planilha separada",
+      "fundo_sugerido": "Tela de produtos do Gestão Comercial com a quantidade em estoque."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 27.4,
+      "duracao_s": 10.0,
+      "fala": "Me chama no WhatsApp (96) 98115-7991 e fala ESTOQUE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Me chama no WhatsApp (96) 98115-7991 e fala ESTOQUE",
+      "fundo_sugerido": "Prateleira cheia com o @ da MS Tech."
+    }
+  ]
+}

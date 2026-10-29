@@ -1,0 +1,62 @@
+{
+  "id": "20261029-162938-estoque-201213",
+  "tema": "estoque",
+  "titulo_tema": "Controle de estoque",
+  "palavra_direct": "ESTOQUE",
+  "cidade": "Macapá",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Comprou de novo o que ainda tinha?",
+      "segundos": 2.5,
+      "visual": "Prateleira vazia.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "O cliente pede, você jura que tinha, vai procurar e acabou. Ele compra no vizinho.",
+      "segundos": 5.4,
+      "visual": "Depósito cheio do produto errado.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "E produto em falta faz o cliente se acostumar a comprar no concorrente.",
+      "segundos": 4.6,
+      "visual": "Depósito cheio do produto errado.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "O Gestão Comercial junta caixa e estoque no mesmo lugar: vendeu, baixou. Simples assim.",
+      "segundos": 5.0,
+      "visual": "Tela de produtos do Gestão Comercial com a quantidade em estoque.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Tudo no mesmo sistema do caixa, sem planilha separada. Você compra melhor, gasta menos e não deixa faltar o que mais vende.",
+      "segundos": 7.9,
+      "visual": "Tela de produtos do Gestão Comercial com a quantidade em estoque.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Me chama no WhatsApp (96) 98115-7991 e fala ESTOQUE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "segundos": 10.0,
+      "visual": "Prateleira cheia com o @ da MS Tech.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    2,
+    0,
+    1,
+    2,
+    1,
+    3
+  ],
+  "criado_em": "2026-10-29T16:29:38",
+  "narracao": "Comprou de novo o que ainda tinha? O cliente pede, você jura que tinha, vai procurar e acabou. Ele compra no vizinho. E produto em falta faz o cliente se acostumar a comprar no concorrente. O Gestão Comercial junta caixa e estoque no mesmo lugar: vendeu, baixou. Simples assim. Tudo no mesmo sistema do caixa, sem planilha separada. Você compra melhor, gasta menos e não deixa faltar o que mais vende. Me chama no WhatsApp (96) 98115-7991 e fala ESTOQUE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "duracao_estimada_s": 37.4
+}

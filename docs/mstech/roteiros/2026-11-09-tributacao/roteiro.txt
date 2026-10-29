@@ -1,0 +1,31 @@
+ROTEIRO REELS - REFORMA TRIBUTÁRIA
+Duração estimada: 42 segundos | Palavra do direct: REFORMA
+============================================================
+
+[00.0s - 02.9s] GANCHO  (tom: surpresa)
+FALA: IBS e CBS: seu comércio já ouviu falar?
+TELA: Texto grande na tela: IBS + CBS.
+
+[03.3s - 08.3s] DOR  (tom: preocupação)
+FALA: Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa.
+TELA: Pilha de papéis e notas bagunçadas.
+
+[08.7s - 13.7s] O PREJUÍZO  (tom: seriedade)
+FALA: Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar.
+TELA: Pilha de papéis e notas bagunçadas.
+
+[14.1s - 23.0s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: Organiza seu comércio agora com o Gestão Comercial: produtos cadastrados, vendas registradas e relatório pro contador. A nota fiscal é a próxima novidade, em breve.
+TELA: Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.
+
+[23.4s - 34.1s] O RESULTADO  (tom: alegria)
+FALA: Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto.
+TELA: Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.
+
+[34.5s - 42.4s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Comenta REFORMA aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Calendário com o texto: comece agora.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+IBS e CBS: seu comércio já ouviu falar? Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa. Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar. Organiza seu comércio agora com o Gestão Comercial: produtos cadastrados, vendas registradas e relatório pro contador. A nota fiscal é a próxima novidade, em breve. Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Comenta REFORMA aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.

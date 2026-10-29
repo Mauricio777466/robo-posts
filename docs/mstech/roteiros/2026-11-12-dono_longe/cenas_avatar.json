@@ -1,0 +1,78 @@
+{
+  "titulo": "Acompanhar a loja de longe - Santana",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 41.5,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Dono de loja também merece folga. Você não consegue sair da loja nem pra resolver um problema no banco, porque precisa ver se está tudo certo. E quando sai, fica com o celular na mão ligando pra loja de hora em hora. O Gestão Comercial manda as vendas para o painel na nuvem, e você confere tudo pelo celular, até de casa. Mais tempo pra você, sem perder o controle da loja. Você decide com os números na mão, e não no achismo. Me chama no WhatsApp (96) 98115-7991 e fala DONO. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.1,
+      "fala": "Dono de loja também merece folga.",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Dono de loja também merece folga",
+      "fundo_sugerido": "Você numa rede ou na praia olhando o celular."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.5,
+      "duracao_s": 7.1,
+      "fala": "Você não consegue sair da loja nem pra resolver um problema no banco, porque precisa ver se está tudo certo.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "Você não consegue sair da loja nem pra resolver um problema ",
+      "fundo_sugerido": "Ligação perdida: 'Fulano do caixa'."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 10.0,
+      "duracao_s": 5.7,
+      "fala": "E quando sai, fica com o celular na mão ligando pra loja de hora em hora.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "E quando sai, fica com o celular na mão ligando pra loja de ",
+      "fundo_sugerido": "Ligação perdida: 'Fulano do caixa'."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 16.1,
+      "duracao_s": 7.1,
+      "fala": "O Gestão Comercial manda as vendas para o painel na nuvem, e você confere tudo pelo celular, até de casa.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "O Gestão Comercial manda as vendas para o painel na nuvem, e",
+      "fundo_sugerido": "Tela do app do dono com as vendas do dia."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 23.6,
+      "duracao_s": 7.5,
+      "fala": "Mais tempo pra você, sem perder o controle da loja. Você decide com os números na mão, e não no achismo.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Mais tempo pra você, sem perder o controle da loja",
+      "fundo_sugerido": "Tela do app do dono com as vendas do dia."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 31.5,
+      "duracao_s": 10.0,
+      "fala": "Me chama no WhatsApp (96) 98115-7991 e fala DONO. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Me chama no WhatsApp (96) 98115-7991 e fala DONO",
+      "fundo_sugerido": "Celular na mão com o @ da MS Tech."
+    }
+  ]
+}
