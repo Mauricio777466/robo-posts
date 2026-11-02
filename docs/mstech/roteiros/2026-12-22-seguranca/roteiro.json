@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121924-seguranca-210001",
+  "tema": "seguranca",
+  "titulo_tema": "Segurança no caixa",
+  "palavra_direct": "SEGURO",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Seu computador quebrou. E as vendas de hoje?",
+      "segundos": 2.9,
+      "visual": "Close numa etiqueta de preço sendo riscada.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Um dia o computador do caixa queima, e com ele vão embora o cadastro, as vendas e o histórico da loja.",
+      "segundos": 7.5,
+      "visual": "Computador desligado com fumaça (efeito) ou caixa vazio.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar.",
+      "segundos": 7.1,
+      "visual": "Computador desligado com fumaça (efeito) ou caixa vazio.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "No Gestão Comercial, trocar o preço no caixa só com a senha do gerente, e fica tudo registrado: quem trocou, quando e de quanto pra quanto.",
+      "segundos": 9.3,
+      "visual": "Tela pedindo a senha do gerente para trocar o preço.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Você define o que cada funcionário pode fazer e confere tudo depois. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar.",
+      "segundos": 8.2,
+      "visual": "Tela pedindo a senha do gerente para trocar o preço.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Comenta SEGURO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 7.9,
+      "visual": "Cadeado na tela com o @ da MS Tech.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    2,
+    1,
+    0,
+    0,
+    0,
+    1
+  ],
+  "criado_em": "2026-11-02T12:19:24",
+  "narracao": "Seu computador quebrou. E as vendas de hoje? Um dia o computador do caixa queima, e com ele vão embora o cadastro, as vendas e o histórico da loja. Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar. No Gestão Comercial, trocar o preço no caixa só com a senha do gerente, e fica tudo registrado: quem trocou, quando e de quanto pra quanto. Você define o que cada funcionário pode fazer e confere tudo depois. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar. Comenta SEGURO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 44.9
+}

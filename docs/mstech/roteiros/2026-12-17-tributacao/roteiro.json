@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121735-tributacao-111013",
+  "tema": "tributacao",
+  "titulo_tema": "Reforma tributária",
+  "palavra_direct": "REFORMA",
+  "cidade": "Macapá",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "A reforma tributária vai chegar no seu balcão.",
+      "segundos": 2.9,
+      "visual": "Texto grande na tela: IBS + CBS.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Produto sem NCM, preço anotado no papel, venda sem registro. Na hora de se adequar à lei, isso vira correria e gasto.",
+      "segundos": 7.9,
+      "visual": "Pilha de papéis e notas bagunçadas.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "E o seu contador vai precisar de informação organizada, não de uma caixa de sapato cheia de papel.",
+      "segundos": 6.4,
+      "visual": "Pilha de papéis e notas bagunçadas.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente.",
+      "segundos": 12.1,
+      "visual": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão.",
+      "segundos": 10.7,
+      "visual": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Me chama no WhatsApp (96) 98115-7991 e fala REFORMA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "segundos": 10.0,
+      "visual": "Calendário com o texto: comece agora.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    1,
+    1,
+    1,
+    0,
+    1,
+    3
+  ],
+  "criado_em": "2026-11-02T12:17:35",
+  "narracao": "A reforma tributária vai chegar no seu balcão. Produto sem NCM, preço anotado no papel, venda sem registro. Na hora de se adequar à lei, isso vira correria e gasto. E o seu contador vai precisar de informação organizada, não de uma caixa de sapato cheia de papel. Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão. Me chama no WhatsApp (96) 98115-7991 e fala REFORMA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "duracao_estimada_s": 52.0
+}

@@ -1,0 +1,31 @@
+ROTEIRO REELS - NOVIDADES DO GESTÃO COMERCIAL
+Duração estimada: 46 segundos | Palavra do direct: NOVIDADE
+============================================================
+
+[00.0s - 02.1s] GANCHO  (tom: surpresa)
+FALA: Sistema bom é sistema que evolui.
+TELA: Tela de 'Atualizações' do Gestão Comercial.
+
+[02.5s - 09.3s] DOR  (tom: preocupação)
+FALA: Você paga por um sistema e, quando pede uma melhoria, ninguém responde. Fica tudo do mesmo jeito por anos.
+TELA: Computador velho com sistema travado.
+
+[09.7s - 15.4s] O PREJUÍZO  (tom: seriedade)
+FALA: E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente.
+TELA: Computador velho com sistema travado.
+
+[15.8s - 25.4s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização.
+TELA: Montagem: Caixa Rápido, app do dono e app do vendedor.
+
+[25.8s - 35.8s] O RESULTADO  (tom: alegria)
+FALA: Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região.
+TELA: Montagem: Caixa Rápido, app do dono e app do vendedor.
+
+[36.2s - 45.8s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Quer testar sete dias grátis? O link está na bio. Ou manda NOVIDADE no direct. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Selo EM BREVE: nota fiscal.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Sistema bom é sistema que evolui. Você paga por um sistema e, quando pede uma melhoria, ninguém responde. Fica tudo do mesmo jeito por anos. E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente. A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Quer testar sete dias grátis? O link está na bio. Ou manda NOVIDADE no direct. E segue a gente pra mais dicas pro seu comércio em Santana.

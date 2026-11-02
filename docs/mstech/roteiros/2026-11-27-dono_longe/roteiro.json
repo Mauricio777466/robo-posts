@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121046-dono_longe-011010",
+  "tema": "dono_longe",
+  "titulo_tema": "Acompanhar a loja de longe",
+  "palavra_direct": "DONO",
+  "cidade": "Macapá",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Dono de loja também merece folga.",
+      "segundos": 2.1,
+      "visual": "Você numa rede ou na praia olhando o celular.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Pra saber quanto vendeu no dia, você tem que ligar pro funcionário ou esperar o fechamento.",
+      "segundos": 5.7,
+      "visual": "Ligação perdida: 'Fulano do caixa'.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "E quando sai, fica com o celular na mão ligando pra loja de hora em hora.",
+      "segundos": 5.7,
+      "visual": "Ligação perdida: 'Fulano do caixa'.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "Com o app do dono da MS Tech Soluções, você acompanha as vendas do Gestão Comercial pelo celular, de onde estiver.",
+      "segundos": 7.5,
+      "visual": "Tela do app do dono com as vendas do dia.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Você decide com os números na mão, e não no achismo. Mais tempo pra você, sem perder o controle da loja.",
+      "segundos": 7.5,
+      "visual": "Tela do app do dono com as vendas do dia.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Manda DONO no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "segundos": 8.6,
+      "visual": "Celular na mão com o @ da MS Tech.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    0,
+    1,
+    1,
+    0,
+    1,
+    0
+  ],
+  "criado_em": "2026-11-02T12:10:46",
+  "narracao": "Dono de loja também merece folga. Pra saber quanto vendeu no dia, você tem que ligar pro funcionário ou esperar o fechamento. E quando sai, fica com o celular na mão ligando pra loja de hora em hora. Com o app do dono da MS Tech Soluções, você acompanha as vendas do Gestão Comercial pelo celular, de onde estiver. Você decide com os números na mão, e não no achismo. Mais tempo pra você, sem perder o controle da loja. Manda DONO no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "duracao_estimada_s": 39.1
+}

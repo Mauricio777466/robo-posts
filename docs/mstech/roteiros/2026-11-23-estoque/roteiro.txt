@@ -1,0 +1,31 @@
+ROTEIRO REELS - CONTROLE DE ESTOQUE
+Duração estimada: 38 segundos | Palavra do direct: ESTOQUE
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Seu estoque está só na sua cabeça?
+TELA: Prateleira vazia.
+
+[02.9s - 09.0s] DOR  (tom: preocupação)
+FALA: Sem controle, você compra o que ainda tem no depósito e deixa faltar o que mais vende.
+TELA: Depósito cheio do produto errado.
+
+[09.4s - 14.8s] O PREJUÍZO  (tom: seriedade)
+FALA: Dinheiro parado em mercadoria que não vende é dinheiro que falta pra pagar as contas.
+TELA: Depósito cheio do produto errado.
+
+[15.2s - 20.2s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Gestão Comercial junta caixa e estoque no mesmo lugar: vendeu, baixou. Simples assim.
+TELA: Tela de produtos do Gestão Comercial com a quantidade em estoque.
+
+[20.6s - 28.5s] O RESULTADO  (tom: alegria)
+FALA: Tudo no mesmo sistema do caixa, sem planilha separada. Você compra melhor, gasta menos e não deixa faltar o que mais vende.
+TELA: Tela de produtos do Gestão Comercial com a quantidade em estoque.
+
+[28.9s - 37.5s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda ESTOQUE no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Prateleira cheia com o @ da MS Tech.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Seu estoque está só na sua cabeça? Sem controle, você compra o que ainda tem no depósito e deixa faltar o que mais vende. Dinheiro parado em mercadoria que não vende é dinheiro que falta pra pagar as contas. O Gestão Comercial junta caixa e estoque no mesmo lugar: vendeu, baixou. Simples assim. Tudo no mesmo sistema do caixa, sem planilha separada. Você compra melhor, gasta menos e não deixa faltar o que mais vende. Manda ESTOQUE no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.

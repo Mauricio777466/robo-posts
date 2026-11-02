@@ -1,0 +1,78 @@
+{
+  "titulo": "Controle de estoque - Santana",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 38.2,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Seu estoque está só na sua cabeça? O cliente pede, você jura que tinha, vai procurar e acabou. Ele compra no vizinho. Dinheiro parado em mercadoria que não vende é dinheiro que falta pra pagar as contas. O Gestão Comercial junta caixa e estoque no mesmo lugar: vendeu, baixou. Simples assim. Você compra melhor, gasta menos e não deixa faltar o que mais vende. Tudo no mesmo sistema do caixa, sem planilha separada. Me chama no WhatsApp (96) 98115-7991 e fala ESTOQUE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.5,
+      "fala": "Seu estoque está só na sua cabeça?",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Seu estoque está só na sua cabeça?",
+      "fundo_sugerido": "Prateleira vazia."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.9,
+      "duracao_s": 5.4,
+      "fala": "O cliente pede, você jura que tinha, vai procurar e acabou. Ele compra no vizinho.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "O cliente pede, você jura que tinha, vai procurar e acabou",
+      "fundo_sugerido": "Depósito cheio do produto errado."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 8.7,
+      "duracao_s": 5.4,
+      "fala": "Dinheiro parado em mercadoria que não vende é dinheiro que falta pra pagar as contas.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "Dinheiro parado em mercadoria que não vende é dinheiro que f",
+      "fundo_sugerido": "Depósito cheio do produto errado."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 14.5,
+      "duracao_s": 5.0,
+      "fala": "O Gestão Comercial junta caixa e estoque no mesmo lugar: vendeu, baixou. Simples assim.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "O Gestão Comercial junta caixa e estoque no mesmo lugar: ven",
+      "fundo_sugerido": "Tela de produtos do Gestão Comercial com a quantidade em estoque."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 19.9,
+      "duracao_s": 7.9,
+      "fala": "Você compra melhor, gasta menos e não deixa faltar o que mais vende. Tudo no mesmo sistema do caixa, sem planilha separada.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Você compra melhor, gasta menos e não deixa faltar o que mai",
+      "fundo_sugerido": "Tela de produtos do Gestão Comercial com a quantidade em estoque."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 28.2,
+      "duracao_s": 10.0,
+      "fala": "Me chama no WhatsApp (96) 98115-7991 e fala ESTOQUE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Me chama no WhatsApp (96) 98115-7991 e fala ESTOQUE",
+      "fundo_sugerido": "Prateleira cheia com o @ da MS Tech."
+    }
+  ]
+}

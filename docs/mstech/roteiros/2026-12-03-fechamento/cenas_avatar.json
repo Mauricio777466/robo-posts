@@ -1,0 +1,78 @@
+{
+  "titulo": "Fechamento do caixa - Macapá",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 42.4,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Seu caixa fechou com diferença de novo? Você confia na sua equipe, mas sem registro não tem como saber onde o dinheiro foi parar. Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês. O Gestão Comercial registra cada venda, cada retirada e cada reforço do caixa. A diferença aparece na hora, não no fim do mês. Fechamento em poucos minutos, sem briga e sem caderninho. E você ainda vê o relatório do dia pra saber quanto entrou de verdade. Me chama no WhatsApp (96) 98115-7991 e fala CAIXA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.5,
+      "fala": "Seu caixa fechou com diferença de novo?",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Seu caixa fechou com diferença de novo?",
+      "fundo_sugerido": "Mão contando notas, cara de preocupação."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.9,
+      "duracao_s": 6.1,
+      "fala": "Você confia na sua equipe, mas sem registro não tem como saber onde o dinheiro foi parar.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "Você confia na sua equipe, mas sem registro não tem como sab",
+      "fundo_sugerido": "Caderno rabiscado e calculadora."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 9.4,
+      "duracao_s": 5.4,
+      "fala": "Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "Diferenças de dez, vinte reais por dia viram centenas de rea",
+      "fundo_sugerido": "Caderno rabiscado e calculadora."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 15.2,
+      "duracao_s": 8.2,
+      "fala": "O Gestão Comercial registra cada venda, cada retirada e cada reforço do caixa. A diferença aparece na hora, não no fim do mês.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "O Gestão Comercial registra cada venda, cada retirada e cada",
+      "fundo_sugerido": "Tela de fechamento do Gestão Comercial com os totais por forma de pagamento."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 23.8,
+      "duracao_s": 8.2,
+      "fala": "Fechamento em poucos minutos, sem briga e sem caderninho. E você ainda vê o relatório do dia pra saber quanto entrou de verdade.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Fechamento em poucos minutos, sem briga e sem caderninho",
+      "fundo_sugerido": "Tela de fechamento do Gestão Comercial com os totais por forma de pagamento."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 32.4,
+      "duracao_s": 10.0,
+      "fala": "Me chama no WhatsApp (96) 98115-7991 e fala CAIXA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Me chama no WhatsApp (96) 98115-7991 e fala CAIXA",
+      "fundo_sugerido": "Gaveta fechada, sorriso, texto do @ na tela."
+    }
+  ]
+}

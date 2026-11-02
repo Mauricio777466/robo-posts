@@ -1,0 +1,12 @@
+{
+  "text": "IBS e CBS: seu comércio já ouviu falar? <break time=\"0.4s\" /> A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar. <break time=\"0.4s\" /> E o seu contador vai precisar de informação organizada, não de uma caixa de sapato cheia de papel. <break time=\"0.4s\" /> Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente. <break time=\"0.4s\" /> E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão. <break time=\"0.4s\" /> Quer testar sete dias grátis? O link está na bio. Ou manda REFORMA no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.35,
+    "use_speaker_boost": true
+  },
+  "_voice_id": "PREENCHA_NO_CONFIG",
+  "_endpoint": "POST https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
+}

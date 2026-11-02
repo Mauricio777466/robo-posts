@@ -1,0 +1,78 @@
+{
+  "titulo": "Reforma tributária - Macapá",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 46.6,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Cadastro bagunçado vai virar dor de cabeça. Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa. Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar. Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão. Manda REFORMA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.5,
+      "fala": "Cadastro bagunçado vai virar dor de cabeça.",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Cadastro bagunçado vai virar dor de cabeça",
+      "fundo_sugerido": "Texto grande na tela: IBS + CBS."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.9,
+      "duracao_s": 5.0,
+      "fala": "Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "Muito comerciante em Macapá vai deixar pra última hora e pag",
+      "fundo_sugerido": "Pilha de papéis e notas bagunçadas."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 8.3,
+      "duracao_s": 5.0,
+      "fala": "Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "Quem deixar pra última hora vai correr, pagar mais caro e ai",
+      "fundo_sugerido": "Pilha de papéis e notas bagunçadas."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 13.7,
+      "duracao_s": 12.1,
+      "fala": "Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "Com o Gestão Comercial, você já organiza hoje o cadastro dos",
+      "fundo_sugerido": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 26.2,
+      "duracao_s": 10.7,
+      "fala": "E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "E quando a nota fiscal chegar ao sistema, em breve, o seu ca",
+      "fundo_sugerido": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 37.3,
+      "duracao_s": 9.3,
+      "fala": "Manda REFORMA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Manda REFORMA pra MS Tech Soluções no direct e veja isso fun",
+      "fundo_sugerido": "Calendário com o texto: comece agora."
+    }
+  ]
+}

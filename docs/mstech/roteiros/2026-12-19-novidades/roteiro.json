@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121822-novidades-320213",
+  "tema": "novidades",
+  "titulo_tema": "Novidades do Gestão Comercial",
+  "palavra_direct": "NOVIDADE",
+  "cidade": "Macapá",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Sistema bom é sistema que evolui.",
+      "segundos": 2.1,
+      "visual": "Tela de 'Atualizações' do Gestão Comercial.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Sistema antigo trava, não conversa com o celular e deixa o dono no escuro.",
+      "segundos": 5.0,
+      "visual": "Computador velho com sistema travado.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente.",
+      "segundos": 5.7,
+      "visual": "Computador velho com sistema travado.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização.",
+      "segundos": 9.6,
+      "visual": "Montagem: Caixa Rápido, app do dono e app do vendedor.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça.",
+      "segundos": 10.0,
+      "visual": "Montagem: Caixa Rápido, app do dono e app do vendedor.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Me chama no WhatsApp (96) 98115-7991 e fala NOVIDADE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "segundos": 10.0,
+      "visual": "Selo EM BREVE: nota fiscal.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    3,
+    2,
+    0,
+    2,
+    1,
+    3
+  ],
+  "criado_em": "2026-11-02T12:18:22",
+  "narracao": "Sistema bom é sistema que evolui. Sistema antigo trava, não conversa com o celular e deixa o dono no escuro. E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente. A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. Me chama no WhatsApp (96) 98115-7991 e fala NOVIDADE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "duracao_estimada_s": 44.4
+}

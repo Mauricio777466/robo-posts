@@ -1,0 +1,31 @@
+ROTEIRO REELS - FECHAMENTO DO CAIXA
+Duração estimada: 44 segundos | Palavra do direct: CAIXA
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Sumiu dinheiro do caixa e ninguém sabe?
+TELA: Mão contando notas, cara de preocupação.
+
+[02.9s - 11.5s] DOR  (tom: preocupação)
+FALA: Fim do dia, todo mundo cansado, e o dinheiro da gaveta não bate com o que foi vendido. Aí começa a caça à diferença.
+TELA: Caderno rabiscado e calculadora.
+
+[11.9s - 17.3s] O PREJUÍZO  (tom: seriedade)
+FALA: Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês.
+TELA: Caderno rabiscado e calculadora.
+
+[17.7s - 25.6s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: Com o Gestão Comercial, o fechamento sai separado por forma de pagamento. É só contar a gaveta e comparar. Acabou o caderninho.
+TELA: Tela de fechamento do Gestão Comercial com os totais por forma de pagamento.
+
+[26.0s - 34.2s] O RESULTADO  (tom: alegria)
+FALA: Fechamento em poucos minutos, sem briga e sem caderninho. E você ainda vê o relatório do dia pra saber quanto entrou de verdade.
+TELA: Tela de fechamento do Gestão Comercial com os totais por forma de pagamento.
+
+[34.6s - 43.9s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda CAIXA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Gaveta fechada, sorriso, texto do @ na tela.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Sumiu dinheiro do caixa e ninguém sabe? Fim do dia, todo mundo cansado, e o dinheiro da gaveta não bate com o que foi vendido. Aí começa a caça à diferença. Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês. Com o Gestão Comercial, o fechamento sai separado por forma de pagamento. É só contar a gaveta e comparar. Acabou o caderninho. Fechamento em poucos minutos, sem briga e sem caderninho. E você ainda vê o relatório do dia pra saber quanto entrou de verdade. Manda CAIXA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.

@@ -1,0 +1,12 @@
+{
+  "text": "Seu caixa fechou com diferença de novo? <break time=\"0.4s\" /> Você confia na sua equipe, mas sem registro não tem como saber onde o dinheiro foi parar. <break time=\"0.4s\" /> Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês. <break time=\"0.4s\" /> O Gestão Comercial registra cada venda, cada retirada e cada reforço do caixa. A diferença aparece na hora, não no fim do mês. <break time=\"0.4s\" /> Fechamento em poucos minutos, sem briga e sem caderninho. E você ainda vê o relatório do dia pra saber quanto entrou de verdade. <break time=\"0.4s\" /> Me chama no WhatsApp (96) 98115-7991 e fala CAIXA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.35,
+    "use_speaker_boost": true
+  },
+  "_voice_id": "PREENCHA_NO_CONFIG",
+  "_endpoint": "POST https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
+}

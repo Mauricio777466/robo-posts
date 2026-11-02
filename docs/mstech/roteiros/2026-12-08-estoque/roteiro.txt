@@ -1,0 +1,31 @@
+ROTEIRO REELS - CONTROLE DE ESTOQUE
+Duração estimada: 40 segundos | Palavra do direct: ESTOQUE
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Cliente pediu e o produto tinha acabado?
+TELA: Prateleira vazia.
+
+[02.9s - 09.0s] DOR  (tom: preocupação)
+FALA: Sem controle, você compra o que ainda tem no depósito e deixa faltar o que mais vende.
+TELA: Depósito cheio do produto errado.
+
+[09.4s - 14.0s] O PREJUÍZO  (tom: seriedade)
+FALA: E produto em falta faz o cliente se acostumar a comprar no concorrente.
+TELA: Depósito cheio do produto errado.
+
+[14.4s - 21.9s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: No Gestão Comercial, cada venda já baixa o estoque sozinha. Você abre o sistema e vê quanto tem de cada produto.
+TELA: Tela de produtos do Gestão Comercial com a quantidade em estoque.
+
+[22.3s - 30.2s] O RESULTADO  (tom: alegria)
+FALA: Você compra melhor, gasta menos e não deixa faltar o que mais vende. Tudo no mesmo sistema do caixa, sem planilha separada.
+TELA: Tela de produtos do Gestão Comercial com a quantidade em estoque.
+
+[30.6s - 40.2s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Quer testar sete dias grátis? O link está na bio. Ou manda ESTOQUE no direct. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Prateleira cheia com o @ da MS Tech.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Cliente pediu e o produto tinha acabado? Sem controle, você compra o que ainda tem no depósito e deixa faltar o que mais vende. E produto em falta faz o cliente se acostumar a comprar no concorrente. No Gestão Comercial, cada venda já baixa o estoque sozinha. Você abre o sistema e vê quanto tem de cada produto. Você compra melhor, gasta menos e não deixa faltar o que mais vende. Tudo no mesmo sistema do caixa, sem planilha separada. Quer testar sete dias grátis? O link está na bio. Ou manda ESTOQUE no direct. E segue a gente pra mais dicas pro seu comércio em Santana.

@@ -1,0 +1,62 @@
+{
+  "id": "20261102-122223-novidades-221101",
+  "tema": "novidades",
+  "titulo_tema": "Novidades do Gestão Comercial",
+  "palavra_direct": "NOVIDADE",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "O que vem por aí no Gestão Comercial.",
+      "segundos": 2.9,
+      "visual": "Tela de 'Atualizações' do Gestão Comercial.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Sistema antigo trava, não conversa com o celular e deixa o dono no escuro.",
+      "segundos": 5.0,
+      "visual": "Computador velho com sistema travado.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa.",
+      "segundos": 5.4,
+      "visual": "Computador velho com sistema travado.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "No Gestão Comercial, as novidades chegam sem você reinstalar nada: troca de preço com senha do gerente, leitura da etiqueta da balança e o painel no celular. A nota fiscal está a caminho, em breve.",
+      "segundos": 12.5,
+      "visual": "Montagem: Caixa Rápido, app do dono e app do vendedor.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região.",
+      "segundos": 10.0,
+      "visual": "Montagem: Caixa Rápido, app do dono e app do vendedor.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Comenta NOVIDADE aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 7.9,
+      "visual": "Selo EM BREVE: nota fiscal.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    2,
+    2,
+    1,
+    1,
+    0,
+    1
+  ],
+  "criado_em": "2026-11-02T12:22:23",
+  "narracao": "O que vem por aí no Gestão Comercial. Sistema antigo trava, não conversa com o celular e deixa o dono no escuro. Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa. No Gestão Comercial, as novidades chegam sem você reinstalar nada: troca de preço com senha do gerente, leitura da etiqueta da balança e o painel no celular. A nota fiscal está a caminho, em breve. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Comenta NOVIDADE aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 45.7
+}

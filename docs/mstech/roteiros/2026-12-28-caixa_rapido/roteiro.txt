@@ -1,0 +1,31 @@
+ROTEIRO REELS - CAIXA RÁPIDO (AUTOATENDIMENTO)
+Duração estimada: 43 segundos | Palavra do direct: RÁPIDO
+============================================================
+
+[00.0s - 02.1s] GANCHO  (tom: surpresa)
+FALA: Olha esse caixa trabalhando sem operador.
+TELA: Cliente passando produto no leitor do Caixa Rápido.
+
+[02.5s - 08.2s] DOR  (tom: preocupação)
+FALA: No horário de almoço todo mundo quer pagar rápido, e seu único caixa não dá conta.
+TELA: Fila no balcão no horário de almoço.
+
+[08.6s - 12.5s] O PREJUÍZO  (tom: seriedade)
+FALA: E contratar mais gente pesa na folha de pagamento todo mês.
+TELA: Fila no balcão no horário de almoço.
+
+[12.9s - 26.1s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Caixa Rápido da MS Tech Soluções funciona com o seu cadastro do Gestão Comercial: o cliente passa no leitor, lê até a etiqueta da balança, paga no PIX ou na sua maquininha e leva o cupom.
+TELA: Tela do PIX com QR e a tela de compra aprovada.
+
+[26.5s - 33.3s] O RESULTADO  (tom: alegria)
+FALA: O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria.
+TELA: Tela do PIX com QR e a tela de compra aprovada.
+
+[33.7s - 43.0s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda RÁPIDO pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Cupom saindo da impressora.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Olha esse caixa trabalhando sem operador. No horário de almoço todo mundo quer pagar rápido, e seu único caixa não dá conta. E contratar mais gente pesa na folha de pagamento todo mês. O Caixa Rápido da MS Tech Soluções funciona com o seu cadastro do Gestão Comercial: o cliente passa no leitor, lê até a etiqueta da balança, paga no PIX ou na sua maquininha e leva o cupom. O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria. Manda RÁPIDO pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.

@@ -1,0 +1,31 @@
+ROTEIRO REELS - SEGURANÇA NO CAIXA
+Duração estimada: 45 segundos | Palavra do direct: SEGURO
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Quem mexeu no preço do seu produto?
+TELA: Close numa etiqueta de preço sendo riscada.
+
+[02.9s - 10.4s] DOR  (tom: preocupação)
+FALA: O operador muda o preço na hora de passar, dá desconto pro conhecido, e você só descobre quando o lucro some.
+TELA: Computador desligado com fumaça (efeito) ou caixa vazio.
+
+[10.8s - 17.9s] O PREJUÍZO  (tom: seriedade)
+FALA: Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar.
+TELA: Computador desligado com fumaça (efeito) ou caixa vazio.
+
+[18.3s - 27.6s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: No Gestão Comercial, trocar o preço no caixa só com a senha do gerente, e fica tudo registrado: quem trocou, quando e de quanto pra quanto.
+TELA: Tela pedindo a senha do gerente para trocar o preço.
+
+[28.0s - 36.2s] O RESULTADO  (tom: alegria)
+FALA: Você define o que cada funcionário pode fazer e confere tudo depois. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar.
+TELA: Tela pedindo a senha do gerente para trocar o preço.
+
+[36.6s - 45.2s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda SEGURO no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Cadeado na tela com o @ da MS Tech.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Quem mexeu no preço do seu produto? O operador muda o preço na hora de passar, dá desconto pro conhecido, e você só descobre quando o lucro some. Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar. No Gestão Comercial, trocar o preço no caixa só com a senha do gerente, e fica tudo registrado: quem trocou, quando e de quanto pra quanto. Você define o que cada funcionário pode fazer e confere tudo depois. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar. Manda SEGURO no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Macapá.

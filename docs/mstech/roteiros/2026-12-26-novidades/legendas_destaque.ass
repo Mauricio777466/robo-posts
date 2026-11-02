@@ -1,0 +1,55 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Viral,Arial Black,88,&H0015CCFA,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,2,60,60,520,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:01.05,Viral,,0,0,0,,{\k57}SISTEMA {\k26}BOM {\k5}É
+Dialogue: 0,0:00:01.01,0:00:02.17,Viral,,0,0,0,,{\k48}SISTEMA {\k10}QUE {\k50}EVOLUI
+Dialogue: 0,0:00:02.94,0:00:03.84,Viral,,0,0,0,,{\k31}MUITO {\k46}COMÉRCIO {\k5}EM
+Dialogue: 0,0:00:03.80,0:00:04.88,Viral,,0,0,0,,{\k48}SANTANA {\k31}AINDA {\k22}USA
+Dialogue: 0,0:00:04.84,0:00:05.89,Viral,,0,0,0,,{\k50}SISTEMA {\k12}QUE {\k35}NUNCA
+Dialogue: 0,0:00:05.85,0:00:07.84,Viral,,0,0,0,,{\k43}RECEBE {\k55}MELHORIA {\k11}A
+Dialogue: 0,0:00:07.80,0:00:08.74,Viral,,0,0,0,,{\k20}LEI {\k38}MUDA {\k7}O
+Dialogue: 0,0:00:08.70,0:00:09.91,Viral,,0,0,0,,{\k43}CLIENTE {\k37}MUDA {\k8}E
+Dialogue: 0,0:00:09.87,0:00:10.93,Viral,,0,0,0,,{\k5}O {\k44}PROGRAMA {\k49}CONTINUA
+Dialogue: 0,0:00:10.89,0:00:12.67,Viral,,0,0,0,,{\k33}IGUAL {\k11}E {\k46}SISTEMA
+Dialogue: 0,0:00:12.63,0:00:13.70,Viral,,0,0,0,,{\k40}PARADO {\k30}CUSTA {\k30}CARO
+Dialogue: 0,0:00:13.98,0:00:15.09,Viral,,0,0,0,,{\k29}VOCÊ {\k38}PERDE {\k36}TEMPO
+Dialogue: 0,0:00:15.32,0:00:16.10,Viral,,0,0,0,,{\k34}PERDE {\k32}VENDA {\k4}E
+Dialogue: 0,0:00:16.06,0:00:16.85,Viral,,0,0,0,,{\k28}FICA {\k18}PRA {\k27}TRÁS
+Dialogue: 0,0:00:16.82,0:00:18.62,Viral,,0,0,0,,{\k11}DO {\k64}CONCORRENTE {\k17}NO
+Dialogue: 0,0:00:18.58,0:00:19.99,Viral,,0,0,0,,{\k35}GESTÃO {\k64}COMERCIAL {\k16}AS
+Dialogue: 0,0:00:19.95,0:00:21.16,Viral,,0,0,0,,{\k64}NOVIDADES {\k30}CHEGAM {\k19}SEM
+Dialogue: 0,0:00:21.12,0:00:22.29,Viral,,0,0,0,,{\k28}VOCÊ {\k51}REINSTALAR {\k31}NADA
+Dialogue: 0,0:00:22.54,0:00:23.42,Viral,,0,0,0,,{\k31}TROCA {\k12}DE {\k37}PREÇO
+Dialogue: 0,0:00:23.38,0:00:23.99,Viral,,0,0,0,,{\k16}COM {\k30}SENHA {\k8}DO
+Dialogue: 0,0:00:23.95,0:00:25.36,Viral,,0,0,0,,{\k49}GERENTE {\k43}LEITURA {\k11}DA
+Dialogue: 0,0:00:25.32,0:00:26.49,Viral,,0,0,0,,{\k46}ETIQUETA {\k8}DA {\k55}BALANÇA
+Dialogue: 0,0:00:26.45,0:00:27.02,Viral,,0,0,0,,{\k4}E {\k6}O {\k40}PAINEL
+Dialogue: 0,0:00:26.98,0:00:28.54,Viral,,0,0,0,,{\k10}NO {\k47}CELULAR {\k10}A
+Dialogue: 0,0:00:28.50,0:00:29.53,Viral,,0,0,0,,{\k32}NOTA {\k43}FISCAL {\k20}ESTÁ
+Dialogue: 0,0:00:29.50,0:00:30.38,Viral,,0,0,0,,{\k2}A {\k46}CAMINHO {\k12}EM
+Dialogue: 0,0:00:30.34,0:00:32.48,Viral,,0,0,0,,{\k40}BREVE {\k29}VOCÊ {\k56}ACOMPANHA
+Dialogue: 0,0:00:32.44,0:00:33.27,Viral,,0,0,0,,{\k7}AS {\k53}MUDANÇAS {\k16}SEM
+Dialogue: 0,0:00:33.23,0:00:34.29,Viral,,0,0,0,,{\k37}TROCAR {\k10}DE {\k52}SISTEMA
+Dialogue: 0,0:00:34.26,0:00:34.88,Viral,,0,0,0,,{\k5}E {\k24}SEM {\k27}DOR
+Dialogue: 0,0:00:34.84,0:00:36.42,Viral,,0,0,0,,{\k8}DE {\k49}CABEÇA {\k11}E
+Dialogue: 0,0:00:36.38,0:00:37.43,Viral,,0,0,0,,{\k14}TEM {\k49}SUPORTE {\k34}DAQUI
+Dialogue: 0,0:00:37.57,0:00:38.09,Viral,,0,0,0,,{\k14}QUE {\k28}FALA {\k2}A
+Dialogue: 0,0:00:38.05,0:00:38.72,Viral,,0,0,0,,{\k23}SUA {\k33}LÍNGUA {\k4}E
+Dialogue: 0,0:00:38.68,0:00:39.72,Viral,,0,0,0,,{\k46}CONHECE {\k2}O {\k49}COMÉRCIO
+Dialogue: 0,0:00:39.69,0:00:41.58,Viral,,0,0,0,,{\k10}DA {\k47}REGIÃO {\k43}COMENTA
+Dialogue: 0,0:00:41.54,0:00:42.75,Viral,,0,0,0,,{\k45}NOVIDADE {\k17}AQUI {\k53}EMBAIXO
+Dialogue: 0,0:00:42.72,0:00:43.03,Viral,,0,0,0,,{\k5}QUE {\k7}EU {\k12}TE
+Dialogue: 0,0:00:42.99,0:00:43.99,Viral,,0,0,0,,{\k30}CHAMO {\k10}NO {\k53}DIRECT
+Dialogue: 0,0:00:44.77,0:00:45.30,Viral,,0,0,0,,{\k11}E {\k30}SEGUE {\k5}A
+Dialogue: 0,0:00:45.26,0:00:45.96,Viral,,0,0,0,,{\k29}GENTE {\k12}PRA {\k22}MAIS
+Dialogue: 0,0:00:45.92,0:00:46.66,Viral,,0,0,0,,{\k39}DICAS {\k12}PRO {\k16}SEU
+Dialogue: 0,0:00:46.62,0:00:47.85,Viral,,0,0,0,,{\k50}COMÉRCIO {\k6}EM {\k59}SANTANA

@@ -1,0 +1,31 @@
+ROTEIRO REELS - NOVIDADES DO GESTÃO COMERCIAL
+Duração estimada: 45 segundos | Palavra do direct: NOVIDADE
+============================================================
+
+[00.0s - 01.8s] GANCHO  (tom: surpresa)
+FALA: Seu sistema parou no tempo?
+TELA: Tela de 'Atualizações' do Gestão Comercial.
+
+[02.2s - 09.0s] DOR  (tom: preocupação)
+FALA: Você paga por um sistema e, quando pede uma melhoria, ninguém responde. Fica tudo do mesmo jeito por anos.
+TELA: Computador velho com sistema travado.
+
+[09.4s - 14.8s] O PREJUÍZO  (tom: seriedade)
+FALA: Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa.
+TELA: Computador velho com sistema travado.
+
+[15.2s - 24.8s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização.
+TELA: Montagem: Caixa Rápido, app do dono e app do vendedor.
+
+[25.2s - 35.2s] O RESULTADO  (tom: alegria)
+FALA: Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região.
+TELA: Montagem: Caixa Rápido, app do dono e app do vendedor.
+
+[35.6s - 44.9s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda NOVIDADE pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Selo EM BREVE: nota fiscal.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Seu sistema parou no tempo? Você paga por um sistema e, quando pede uma melhoria, ninguém responde. Fica tudo do mesmo jeito por anos. Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa. A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Manda NOVIDADE pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.

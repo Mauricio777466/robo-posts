@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121802-fechamento-201104",
+  "tema": "fechamento",
+  "titulo_tema": "Fechamento do caixa",
+  "palavra_direct": "CAIXA",
+  "cidade": "Macapá",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Sumiu dinheiro do caixa e ninguém sabe?",
+      "segundos": 2.5,
+      "visual": "Mão contando notas, cara de preocupação.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Fim do dia, todo mundo cansado, e o dinheiro da gaveta não bate com o que foi vendido. Aí começa a caça à diferença.",
+      "segundos": 8.6,
+      "visual": "Caderno rabiscado e calculadora.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês.",
+      "segundos": 5.4,
+      "visual": "Caderno rabiscado e calculadora.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "Com o Gestão Comercial, o fechamento sai separado por forma de pagamento. É só contar a gaveta e comparar. Acabou o caderninho.",
+      "segundos": 7.9,
+      "visual": "Tela de fechamento do Gestão Comercial com os totais por forma de pagamento.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Fechamento em poucos minutos, sem briga e sem caderninho. E você ainda vê o relatório do dia pra saber quanto entrou de verdade.",
+      "segundos": 8.2,
+      "visual": "Tela de fechamento do Gestão Comercial com os totais por forma de pagamento.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Manda CAIXA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "segundos": 9.3,
+      "visual": "Gaveta fechada, sorriso, texto do @ na tela.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    2,
+    0,
+    1,
+    1,
+    0,
+    4
+  ],
+  "criado_em": "2026-11-02T12:18:02",
+  "narracao": "Sumiu dinheiro do caixa e ninguém sabe? Fim do dia, todo mundo cansado, e o dinheiro da gaveta não bate com o que foi vendido. Aí começa a caça à diferença. Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês. Com o Gestão Comercial, o fechamento sai separado por forma de pagamento. É só contar a gaveta e comparar. Acabou o caderninho. Fechamento em poucos minutos, sem briga e sem caderninho. E você ainda vê o relatório do dia pra saber quanto entrou de verdade. Manda CAIXA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "duracao_estimada_s": 43.9
+}

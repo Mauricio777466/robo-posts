@@ -1,0 +1,78 @@
+{
+  "titulo": "Etiqueta da balança no caixa - Macapá",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 42.4,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Bipou a etiqueta, já saiu o valor. No açougue ou na padaria, o operador lê o peso na etiqueta e digita na mão. Um número errado e você perde dinheiro. E cliente que vê valor errado perde a confiança na sua loja. Com o Gestão Comercial, a etiqueta da balança entra no caixa e no Caixa Rápido do mesmo jeito: bipou, está lançado. Mais rapidez no caixa e o valor sempre certo, pra você e pro cliente. Serve pra açougue, padaria, hortifrúti e tudo que sai pesado na balança. Manda BALANÇA no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.5,
+      "fala": "Bipou a etiqueta, já saiu o valor.",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Bipou a etiqueta, já saiu o valor",
+      "fundo_sugerido": "Close na etiqueta da balança sendo bipada."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.9,
+      "duracao_s": 8.2,
+      "fala": "No açougue ou na padaria, o operador lê o peso na etiqueta e digita na mão. Um número errado e você perde dinheiro.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "No açougue ou na padaria, o operador lê o peso na etiqueta e",
+      "fundo_sugerido": "Operador digitando o peso devagar."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 11.5,
+      "duracao_s": 4.3,
+      "fala": "E cliente que vê valor errado perde a confiança na sua loja.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "E cliente que vê valor errado perde a confiança na sua loja",
+      "fundo_sugerido": "Operador digitando o peso devagar."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 16.2,
+      "duracao_s": 7.5,
+      "fala": "Com o Gestão Comercial, a etiqueta da balança entra no caixa e no Caixa Rápido do mesmo jeito: bipou, está lançado.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "Com o Gestão Comercial, a etiqueta da balança entra no caixa",
+      "fundo_sugerido": "Produto pesado aparecendo sozinho na tela do caixa."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 24.1,
+      "duracao_s": 9.3,
+      "fala": "Mais rapidez no caixa e o valor sempre certo, pra você e pro cliente. Serve pra açougue, padaria, hortifrúti e tudo que sai pesado na balança.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Mais rapidez no caixa e o valor sempre certo, pra você e pro",
+      "fundo_sugerido": "Produto pesado aparecendo sozinho na tela do caixa."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 33.8,
+      "duracao_s": 8.6,
+      "fala": "Manda BALANÇA no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Manda BALANÇA no direct que eu te mostro funcionando na sua ",
+      "fundo_sugerido": "Balança com o @ da MS Tech."
+    }
+  ]
+}

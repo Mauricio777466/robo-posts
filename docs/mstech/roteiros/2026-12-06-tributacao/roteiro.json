@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121355-tributacao-201114",
+  "tema": "tributacao",
+  "titulo_tema": "Reforma tributária",
+  "palavra_direct": "REFORMA",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Cadastro bagunçado vai virar dor de cabeça.",
+      "segundos": 2.5,
+      "visual": "Texto grande na tela: IBS + CBS.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar.",
+      "segundos": 8.9,
+      "visual": "Pilha de papéis e notas bagunçadas.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "E o seu contador vai precisar de informação organizada, não de uma caixa de sapato cheia de papel.",
+      "segundos": 6.4,
+      "visual": "Pilha de papéis e notas bagunçadas.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "A MS Tech Soluções implanta o Gestão Comercial e ajuda a deixar o cadastro em ordem agora, com calma. A nota fiscal no sistema vem em breve.",
+      "segundos": 9.6,
+      "visual": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão.",
+      "segundos": 10.7,
+      "visual": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Manda REFORMA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 9.3,
+      "visual": "Calendário com o texto: comece agora.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    2,
+    0,
+    1,
+    1,
+    1,
+    4
+  ],
+  "criado_em": "2026-11-02T12:13:55",
+  "narracao": "Cadastro bagunçado vai virar dor de cabeça. A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar. E o seu contador vai precisar de informação organizada, não de uma caixa de sapato cheia de papel. A MS Tech Soluções implanta o Gestão Comercial e ajuda a deixar o cadastro em ordem agora, com calma. A nota fiscal no sistema vem em breve. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão. Manda REFORMA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 49.4
+}

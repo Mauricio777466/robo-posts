@@ -1,0 +1,31 @@
+ROTEIRO REELS - CAIXA RÁPIDO (AUTOATENDIMENTO)
+Duração estimada: 41 segundos | Palavra do direct: RÁPIDO
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Mercadinho com autoatendimento em Santana? Tem sim.
+TELA: Cliente passando produto no leitor do Caixa Rápido.
+
+[02.9s - 08.6s] DOR  (tom: preocupação)
+FALA: No horário de almoço todo mundo quer pagar rápido, e seu único caixa não dá conta.
+TELA: Fila no balcão no horário de almoço.
+
+[09.0s - 14.0s] O PREJUÍZO  (tom: seriedade)
+FALA: Enquanto isso, o cliente da compra rápida desiste e vai na loja do lado.
+TELA: Fila no balcão no horário de almoço.
+
+[14.4s - 24.0s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem.
+TELA: Tela do PIX com QR e a tela de compra aprovada.
+
+[24.4s - 31.2s] O RESULTADO  (tom: alegria)
+FALA: É ideal pra mercadinho, conveniência, padaria e açaiteria. O cliente ganha tempo, e você vende mais no mesmo horário.
+TELA: Tela do PIX com QR e a tela de compra aprovada.
+
+[31.6s - 41.2s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Quer testar sete dias grátis? O link está na bio. Ou manda RÁPIDO no direct. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Cupom saindo da impressora.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Mercadinho com autoatendimento em Santana? Tem sim. No horário de almoço todo mundo quer pagar rápido, e seu único caixa não dá conta. Enquanto isso, o cliente da compra rápida desiste e vai na loja do lado. O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem. É ideal pra mercadinho, conveniência, padaria e açaiteria. O cliente ganha tempo, e você vende mais no mesmo horário. Quer testar sete dias grátis? O link está na bio. Ou manda RÁPIDO no direct. E segue a gente pra mais dicas pro seu comércio em Santana.

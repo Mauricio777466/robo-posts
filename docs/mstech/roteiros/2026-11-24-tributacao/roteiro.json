@@ -1,0 +1,62 @@
+{
+  "id": "20261102-120945-tributacao-001012",
+  "tema": "tributacao",
+  "titulo_tema": "Reforma tributária",
+  "palavra_direct": "REFORMA",
+  "cidade": "Macapá",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "IBS e CBS: seu comércio já ouviu falar?",
+      "segundos": 2.9,
+      "visual": "Texto grande na tela: IBS + CBS.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar.",
+      "segundos": 8.9,
+      "visual": "Pilha de papéis e notas bagunçadas.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "E o seu contador vai precisar de informação organizada, não de uma caixa de sapato cheia de papel.",
+      "segundos": 6.4,
+      "visual": "Pilha de papéis e notas bagunçadas.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente.",
+      "segundos": 12.1,
+      "visual": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão.",
+      "segundos": 10.7,
+      "visual": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Quer testar sete dias grátis? O link está na bio. Ou manda REFORMA no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "segundos": 9.6,
+      "visual": "Calendário com o texto: comece agora.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    0,
+    0,
+    1,
+    0,
+    1,
+    2
+  ],
+  "criado_em": "2026-11-02T12:09:45",
+  "narracao": "IBS e CBS: seu comércio já ouviu falar? A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar. E o seu contador vai precisar de informação organizada, não de uma caixa de sapato cheia de papel. Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão. Quer testar sete dias grátis? O link está na bio. Ou manda REFORMA no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "duracao_estimada_s": 52.6
+}

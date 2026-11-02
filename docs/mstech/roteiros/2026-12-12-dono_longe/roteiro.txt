@@ -1,0 +1,31 @@
+ROTEIRO REELS - ACOMPANHAR A LOJA DE LONGE
+Duração estimada: 39 segundos | Palavra do direct: DONO
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Quanto sua loja vendeu agora? Você sabe?
+TELA: Você numa rede ou na praia olhando o celular.
+
+[02.9s - 08.6s] DOR  (tom: preocupação)
+FALA: Pra saber quanto vendeu no dia, você tem que ligar pro funcionário ou esperar o fechamento.
+TELA: Ligação perdida: 'Fulano do caixa'.
+
+[09.0s - 15.4s] O PREJUÍZO  (tom: seriedade)
+FALA: Resultado: você vive preso no balcão e não sobra tempo pra família nem pra fazer o negócio crescer.
+TELA: Ligação perdida: 'Fulano do caixa'.
+
+[15.8s - 22.9s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Gestão Comercial manda as vendas para o painel na nuvem, e você confere tudo pelo celular, até de casa.
+TELA: Tela do app do dono com as vendas do dia.
+
+[23.3s - 30.8s] O RESULTADO  (tom: alegria)
+FALA: Você decide com os números na mão, e não no achismo. Mais tempo pra você, sem perder o controle da loja.
+TELA: Tela do app do dono com as vendas do dia.
+
+[31.2s - 39.1s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Comenta DONO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Celular na mão com o @ da MS Tech.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Quanto sua loja vendeu agora? Você sabe? Pra saber quanto vendeu no dia, você tem que ligar pro funcionário ou esperar o fechamento. Resultado: você vive preso no balcão e não sobra tempo pra família nem pra fazer o negócio crescer. O Gestão Comercial manda as vendas para o painel na nuvem, e você confere tudo pelo celular, até de casa. Você decide com os números na mão, e não no achismo. Mais tempo pra você, sem perder o controle da loja. Comenta DONO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.

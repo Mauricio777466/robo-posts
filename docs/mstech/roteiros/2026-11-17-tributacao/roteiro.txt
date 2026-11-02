@@ -1,0 +1,31 @@
+ROTEIRO REELS - REFORMA TRIBUTÁRIA
+Duração estimada: 47 segundos | Palavra do direct: REFORMA
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Cadastro bagunçado vai virar dor de cabeça.
+TELA: Texto grande na tela: IBS + CBS.
+
+[02.9s - 07.9s] DOR  (tom: preocupação)
+FALA: Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa.
+TELA: Pilha de papéis e notas bagunçadas.
+
+[08.3s - 14.7s] O PREJUÍZO  (tom: seriedade)
+FALA: E o seu contador vai precisar de informação organizada, não de uma caixa de sapato cheia de papel.
+TELA: Pilha de papéis e notas bagunçadas.
+
+[15.1s - 27.2s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente.
+TELA: Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.
+
+[27.6s - 38.3s] O RESULTADO  (tom: alegria)
+FALA: Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto.
+TELA: Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.
+
+[38.7s - 46.6s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Comenta REFORMA aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Calendário com o texto: comece agora.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Cadastro bagunçado vai virar dor de cabeça. Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa. E o seu contador vai precisar de informação organizada, não de uma caixa de sapato cheia de papel. Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente. Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Comenta REFORMA aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.

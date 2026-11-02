@@ -1,0 +1,31 @@
+ROTEIRO REELS - ACOMPANHAR A LOJA DE LONGE
+Duração estimada: 40 segundos | Palavra do direct: DONO
+============================================================
+
+[00.0s - 02.1s] GANCHO  (tom: surpresa)
+FALA: Dono de loja também merece folga.
+TELA: Você numa rede ou na praia olhando o celular.
+
+[02.5s - 08.2s] DOR  (tom: preocupação)
+FALA: Pra saber quanto vendeu no dia, você tem que ligar pro funcionário ou esperar o fechamento.
+TELA: Ligação perdida: 'Fulano do caixa'.
+
+[08.6s - 15.0s] O PREJUÍZO  (tom: seriedade)
+FALA: Resultado: você vive preso no balcão e não sobra tempo pra família nem pra fazer o negócio crescer.
+TELA: Ligação perdida: 'Fulano do caixa'.
+
+[15.4s - 22.5s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Gestão Comercial manda as vendas para o painel na nuvem, e você confere tudo pelo celular, até de casa.
+TELA: Tela do app do dono com as vendas do dia.
+
+[22.9s - 30.4s] O RESULTADO  (tom: alegria)
+FALA: Mais tempo pra você, sem perder o controle da loja. Você decide com os números na mão, e não no achismo.
+TELA: Tela do app do dono com as vendas do dia.
+
+[30.8s - 40.1s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda DONO pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Celular na mão com o @ da MS Tech.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Dono de loja também merece folga. Pra saber quanto vendeu no dia, você tem que ligar pro funcionário ou esperar o fechamento. Resultado: você vive preso no balcão e não sobra tempo pra família nem pra fazer o negócio crescer. O Gestão Comercial manda as vendas para o painel na nuvem, e você confere tudo pelo celular, até de casa. Mais tempo pra você, sem perder o controle da loja. Você decide com os números na mão, e não no achismo. Manda DONO pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.

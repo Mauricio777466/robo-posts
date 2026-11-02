@@ -1,0 +1,31 @@
+ROTEIRO REELS - NOVIDADES DO GESTÃO COMERCIAL
+Duração estimada: 48 segundos | Palavra do direct: NOVIDADE
+============================================================
+
+[00.0s - 02.1s] GANCHO  (tom: surpresa)
+FALA: Sistema bom é sistema que evolui.
+TELA: Tela de 'Atualizações' do Gestão Comercial.
+
+[02.5s - 10.4s] DOR  (tom: preocupação)
+FALA: Muito comércio em Santana ainda usa sistema que nunca recebe melhoria. A lei muda, o cliente muda, e o programa continua igual.
+TELA: Computador velho com sistema travado.
+
+[10.8s - 16.5s] O PREJUÍZO  (tom: seriedade)
+FALA: E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente.
+TELA: Computador velho com sistema travado.
+
+[16.9s - 29.4s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: No Gestão Comercial, as novidades chegam sem você reinstalar nada: troca de preço com senha do gerente, leitura da etiqueta da balança e o painel no celular. A nota fiscal está a caminho, em breve.
+TELA: Montagem: Caixa Rápido, app do dono e app do vendedor.
+
+[29.8s - 39.8s] O RESULTADO  (tom: alegria)
+FALA: Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região.
+TELA: Montagem: Caixa Rápido, app do dono e app do vendedor.
+
+[40.2s - 48.1s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Comenta NOVIDADE aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Selo EM BREVE: nota fiscal.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Sistema bom é sistema que evolui. Muito comércio em Santana ainda usa sistema que nunca recebe melhoria. A lei muda, o cliente muda, e o programa continua igual. E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente. No Gestão Comercial, as novidades chegam sem você reinstalar nada: troca de preço com senha do gerente, leitura da etiqueta da balança e o painel no celular. A nota fiscal está a caminho, em breve. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Comenta NOVIDADE aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.

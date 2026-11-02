@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121555-dono_longe-110211",
+  "tema": "dono_longe",
+  "titulo_tema": "Acompanhar a loja de longe",
+  "palavra_direct": "DONO",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Quanto sua loja vendeu agora? Você sabe?",
+      "segundos": 2.5,
+      "visual": "Você numa rede ou na praia olhando o celular.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Pra saber quanto vendeu no dia, você tem que ligar pro funcionário ou esperar o fechamento.",
+      "segundos": 5.7,
+      "visual": "Ligação perdida: 'Fulano do caixa'.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Resultado: você vive preso no balcão e não sobra tempo pra família nem pra fazer o negócio crescer.",
+      "segundos": 6.4,
+      "visual": "Ligação perdida: 'Fulano do caixa'.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "O Gestão Comercial manda as vendas para o painel na nuvem, e você confere tudo pelo celular, até de casa.",
+      "segundos": 7.1,
+      "visual": "Tela do app do dono com as vendas do dia.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Você decide com os números na mão, e não no achismo. Mais tempo pra você, sem perder o controle da loja.",
+      "segundos": 7.5,
+      "visual": "Tela do app do dono com as vendas do dia.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Comenta DONO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 7.9,
+      "visual": "Celular na mão com o @ da MS Tech.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    1
+  ],
+  "criado_em": "2026-11-02T12:15:55",
+  "narracao": "Quanto sua loja vendeu agora? Você sabe? Pra saber quanto vendeu no dia, você tem que ligar pro funcionário ou esperar o fechamento. Resultado: você vive preso no balcão e não sobra tempo pra família nem pra fazer o negócio crescer. O Gestão Comercial manda as vendas para o painel na nuvem, e você confere tudo pelo celular, até de casa. Você decide com os números na mão, e não no achismo. Mais tempo pra você, sem perder o controle da loja. Comenta DONO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 39.1
+}

@@ -1,0 +1,78 @@
+{
+  "titulo": "Segurança no caixa - Santana",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 44.9,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Seu computador quebrou. E as vendas de hoje? Um dia o computador do caixa queima, e com ele vão embora o cadastro, as vendas e o histórico da loja. Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar. No Gestão Comercial, trocar o preço no caixa só com a senha do gerente, e fica tudo registrado: quem trocou, quando e de quanto pra quanto. Você define o que cada funcionário pode fazer e confere tudo depois. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar. Comenta SEGURO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.9,
+      "fala": "Seu computador quebrou. E as vendas de hoje?",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Seu computador quebrou",
+      "fundo_sugerido": "Close numa etiqueta de preço sendo riscada."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 3.3,
+      "duracao_s": 7.5,
+      "fala": "Um dia o computador do caixa queima, e com ele vão embora o cadastro, as vendas e o histórico da loja.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "Um dia o computador do caixa queima, e com ele vão embora o ",
+      "fundo_sugerido": "Computador desligado com fumaça (efeito) ou caixa vazio."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 11.2,
+      "duracao_s": 7.1,
+      "fala": "Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "Um desconto aqui, um preço trocado ali, e no fim do mês o pr",
+      "fundo_sugerido": "Computador desligado com fumaça (efeito) ou caixa vazio."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 18.7,
+      "duracao_s": 9.3,
+      "fala": "No Gestão Comercial, trocar o preço no caixa só com a senha do gerente, e fica tudo registrado: quem trocou, quando e de quanto pra quanto.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "No Gestão Comercial, trocar o preço no caixa só com a senha ",
+      "fundo_sugerido": "Tela pedindo a senha do gerente para trocar o preço."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 28.4,
+      "duracao_s": 8.2,
+      "fala": "Você define o que cada funcionário pode fazer e confere tudo depois. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Você define o que cada funcionário pode fazer e confere tudo",
+      "fundo_sugerido": "Tela pedindo a senha do gerente para trocar o preço."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 37.0,
+      "duracao_s": 7.9,
+      "fala": "Comenta SEGURO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Comenta SEGURO aqui embaixo que eu te chamo no direct",
+      "fundo_sugerido": "Cadeado na tela com o @ da MS Tech."
+    }
+  ]
+}

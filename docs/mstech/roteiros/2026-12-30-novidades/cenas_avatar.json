@@ -1,0 +1,78 @@
+{
+  "titulo": "Novidades do Gestão Comercial - Santana",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 45.7,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "O que vem por aí no Gestão Comercial. Sistema antigo trava, não conversa com o celular e deixa o dono no escuro. Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa. No Gestão Comercial, as novidades chegam sem você reinstalar nada: troca de preço com senha do gerente, leitura da etiqueta da balança e o painel no celular. A nota fiscal está a caminho, em breve. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Comenta NOVIDADE aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.9,
+      "fala": "O que vem por aí no Gestão Comercial.",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "O que vem por aí no Gestão Comercial",
+      "fundo_sugerido": "Tela de 'Atualizações' do Gestão Comercial."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 3.3,
+      "duracao_s": 5.0,
+      "fala": "Sistema antigo trava, não conversa com o celular e deixa o dono no escuro.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "Sistema antigo trava, não conversa com o celular e deixa o d",
+      "fundo_sugerido": "Computador velho com sistema travado."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 8.7,
+      "duracao_s": 5.4,
+      "fala": "Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "Quando a lei muda, quem tem sistema sem atualização corre at",
+      "fundo_sugerido": "Computador velho com sistema travado."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 14.5,
+      "duracao_s": 12.5,
+      "fala": "No Gestão Comercial, as novidades chegam sem você reinstalar nada: troca de preço com senha do gerente, leitura da etiqueta da balança e o painel no celular. A nota fiscal está a caminho, em breve.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "No Gestão Comercial, as novidades chegam sem você reinstalar",
+      "fundo_sugerido": "Montagem: Caixa Rápido, app do dono e app do vendedor."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 27.4,
+      "duracao_s": 10.0,
+      "fala": "Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Você acompanha as mudanças sem trocar de sistema e sem dor d",
+      "fundo_sugerido": "Montagem: Caixa Rápido, app do dono e app do vendedor."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 37.8,
+      "duracao_s": 7.9,
+      "fala": "Comenta NOVIDADE aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Comenta NOVIDADE aqui embaixo que eu te chamo no direct",
+      "fundo_sugerido": "Selo EM BREVE: nota fiscal."
+    }
+  ]
+}

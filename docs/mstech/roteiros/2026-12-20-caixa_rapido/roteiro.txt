@@ -1,0 +1,31 @@
+ROTEIRO REELS - CAIXA RÁPIDO (AUTOATENDIMENTO)
+Duração estimada: 38 segundos | Palavra do direct: RÁPIDO
+============================================================
+
+[00.0s - 02.1s] GANCHO  (tom: surpresa)
+FALA: Olha esse caixa trabalhando sem operador.
+TELA: Cliente passando produto no leitor do Caixa Rápido.
+
+[02.5s - 07.9s] DOR  (tom: preocupação)
+FALA: Você vê autoatendimento nos mercados grandes e acha que é caro demais pra sua loja.
+TELA: Fila no balcão no horário de almoço.
+
+[08.3s - 12.2s] O PREJUÍZO  (tom: seriedade)
+FALA: E contratar mais gente pesa na folha de pagamento todo mês.
+TELA: Fila no balcão no horário de almoço.
+
+[12.6s - 22.2s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem.
+TELA: Tela do PIX com QR e a tela de compra aprovada.
+
+[22.6s - 29.4s] O RESULTADO  (tom: alegria)
+FALA: É ideal pra mercadinho, conveniência, padaria e açaiteria. O cliente ganha tempo, e você vende mais no mesmo horário.
+TELA: Tela do PIX com QR e a tela de compra aprovada.
+
+[29.8s - 38.4s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda RÁPIDO no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Cupom saindo da impressora.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Olha esse caixa trabalhando sem operador. Você vê autoatendimento nos mercados grandes e acha que é caro demais pra sua loja. E contratar mais gente pesa na folha de pagamento todo mês. O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem. É ideal pra mercadinho, conveniência, padaria e açaiteria. O cliente ganha tempo, e você vende mais no mesmo horário. Manda RÁPIDO no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.

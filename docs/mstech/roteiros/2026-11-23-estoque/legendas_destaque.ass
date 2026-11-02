@@ -1,0 +1,45 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Viral,Arial Black,88,&H0015CCFA,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,2,60,60,520,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:01.00,Viral,,0,0,0,,{\k25}SEU {\k38}ESTOQUE {\k19}ESTÁ
+Dialogue: 0,0:00:00.96,0:00:01.58,Viral,,0,0,0,,{\k22}SÓ {\k11}NA {\k22}SUA
+Dialogue: 0,0:00:01.54,0:00:03.76,Viral,,0,0,0,,{\k55}CABEÇA {\k30}SEM {\k48}CONTROLE
+Dialogue: 0,0:00:04.04,0:00:04.72,Viral,,0,0,0,,{\k25}VOCÊ {\k34}COMPRA {\k2}O
+Dialogue: 0,0:00:04.69,0:00:05.23,Viral,,0,0,0,,{\k10}QUE {\k25}AINDA {\k12}TEM
+Dialogue: 0,0:00:05.19,0:00:05.94,Viral,,0,0,0,,{\k10}NO {\k55}DEPÓSITO {\k2}E
+Dialogue: 0,0:00:05.90,0:00:06.74,Viral,,0,0,0,,{\k31}DEIXA {\k41}FALTAR {\k5}O
+Dialogue: 0,0:00:06.71,0:00:07.49,Viral,,0,0,0,,{\k10}QUE {\k26}MAIS {\k35}VENDE
+Dialogue: 0,0:00:08.27,0:00:09.23,Viral,,0,0,0,,{\k46}DINHEIRO {\k38}PARADO {\k5}EM
+Dialogue: 0,0:00:09.20,0:00:10.10,Viral,,0,0,0,,{\k55}MERCADORIA {\k11}QUE {\k17}NÃO
+Dialogue: 0,0:00:10.06,0:00:10.82,Viral,,0,0,0,,{\k29}VENDE {\k4}É {\k36}DINHEIRO
+Dialogue: 0,0:00:10.78,0:00:11.44,Viral,,0,0,0,,{\k12}QUE {\k35}FALTA {\k12}PRA
+Dialogue: 0,0:00:11.41,0:00:12.42,Viral,,0,0,0,,{\k28}PAGAR {\k12}AS {\k54}CONTAS
+Dialogue: 0,0:00:13.20,0:00:14.27,Viral,,0,0,0,,{\k10}O {\k35}GESTÃO {\k55}COMERCIAL
+Dialogue: 0,0:00:14.23,0:00:15.04,Viral,,0,0,0,,{\k31}JUNTA {\k38}CAIXA {\k4}E
+Dialogue: 0,0:00:15.00,0:00:15.92,Viral,,0,0,0,,{\k45}ESTOQUE {\k8}NO {\k31}MESMO
+Dialogue: 0,0:00:15.88,0:00:17.79,Viral,,0,0,0,,{\k37}LUGAR {\k47}VENDEU {\k55}BAIXOU
+Dialogue: 0,0:00:18.57,0:00:20.66,Viral,,0,0,0,,{\k46}SIMPLES {\k46}ASSIM {\k29}TUDO
+Dialogue: 0,0:00:20.62,0:00:21.55,Viral,,0,0,0,,{\k10}NO {\k34}MESMO {\k42}SISTEMA
+Dialogue: 0,0:00:21.51,0:00:22.55,Viral,,0,0,0,,{\k12}DO {\k40}CAIXA {\k19}SEM
+Dialogue: 0,0:00:22.51,0:00:24.77,Viral,,0,0,0,,{\k43}PLANILHA {\k62}SEPARADA {\k31}VOCÊ
+Dialogue: 0,0:00:24.74,0:00:25.99,Viral,,0,0,0,,{\k30}COMPRA {\k39}MELHOR {\k35}GASTA
+Dialogue: 0,0:00:25.95,0:00:26.59,Viral,,0,0,0,,{\k31}MENOS {\k11}E {\k14}NÃO
+Dialogue: 0,0:00:26.55,0:00:27.38,Viral,,0,0,0,,{\k31}DEIXA {\k40}FALTAR {\k5}O
+Dialogue: 0,0:00:27.34,0:00:28.18,Viral,,0,0,0,,{\k11}QUE {\k28}MAIS {\k37}VENDE
+Dialogue: 0,0:00:28.95,0:00:29.83,Viral,,0,0,0,,{\k31}MANDA {\k41}ESTOQUE {\k8}NO
+Dialogue: 0,0:00:29.80,0:00:30.50,Viral,,0,0,0,,{\k48}DIRECT {\k6}QUE {\k8}EU
+Dialogue: 0,0:00:30.46,0:00:31.66,Viral,,0,0,0,,{\k11}TE {\k43}MOSTRO {\k59}FUNCIONANDO
+Dialogue: 0,0:00:31.62,0:00:32.43,Viral,,0,0,0,,{\k10}NA {\k24}SUA {\k40}LOJA
+Dialogue: 0,0:00:33.21,0:00:33.74,Viral,,0,0,0,,{\k11}E {\k30}SEGUE {\k5}A
+Dialogue: 0,0:00:33.70,0:00:34.40,Viral,,0,0,0,,{\k29}GENTE {\k12}PRA {\k22}MAIS
+Dialogue: 0,0:00:34.36,0:00:35.10,Viral,,0,0,0,,{\k38}DICAS {\k12}PRO {\k16}SEU
+Dialogue: 0,0:00:35.06,0:00:36.29,Viral,,0,0,0,,{\k50}COMÉRCIO {\k6}EM {\k59}SANTANA

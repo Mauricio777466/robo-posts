@@ -1,0 +1,12 @@
+{
+  "text": "Autoatendimento não é só pra supermercado grande. <break time=\"0.4s\" /> No horário de almoço todo mundo quer pagar rápido, e seu único caixa não dá conta. <break time=\"0.4s\" /> Enquanto isso, o cliente da compra rápida desiste e vai na loja do lado. <break time=\"0.4s\" /> O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem. <break time=\"0.4s\" /> O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria. <break time=\"0.4s\" /> Quer testar sete dias grátis? O link está na bio. Ou manda RÁPIDO no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "model_id": "eleven_multilingual_v2",
+  "voice_settings": {
+    "stability": 0.45,
+    "similarity_boost": 0.8,
+    "style": 0.35,
+    "use_speaker_boost": true
+  },
+  "_voice_id": "PREENCHA_NO_CONFIG",
+  "_endpoint": "POST https://api.elevenlabs.io/v1/text-to-speech/{voice_id}"
+}

@@ -1,0 +1,59 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Viral,Arial Black,88,&H0015CCFA,&H00FFFFFF,&H00000000,&H96000000,-1,0,0,0,100,100,0,0,1,6,3,2,60,60,520,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.10,0:00:01.30,Viral,,0,0,0,,{\k10}A {\k49}REFORMA {\k54}TRIBUTÁRIA
+Dialogue: 0,0:00:01.26,0:00:01.93,Viral,,0,0,0,,{\k13}VAI {\k35}CHEGAR {\k11}NO
+Dialogue: 0,0:00:01.89,0:00:03.90,Viral,,0,0,0,,{\k18}SEU {\k44}BALCÃO {\k49}PRODUTO
+Dialogue: 0,0:00:03.86,0:00:05.36,Viral,,0,0,0,,{\k25}SEM {\k68}NCM {\k30}PREÇO
+Dialogue: 0,0:00:05.32,0:00:06.32,Viral,,0,0,0,,{\k46}ANOTADO {\k8}NO {\k38}PAPEL
+Dialogue: 0,0:00:06.55,0:00:07.77,Viral,,0,0,0,,{\k34}VENDA {\k28}SEM {\k53}REGISTRO
+Dialogue: 0,0:00:08.55,0:00:09.17,Viral,,0,0,0,,{\k19}NA {\k26}HORA {\k10}DE
+Dialogue: 0,0:00:09.14,0:00:09.70,Viral,,0,0,0,,{\k10}SE {\k37}ADEQUAR {\k2}À
+Dialogue: 0,0:00:09.66,0:00:10.76,Viral,,0,0,0,,{\k25}LEI {\k25}ISSO {\k26}VIRA
+Dialogue: 0,0:00:10.72,0:00:11.76,Viral,,0,0,0,,{\k45}CORRERIA {\k5}E {\k47}GASTO
+Dialogue: 0,0:00:12.54,0:00:12.95,Viral,,0,0,0,,{\k12}E {\k4}O {\k18}SEU
+Dialogue: 0,0:00:12.91,0:00:14.05,Viral,,0,0,0,,{\k47}CONTADOR {\k11}VAI {\k49}PRECISAR
+Dialogue: 0,0:00:14.01,0:00:15.41,Viral,,0,0,0,,{\k10}DE {\k58}INFORMAÇÃO {\k65}ORGANIZADA
+Dialogue: 0,0:00:15.62,0:00:16.16,Viral,,0,0,0,,{\k22}NÃO {\k9}DE {\k16}UMA
+Dialogue: 0,0:00:16.12,0:00:17.06,Viral,,0,0,0,,{\k30}CAIXA {\k8}DE {\k48}SAPATO
+Dialogue: 0,0:00:17.02,0:00:17.95,Viral,,0,0,0,,{\k36}CHEIA {\k10}DE {\k40}PAPEL.
+Dialogue: 0,0:00:18.73,0:00:19.33,Viral,,0,0,0,,{\k17}COM {\k4}O {\k32}GESTÃO
+Dialogue: 0,0:00:19.29,0:00:20.65,Viral,,0,0,0,,{\k58}COMERCIAL {\k25}VOCÊ {\k13}JÁ
+Dialogue: 0,0:00:20.61,0:00:21.44,Viral,,0,0,0,,{\k48}ORGANIZA {\k25}HOJE {\k2}O
+Dialogue: 0,0:00:21.41,0:00:22.65,Viral,,0,0,0,,{\k51}CADASTRO {\k17}DOS {\k49}PRODUTOS
+Dialogue: 0,0:00:22.61,0:00:23.33,Viral,,0,0,0,,{\k10}E {\k2}O {\k53}REGISTRO
+Dialogue: 0,0:00:23.29,0:00:24.95,Viral,,0,0,0,,{\k19}DAS {\k48}VENDAS {\k10}A
+Dialogue: 0,0:00:24.92,0:00:25.78,Viral,,0,0,0,,{\k38}EMISSÃO {\k11}DE {\k30}NOTA
+Dialogue: 0,0:00:25.74,0:00:26.83,Viral,,0,0,0,,{\k45}FISCAL {\k18}ESTÁ {\k39}CHEGANDO
+Dialogue: 0,0:00:26.79,0:00:27.68,Viral,,0,0,0,,{\k7}EM {\k39}BREVE {\k10}E
+Dialogue: 0,0:00:27.64,0:00:28.24,Viral,,0,0,0,,{\k21}QUEM {\k12}JÁ {\k19}ESTÁ
+Dialogue: 0,0:00:28.20,0:00:29.29,Viral,,0,0,0,,{\k64}ORGANIZADO {\k27}SAI {\k12}NA
+Dialogue: 0,0:00:29.26,0:00:30.93,Viral,,0,0,0,,{\k43}FRENTE {\k11}E {\k24}QUANDO
+Dialogue: 0,0:00:30.89,0:00:31.71,Viral,,0,0,0,,{\k2}A {\k34}NOTA {\k38}FISCAL
+Dialogue: 0,0:00:31.67,0:00:32.68,Viral,,0,0,0,,{\k31}CHEGAR {\k8}AO {\k54}SISTEMA
+Dialogue: 0,0:00:32.86,0:00:33.78,Viral,,0,0,0,,{\k11}EM {\k38}BREVE {\k6}O
+Dialogue: 0,0:00:33.74,0:00:34.72,Viral,,0,0,0,,{\k19}SEU {\k55}CADASTRO {\k17}JÁ
+Dialogue: 0,0:00:34.69,0:00:35.60,Viral,,0,0,0,,{\k13}VAI {\k29}ESTAR {\k42}PRONTO
+Dialogue: 0,0:00:36.38,0:00:37.57,Viral,,0,0,0,,{\k25}COM {\k24}TUDO {\k62}REGISTRADO
+Dialogue: 0,0:00:37.85,0:00:38.84,Viral,,0,0,0,,{\k23}VOCÊ {\k54}CONVERSA {\k14}COM
+Dialogue: 0,0:00:38.80,0:00:39.59,Viral,,0,0,0,,{\k4}O {\k51}CONTADOR {\k18}COM
+Dialogue: 0,0:00:39.56,0:00:40.19,Viral,,0,0,0,,{\k12}OS {\k36}NÚMEROS {\k8}NA
+Dialogue: 0,0:00:40.16,0:00:41.77,Viral,,0,0,0,,{\k24}MÃO {\k16}ME {\k33}CHAMA
+Dialogue: 0,0:00:41.73,0:00:43.56,Viral,,0,0,0,,{\k7}NO {\k61}WHATSAPP {\k82}96
+Dialogue: 0,0:00:43.70,0:00:47.32,Viral,,0,0,0,,{\k325}98115-7991 {\k5}E {\k25}FALA
+Dialogue: 0,0:00:47.28,0:00:49.57,Viral,,0,0,0,,{\k56}REFORMA {\k11}A {\k72}DEMONSTRAÇÃO
+Dialogue: 0,0:00:49.53,0:00:50.17,Viral,,0,0,0,,{\k5}É {\k18}POR {\k34}NOSSA
+Dialogue: 0,0:00:50.13,0:00:51.85,Viral,,0,0,0,,{\k40}CONTA {\k11}E {\k32}SEGUE
+Dialogue: 0,0:00:51.82,0:00:52.36,Viral,,0,0,0,,{\k5}A {\k29}GENTE {\k13}PRA
+Dialogue: 0,0:00:52.32,0:00:53.09,Viral,,0,0,0,,{\k22}MAIS {\k36}DICAS {\k12}PRO
+Dialogue: 0,0:00:53.05,0:00:53.86,Viral,,0,0,0,,{\k17}SEU {\k49}COMÉRCIO {\k7}EM
+Dialogue: 0,0:00:53.82,0:00:54.38,Viral,,0,0,0,,{\k50}MACAPÁ

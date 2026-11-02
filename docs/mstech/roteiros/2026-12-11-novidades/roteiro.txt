@@ -1,0 +1,31 @@
+ROTEIRO REELS - NOVIDADES DO GESTÃO COMERCIAL
+Duração estimada: 48 segundos | Palavra do direct: NOVIDADE
+============================================================
+
+[00.0s - 02.1s] GANCHO  (tom: surpresa)
+FALA: Tem novidade chegando no seu caixa.
+TELA: Tela de 'Atualizações' do Gestão Comercial.
+
+[02.5s - 10.4s] DOR  (tom: preocupação)
+FALA: Muito comércio em Santana ainda usa sistema que nunca recebe melhoria. A lei muda, o cliente muda, e o programa continua igual.
+TELA: Computador velho com sistema travado.
+
+[10.8s - 16.2s] O PREJUÍZO  (tom: seriedade)
+FALA: Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa.
+TELA: Computador velho com sistema travado.
+
+[16.6s - 28.4s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Gestão Comercial da MS Tech Soluções recebe atualização direto no computador. Já chegaram o Caixa Rápido, o app do dono e o app do vendedor. E a nota fiscal vem em breve.
+TELA: Montagem: Caixa Rápido, app do dono e app do vendedor.
+
+[28.8s - 38.8s] O RESULTADO  (tom: alegria)
+FALA: Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região.
+TELA: Montagem: Caixa Rápido, app do dono e app do vendedor.
+
+[39.2s - 48.5s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda NOVIDADE pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Selo EM BREVE: nota fiscal.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Tem novidade chegando no seu caixa. Muito comércio em Santana ainda usa sistema que nunca recebe melhoria. A lei muda, o cliente muda, e o programa continua igual. Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa. O Gestão Comercial da MS Tech Soluções recebe atualização direto no computador. Já chegaram o Caixa Rápido, o app do dono e o app do vendedor. E a nota fiscal vem em breve. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Manda NOVIDADE pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Santana.

@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121514-balanca-220102",
+  "tema": "balanca",
+  "titulo_tema": "Etiqueta da balança no caixa",
+  "palavra_direct": "BALANÇA",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Açougue e padaria, prestem atenção.",
+      "segundos": 1.8,
+      "visual": "Close na etiqueta da balança sendo bipada.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Cliente reclamando no balcão que o valor do caixa está diferente da etiqueta, e a fila toda esperando.",
+      "segundos": 6.4,
+      "visual": "Operador digitando o peso devagar.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Um erro de cem gramas por venda parece pouco, mas no fim do mês vira um prejuízo que dói.",
+      "segundos": 6.8,
+      "visual": "Operador digitando o peso devagar.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "No Gestão Comercial você liga cada produto ao código da balança uma vez só. Depois é só bipar a etiqueta.",
+      "segundos": 7.1,
+      "visual": "Produto pesado aparecendo sozinho na tela do caixa.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Mais rapidez no caixa e o valor sempre certo, pra você e pro cliente. Serve pra açougue, padaria, hortifrúti e tudo que sai pesado na balança.",
+      "segundos": 9.3,
+      "visual": "Produto pesado aparecendo sozinho na tela do caixa.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Quer testar sete dias grátis? O link está na bio. Ou manda BALANÇA no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 9.6,
+      "visual": "Balança com o @ da MS Tech.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    2,
+    2,
+    0,
+    1,
+    0,
+    2
+  ],
+  "criado_em": "2026-11-02T12:15:14",
+  "narracao": "Açougue e padaria, prestem atenção. Cliente reclamando no balcão que o valor do caixa está diferente da etiqueta, e a fila toda esperando. Um erro de cem gramas por venda parece pouco, mas no fim do mês vira um prejuízo que dói. No Gestão Comercial você liga cada produto ao código da balança uma vez só. Depois é só bipar a etiqueta. Mais rapidez no caixa e o valor sempre certo, pra você e pro cliente. Serve pra açougue, padaria, hortifrúti e tudo que sai pesado na balança. Quer testar sete dias grátis? O link está na bio. Ou manda BALANÇA no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 43.0
+}

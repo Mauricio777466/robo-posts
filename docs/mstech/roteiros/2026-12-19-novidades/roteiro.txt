@@ -1,0 +1,31 @@
+ROTEIRO REELS - NOVIDADES DO GESTÃO COMERCIAL
+Duração estimada: 44 segundos | Palavra do direct: NOVIDADE
+============================================================
+
+[00.0s - 02.1s] GANCHO  (tom: surpresa)
+FALA: Sistema bom é sistema que evolui.
+TELA: Tela de 'Atualizações' do Gestão Comercial.
+
+[02.5s - 07.5s] DOR  (tom: preocupação)
+FALA: Sistema antigo trava, não conversa com o celular e deixa o dono no escuro.
+TELA: Computador velho com sistema travado.
+
+[07.9s - 13.6s] O PREJUÍZO  (tom: seriedade)
+FALA: E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente.
+TELA: Computador velho com sistema travado.
+
+[14.0s - 23.6s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização.
+TELA: Montagem: Caixa Rápido, app do dono e app do vendedor.
+
+[24.0s - 34.0s] O RESULTADO  (tom: alegria)
+FALA: E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça.
+TELA: Montagem: Caixa Rápido, app do dono e app do vendedor.
+
+[34.4s - 44.4s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Me chama no WhatsApp (96) 98115-7991 e fala NOVIDADE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Selo EM BREVE: nota fiscal.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Sistema bom é sistema que evolui. Sistema antigo trava, não conversa com o celular e deixa o dono no escuro. E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente. A MS Tech Soluções é daqui do Amapá e escuta o lojista. Cada pedido vira melhoria no Gestão Comercial, e quem já é cliente recebe a atualização. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. Me chama no WhatsApp (96) 98115-7991 e fala NOVIDADE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.

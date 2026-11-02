@@ -1,0 +1,31 @@
+ROTEIRO REELS - FECHAMENTO DO CAIXA
+Duração estimada: 42 segundos | Palavra do direct: CAIXA
+============================================================
+
+[00.0s - 02.5s] GANCHO  (tom: surpresa)
+FALA: Seu caixa fechou com diferença de novo?
+TELA: Mão contando notas, cara de preocupação.
+
+[02.9s - 09.0s] DOR  (tom: preocupação)
+FALA: Você confia na sua equipe, mas sem registro não tem como saber onde o dinheiro foi parar.
+TELA: Caderno rabiscado e calculadora.
+
+[09.4s - 14.8s] O PREJUÍZO  (tom: seriedade)
+FALA: Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês.
+TELA: Caderno rabiscado e calculadora.
+
+[15.2s - 23.4s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Gestão Comercial registra cada venda, cada retirada e cada reforço do caixa. A diferença aparece na hora, não no fim do mês.
+TELA: Tela de fechamento do Gestão Comercial com os totais por forma de pagamento.
+
+[23.8s - 32.0s] O RESULTADO  (tom: alegria)
+FALA: Fechamento em poucos minutos, sem briga e sem caderninho. E você ainda vê o relatório do dia pra saber quanto entrou de verdade.
+TELA: Tela de fechamento do Gestão Comercial com os totais por forma de pagamento.
+
+[32.4s - 42.4s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Me chama no WhatsApp (96) 98115-7991 e fala CAIXA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Gaveta fechada, sorriso, texto do @ na tela.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Seu caixa fechou com diferença de novo? Você confia na sua equipe, mas sem registro não tem como saber onde o dinheiro foi parar. Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês. O Gestão Comercial registra cada venda, cada retirada e cada reforço do caixa. A diferença aparece na hora, não no fim do mês. Fechamento em poucos minutos, sem briga e sem caderninho. E você ainda vê o relatório do dia pra saber quanto entrou de verdade. Me chama no WhatsApp (96) 98115-7991 e fala CAIXA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.

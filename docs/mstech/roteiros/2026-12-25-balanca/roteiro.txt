@@ -1,0 +1,31 @@
+ROTEIRO REELS - ETIQUETA DA BALANÇA NO CAIXA
+Duração estimada: 44 segundos | Palavra do direct: BALANÇA
+============================================================
+
+[00.0s - 01.8s] GANCHO  (tom: surpresa)
+FALA: Açougue e padaria, prestem atenção.
+TELA: Close na etiqueta da balança sendo bipada.
+
+[02.2s - 10.4s] DOR  (tom: preocupação)
+FALA: No açougue ou na padaria, o operador lê o peso na etiqueta e digita na mão. Um número errado e você perde dinheiro.
+TELA: Operador digitando o peso devagar.
+
+[10.8s - 17.6s] O PREJUÍZO  (tom: seriedade)
+FALA: Um erro de cem gramas por venda parece pouco, mas no fim do mês vira um prejuízo que dói.
+TELA: Operador digitando o peso devagar.
+
+[18.0s - 25.1s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: No Gestão Comercial você liga cada produto ao código da balança uma vez só. Depois é só bipar a etiqueta.
+TELA: Produto pesado aparecendo sozinho na tela do caixa.
+
+[25.5s - 34.8s] O RESULTADO  (tom: alegria)
+FALA: Serve pra açougue, padaria, hortifrúti e tudo que sai pesado na balança. Mais rapidez no caixa e o valor sempre certo, pra você e pro cliente.
+TELA: Produto pesado aparecendo sozinho na tela do caixa.
+
+[35.2s - 43.8s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda BALANÇA no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Balança com o @ da MS Tech.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Açougue e padaria, prestem atenção. No açougue ou na padaria, o operador lê o peso na etiqueta e digita na mão. Um número errado e você perde dinheiro. Um erro de cem gramas por venda parece pouco, mas no fim do mês vira um prejuízo que dói. No Gestão Comercial você liga cada produto ao código da balança uma vez só. Depois é só bipar a etiqueta. Serve pra açougue, padaria, hortifrúti e tudo que sai pesado na balança. Mais rapidez no caixa e o valor sempre certo, pra você e pro cliente. Manda BALANÇA no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Macapá.

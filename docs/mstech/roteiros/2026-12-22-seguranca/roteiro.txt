@@ -1,0 +1,31 @@
+ROTEIRO REELS - SEGURANÇA NO CAIXA
+Duração estimada: 45 segundos | Palavra do direct: SEGURO
+============================================================
+
+[00.0s - 02.9s] GANCHO  (tom: surpresa)
+FALA: Seu computador quebrou. E as vendas de hoje?
+TELA: Close numa etiqueta de preço sendo riscada.
+
+[03.3s - 10.8s] DOR  (tom: preocupação)
+FALA: Um dia o computador do caixa queima, e com ele vão embora o cadastro, as vendas e o histórico da loja.
+TELA: Computador desligado com fumaça (efeito) ou caixa vazio.
+
+[11.2s - 18.3s] O PREJUÍZO  (tom: seriedade)
+FALA: Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar.
+TELA: Computador desligado com fumaça (efeito) ou caixa vazio.
+
+[18.7s - 28.0s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: No Gestão Comercial, trocar o preço no caixa só com a senha do gerente, e fica tudo registrado: quem trocou, quando e de quanto pra quanto.
+TELA: Tela pedindo a senha do gerente para trocar o preço.
+
+[28.4s - 36.6s] O RESULTADO  (tom: alegria)
+FALA: Você define o que cada funcionário pode fazer e confere tudo depois. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar.
+TELA: Tela pedindo a senha do gerente para trocar o preço.
+
+[37.0s - 44.9s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Comenta SEGURO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Cadeado na tela com o @ da MS Tech.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Seu computador quebrou. E as vendas de hoje? Um dia o computador do caixa queima, e com ele vão embora o cadastro, as vendas e o histórico da loja. Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar. No Gestão Comercial, trocar o preço no caixa só com a senha do gerente, e fica tudo registrado: quem trocou, quando e de quanto pra quanto. Você define o que cada funcionário pode fazer e confere tudo depois. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar. Comenta SEGURO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.

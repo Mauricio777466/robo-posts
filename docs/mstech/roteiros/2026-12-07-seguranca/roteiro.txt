@@ -1,0 +1,31 @@
+ROTEIRO REELS - SEGURANÇA NO CAIXA
+Duração estimada: 42 segundos | Palavra do direct: SEGURO
+============================================================
+
+[00.0s - 02.9s] GANCHO  (tom: surpresa)
+FALA: Seu computador quebrou. E as vendas de hoje?
+TELA: Close numa etiqueta de preço sendo riscada.
+
+[03.3s - 09.0s] DOR  (tom: preocupação)
+FALA: Você não consegue ficar o dia todo no balcão vigiando cada venda, e nem deveria precisar.
+TELA: Computador desligado com fumaça (efeito) ou caixa vazio.
+
+[09.4s - 16.5s] O PREJUÍZO  (tom: seriedade)
+FALA: Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar.
+TELA: Computador desligado com fumaça (efeito) ou caixa vazio.
+
+[16.9s - 23.0s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: O Gestão Comercial faz backup automático todo dia. Se o computador der problema, seus dados estão guardados.
+TELA: Tela pedindo a senha do gerente para trocar o preço.
+
+[23.4s - 31.6s] O RESULTADO  (tom: alegria)
+FALA: Você define o que cada funcionário pode fazer e confere tudo depois. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar.
+TELA: Tela pedindo a senha do gerente para trocar o preço.
+
+[32.0s - 41.6s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Quer testar sete dias grátis? O link está na bio. Ou manda SEGURO no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Cadeado na tela com o @ da MS Tech.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Seu computador quebrou. E as vendas de hoje? Você não consegue ficar o dia todo no balcão vigiando cada venda, e nem deveria precisar. Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar. O Gestão Comercial faz backup automático todo dia. Se o computador der problema, seus dados estão guardados. Você define o que cada funcionário pode fazer e confere tudo depois. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar. Quer testar sete dias grátis? O link está na bio. Ou manda SEGURO no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.

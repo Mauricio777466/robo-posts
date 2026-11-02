@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121413-seguranca-220102",
+  "tema": "seguranca",
+  "titulo_tema": "Segurança no caixa",
+  "palavra_direct": "SEGURO",
+  "cidade": "Macapá",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Seu computador quebrou. E as vendas de hoje?",
+      "segundos": 2.9,
+      "visual": "Close numa etiqueta de preço sendo riscada.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Você não consegue ficar o dia todo no balcão vigiando cada venda, e nem deveria precisar.",
+      "segundos": 5.7,
+      "visual": "Computador desligado com fumaça (efeito) ou caixa vazio.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar.",
+      "segundos": 7.1,
+      "visual": "Computador desligado com fumaça (efeito) ou caixa vazio.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "O Gestão Comercial faz backup automático todo dia. Se o computador der problema, seus dados estão guardados.",
+      "segundos": 6.1,
+      "visual": "Tela pedindo a senha do gerente para trocar o preço.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Você define o que cada funcionário pode fazer e confere tudo depois. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar.",
+      "segundos": 8.2,
+      "visual": "Tela pedindo a senha do gerente para trocar o preço.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Quer testar sete dias grátis? O link está na bio. Ou manda SEGURO no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "segundos": 9.6,
+      "visual": "Cadeado na tela com o @ da MS Tech.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    2,
+    2,
+    0,
+    1,
+    0,
+    2
+  ],
+  "criado_em": "2026-11-02T12:14:13",
+  "narracao": "Seu computador quebrou. E as vendas de hoje? Você não consegue ficar o dia todo no balcão vigiando cada venda, e nem deveria precisar. Um desconto aqui, um preço trocado ali, e no fim do mês o prejuízo é grande e ninguém sabe explicar. O Gestão Comercial faz backup automático todo dia. Se o computador der problema, seus dados estão guardados. Você define o que cada funcionário pode fazer e confere tudo depois. Mais controle pra você e mais tranquilidade pra equipe honesta trabalhar. Quer testar sete dias grátis? O link está na bio. Ou manda SEGURO no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "duracao_estimada_s": 41.6
+}

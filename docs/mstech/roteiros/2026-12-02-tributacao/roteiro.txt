@@ -1,0 +1,31 @@
+ROTEIRO REELS - REFORMA TRIBUTÁRIA
+Duração estimada: 51 segundos | Palavra do direct: REFORMA
+============================================================
+
+[00.0s - 02.9s] GANCHO  (tom: surpresa)
+FALA: A reforma tributária vai chegar no seu balcão.
+TELA: Texto grande na tela: IBS + CBS.
+
+[03.3s - 11.2s] DOR  (tom: preocupação)
+FALA: Produto sem NCM, preço anotado no papel, venda sem registro. Na hora de se adequar à lei, isso vira correria e gasto.
+TELA: Pilha de papéis e notas bagunçadas.
+
+[11.6s - 16.6s] O PREJUÍZO  (tom: seriedade)
+FALA: Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar.
+TELA: Pilha de papéis e notas bagunçadas.
+
+[17.0s - 29.1s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente.
+TELA: Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.
+
+[29.5s - 40.2s] O RESULTADO  (tom: alegria)
+FALA: E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão.
+TELA: Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.
+
+[40.6s - 50.6s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Me chama no WhatsApp (96) 98115-7991 e fala REFORMA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.
+TELA: Calendário com o texto: comece agora.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+A reforma tributária vai chegar no seu balcão. Produto sem NCM, preço anotado no papel, venda sem registro. Na hora de se adequar à lei, isso vira correria e gasto. Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar. Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão. Me chama no WhatsApp (96) 98115-7991 e fala REFORMA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.

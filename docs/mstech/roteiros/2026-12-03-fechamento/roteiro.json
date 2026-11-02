@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121247-fechamento-021203",
+  "tema": "fechamento",
+  "titulo_tema": "Fechamento do caixa",
+  "palavra_direct": "CAIXA",
+  "cidade": "Macapá",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Seu caixa fechou com diferença de novo?",
+      "segundos": 2.5,
+      "visual": "Mão contando notas, cara de preocupação.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Você confia na sua equipe, mas sem registro não tem como saber onde o dinheiro foi parar.",
+      "segundos": 6.1,
+      "visual": "Caderno rabiscado e calculadora.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês.",
+      "segundos": 5.4,
+      "visual": "Caderno rabiscado e calculadora.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "O Gestão Comercial registra cada venda, cada retirada e cada reforço do caixa. A diferença aparece na hora, não no fim do mês.",
+      "segundos": 8.2,
+      "visual": "Tela de fechamento do Gestão Comercial com os totais por forma de pagamento.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Fechamento em poucos minutos, sem briga e sem caderninho. E você ainda vê o relatório do dia pra saber quanto entrou de verdade.",
+      "segundos": 8.2,
+      "visual": "Tela de fechamento do Gestão Comercial com os totais por forma de pagamento.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Me chama no WhatsApp (96) 98115-7991 e fala CAIXA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "segundos": 10.0,
+      "visual": "Gaveta fechada, sorriso, texto do @ na tela.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    0,
+    2,
+    1,
+    2,
+    0,
+    3
+  ],
+  "criado_em": "2026-11-02T12:12:47",
+  "narracao": "Seu caixa fechou com diferença de novo? Você confia na sua equipe, mas sem registro não tem como saber onde o dinheiro foi parar. Diferenças de dez, vinte reais por dia viram centenas de reais no fim do mês. O Gestão Comercial registra cada venda, cada retirada e cada reforço do caixa. A diferença aparece na hora, não no fim do mês. Fechamento em poucos minutos, sem briga e sem caderninho. E você ainda vê o relatório do dia pra saber quanto entrou de verdade. Me chama no WhatsApp (96) 98115-7991 e fala CAIXA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "duracao_estimada_s": 42.4
+}

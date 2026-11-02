@@ -1,0 +1,62 @@
+{
+  "id": "20261102-122120-dono_longe-010204",
+  "tema": "dono_longe",
+  "titulo_tema": "Acompanhar a loja de longe",
+  "palavra_direct": "DONO",
+  "cidade": "Macapá",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Dono de loja também merece folga.",
+      "segundos": 2.1,
+      "visual": "Você numa rede ou na praia olhando o celular.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Pra saber quanto vendeu no dia, você tem que ligar pro funcionário ou esperar o fechamento.",
+      "segundos": 5.7,
+      "visual": "Ligação perdida: 'Fulano do caixa'.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Resultado: você vive preso no balcão e não sobra tempo pra família nem pra fazer o negócio crescer.",
+      "segundos": 6.4,
+      "visual": "Ligação perdida: 'Fulano do caixa'.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "O Gestão Comercial manda as vendas para o painel na nuvem, e você confere tudo pelo celular, até de casa.",
+      "segundos": 7.1,
+      "visual": "Tela do app do dono com as vendas do dia.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Mais tempo pra você, sem perder o controle da loja. Você decide com os números na mão, e não no achismo.",
+      "segundos": 7.5,
+      "visual": "Tela do app do dono com as vendas do dia.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Manda DONO pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "segundos": 9.3,
+      "visual": "Celular na mão com o @ da MS Tech.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    0,
+    1,
+    0,
+    2,
+    0,
+    4
+  ],
+  "criado_em": "2026-11-02T12:21:20",
+  "narracao": "Dono de loja também merece folga. Pra saber quanto vendeu no dia, você tem que ligar pro funcionário ou esperar o fechamento. Resultado: você vive preso no balcão e não sobra tempo pra família nem pra fazer o negócio crescer. O Gestão Comercial manda as vendas para o painel na nuvem, e você confere tudo pelo celular, até de casa. Mais tempo pra você, sem perder o controle da loja. Você decide com os números na mão, e não no achismo. Manda DONO pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "duracao_estimada_s": 40.1
+}

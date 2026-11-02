@@ -1,0 +1,62 @@
+{
+  "id": "20261102-120802-novidades-101113",
+  "tema": "novidades",
+  "titulo_tema": "Novidades do Gestão Comercial",
+  "palavra_direct": "NOVIDADE",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Seu sistema parou no tempo?",
+      "segundos": 1.8,
+      "visual": "Tela de 'Atualizações' do Gestão Comercial.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Muito comércio em Santana ainda usa sistema que nunca recebe melhoria. A lei muda, o cliente muda, e o programa continua igual.",
+      "segundos": 7.9,
+      "visual": "Computador velho com sistema travado.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa.",
+      "segundos": 5.4,
+      "visual": "Computador velho com sistema travado.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "No Gestão Comercial, as novidades chegam sem você reinstalar nada: troca de preço com senha do gerente, leitura da etiqueta da balança e o painel no celular. A nota fiscal está a caminho, em breve.",
+      "segundos": 12.5,
+      "visual": "Montagem: Caixa Rápido, app do dono e app do vendedor.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça.",
+      "segundos": 10.0,
+      "visual": "Montagem: Caixa Rápido, app do dono e app do vendedor.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Me chama no WhatsApp (96) 98115-7991 e fala NOVIDADE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 10.0,
+      "visual": "Selo EM BREVE: nota fiscal.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    1,
+    0,
+    1,
+    1,
+    1,
+    3
+  ],
+  "criado_em": "2026-11-02T12:08:02",
+  "narracao": "Seu sistema parou no tempo? Muito comércio em Santana ainda usa sistema que nunca recebe melhoria. A lei muda, o cliente muda, e o programa continua igual. Quando a lei muda, quem tem sistema sem atualização corre atrás de outro na pressa. No Gestão Comercial, as novidades chegam sem você reinstalar nada: troca de preço com senha do gerente, leitura da etiqueta da balança e o painel no celular. A nota fiscal está a caminho, em breve. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. Me chama no WhatsApp (96) 98115-7991 e fala NOVIDADE. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 49.6
+}

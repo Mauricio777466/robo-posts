@@ -1,0 +1,78 @@
+{
+  "titulo": "Caixa Rápido (autoatendimento) - Santana",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 41.2,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Mercadinho com autoatendimento em Santana? Tem sim. No horário de almoço todo mundo quer pagar rápido, e seu único caixa não dá conta. Enquanto isso, o cliente da compra rápida desiste e vai na loja do lado. O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem. É ideal pra mercadinho, conveniência, padaria e açaiteria. O cliente ganha tempo, e você vende mais no mesmo horário. Quer testar sete dias grátis? O link está na bio. Ou manda RÁPIDO no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.5,
+      "fala": "Mercadinho com autoatendimento em Santana? Tem sim.",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Mercadinho com autoatendimento em Santana? Tem sim",
+      "fundo_sugerido": "Cliente passando produto no leitor do Caixa Rápido."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.9,
+      "duracao_s": 5.7,
+      "fala": "No horário de almoço todo mundo quer pagar rápido, e seu único caixa não dá conta.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "No horário de almoço todo mundo quer pagar rápido, e seu úni",
+      "fundo_sugerido": "Fila no balcão no horário de almoço."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 9.0,
+      "duracao_s": 5.0,
+      "fala": "Enquanto isso, o cliente da compra rápida desiste e vai na loja do lado.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "Enquanto isso, o cliente da compra rápida desiste e vai na l",
+      "fundo_sugerido": "Fila no balcão no horário de almoço."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 14.4,
+      "duracao_s": 9.6,
+      "fala": "O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "O Caixa Rápido tem câmera ao vivo com aviso de monitoramento",
+      "fundo_sugerido": "Tela do PIX com QR e a tela de compra aprovada."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 24.4,
+      "duracao_s": 6.8,
+      "fala": "É ideal pra mercadinho, conveniência, padaria e açaiteria. O cliente ganha tempo, e você vende mais no mesmo horário.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "É ideal pra mercadinho, conveniência, padaria e açaiteria",
+      "fundo_sugerido": "Tela do PIX com QR e a tela de compra aprovada."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 31.6,
+      "duracao_s": 9.6,
+      "fala": "Quer testar sete dias grátis? O link está na bio. Ou manda RÁPIDO no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Quer testar sete dias grátis? O link está na bio",
+      "fundo_sugerido": "Cupom saindo da impressora."
+    }
+  ]
+}

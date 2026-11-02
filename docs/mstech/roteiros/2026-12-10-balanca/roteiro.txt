@@ -1,0 +1,31 @@
+ROTEIRO REELS - ETIQUETA DA BALANÇA NO CAIXA
+Duração estimada: 43 segundos | Palavra do direct: BALANÇA
+============================================================
+
+[00.0s - 01.8s] GANCHO  (tom: surpresa)
+FALA: Açougue e padaria, prestem atenção.
+TELA: Close na etiqueta da balança sendo bipada.
+
+[02.2s - 08.6s] DOR  (tom: preocupação)
+FALA: Cliente reclamando no balcão que o valor do caixa está diferente da etiqueta, e a fila toda esperando.
+TELA: Operador digitando o peso devagar.
+
+[09.0s - 15.8s] O PREJUÍZO  (tom: seriedade)
+FALA: Um erro de cem gramas por venda parece pouco, mas no fim do mês vira um prejuízo que dói.
+TELA: Operador digitando o peso devagar.
+
+[16.2s - 23.3s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: No Gestão Comercial você liga cada produto ao código da balança uma vez só. Depois é só bipar a etiqueta.
+TELA: Produto pesado aparecendo sozinho na tela do caixa.
+
+[23.7s - 33.0s] O RESULTADO  (tom: alegria)
+FALA: Mais rapidez no caixa e o valor sempre certo, pra você e pro cliente. Serve pra açougue, padaria, hortifrúti e tudo que sai pesado na balança.
+TELA: Produto pesado aparecendo sozinho na tela do caixa.
+
+[33.4s - 43.0s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Quer testar sete dias grátis? O link está na bio. Ou manda BALANÇA no direct. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Balança com o @ da MS Tech.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Açougue e padaria, prestem atenção. Cliente reclamando no balcão que o valor do caixa está diferente da etiqueta, e a fila toda esperando. Um erro de cem gramas por venda parece pouco, mas no fim do mês vira um prejuízo que dói. No Gestão Comercial você liga cada produto ao código da balança uma vez só. Depois é só bipar a etiqueta. Mais rapidez no caixa e o valor sempre certo, pra você e pro cliente. Serve pra açougue, padaria, hortifrúti e tudo que sai pesado na balança. Quer testar sete dias grátis? O link está na bio. Ou manda BALANÇA no direct. E segue a gente pra mais dicas pro seu comércio em Santana.

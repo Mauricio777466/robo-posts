@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121906-tributacao-220014",
+  "tema": "tributacao",
+  "titulo_tema": "Reforma tributária",
+  "palavra_direct": "REFORMA",
+  "cidade": "Macapá",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Cadastro bagunçado vai virar dor de cabeça.",
+      "segundos": 2.5,
+      "visual": "Texto grande na tela: IBS + CBS.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa.",
+      "segundos": 5.0,
+      "visual": "Pilha de papéis e notas bagunçadas.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar.",
+      "segundos": 5.0,
+      "visual": "Pilha de papéis e notas bagunçadas.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente.",
+      "segundos": 12.1,
+      "visual": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão.",
+      "segundos": 10.7,
+      "visual": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Manda REFORMA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "segundos": 9.3,
+      "visual": "Calendário com o texto: comece agora.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    2,
+    2,
+    0,
+    0,
+    1,
+    4
+  ],
+  "criado_em": "2026-11-02T12:19:06",
+  "narracao": "Cadastro bagunçado vai virar dor de cabeça. Muito comerciante em Macapá vai deixar pra última hora e pagar caro pela pressa. Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar. Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Com tudo registrado, você conversa com o contador com os números na mão. Manda REFORMA pra MS Tech Soluções no direct e veja isso funcionando na prática. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "duracao_estimada_s": 46.6
+}

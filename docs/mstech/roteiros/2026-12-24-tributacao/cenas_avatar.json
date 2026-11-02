@@ -1,0 +1,78 @@
+{
+  "titulo": "Reforma tributária - Santana",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 50.2,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "IBS e CBS: seu comércio já ouviu falar? A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar. Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar. Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente. Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Manda REFORMA no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.9,
+      "fala": "IBS e CBS: seu comércio já ouviu falar?",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "IBS e CBS: seu comércio já ouviu falar?",
+      "fundo_sugerido": "Texto grande na tela: IBS + CBS."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 3.3,
+      "duracao_s": 8.9,
+      "fala": "A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "A reforma tributária está chegando com o IBS e a CBS, e quem",
+      "fundo_sugerido": "Pilha de papéis e notas bagunçadas."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 12.6,
+      "duracao_s": 5.0,
+      "fala": "Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "Quem deixar pra última hora vai correr, pagar mais caro e ai",
+      "fundo_sugerido": "Pilha de papéis e notas bagunçadas."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 18.0,
+      "duracao_s": 12.1,
+      "fala": "Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "Com o Gestão Comercial, você já organiza hoje o cadastro dos",
+      "fundo_sugerido": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 30.5,
+      "duracao_s": 10.7,
+      "fala": "Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Com tudo registrado, você conversa com o contador com os núm",
+      "fundo_sugerido": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 41.6,
+      "duracao_s": 8.6,
+      "fala": "Manda REFORMA no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Manda REFORMA no direct que eu te mostro funcionando na sua ",
+      "fundo_sugerido": "Calendário com o texto: comece agora."
+    }
+  ]
+}

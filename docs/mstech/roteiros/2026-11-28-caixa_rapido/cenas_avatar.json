@@ -1,0 +1,78 @@
+{
+  "titulo": "Caixa Rápido (autoatendimento) - Macapá",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 38.8,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "O cliente passa e paga sozinho. Você vê autoatendimento nos mercados grandes e acha que é caro demais pra sua loja. Enquanto isso, o cliente da compra rápida desiste e vai na loja do lado. O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem. O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria. Comenta RÁPIDO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.1,
+      "fala": "O cliente passa e paga sozinho.",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "O cliente passa e paga sozinho",
+      "fundo_sugerido": "Cliente passando produto no leitor do Caixa Rápido."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.5,
+      "duracao_s": 5.4,
+      "fala": "Você vê autoatendimento nos mercados grandes e acha que é caro demais pra sua loja.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "Você vê autoatendimento nos mercados grandes e acha que é ca",
+      "fundo_sugerido": "Fila no balcão no horário de almoço."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 8.3,
+      "duracao_s": 5.0,
+      "fala": "Enquanto isso, o cliente da compra rápida desiste e vai na loja do lado.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "Enquanto isso, o cliente da compra rápida desiste e vai na l",
+      "fundo_sugerido": "Fila no balcão no horário de almoço."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 13.7,
+      "duracao_s": 9.6,
+      "fala": "O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "O Caixa Rápido tem câmera ao vivo com aviso de monitoramento",
+      "fundo_sugerido": "Tela do PIX com QR e a tela de compra aprovada."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 23.7,
+      "duracao_s": 6.8,
+      "fala": "O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "O cliente ganha tempo, e você vende mais no mesmo horário",
+      "fundo_sugerido": "Tela do PIX com QR e a tela de compra aprovada."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 30.9,
+      "duracao_s": 7.9,
+      "fala": "Comenta RÁPIDO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Comenta RÁPIDO aqui embaixo que eu te chamo no direct",
+      "fundo_sugerido": "Cupom saindo da impressora."
+    }
+  ]
+}

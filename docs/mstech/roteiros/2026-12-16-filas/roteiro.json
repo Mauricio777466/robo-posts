@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121711-filas-120013",
+  "tema": "filas",
+  "titulo_tema": "Fila no caixa",
+  "palavra_direct": "FILA",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Essa fila está levando seu dinheiro embora.",
+      "segundos": 2.5,
+      "visual": "Close na fila do caixa ou cesta largada no chão.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Contratar mais um operador custa caro, e no horário calmo ele fica parado.",
+      "segundos": 4.6,
+      "visual": "Relógio na parede, cliente impaciente olhando o celular.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "E cliente que vai embora irritado conta pros amigos. Você perde a venda de hoje e a de amanhã.",
+      "segundos": 6.8,
+      "visual": "Relógio na parede, cliente impaciente olhando o celular.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "Com o Caixa Rápido da MS Tech Soluções, o próprio cliente passa o produto no leitor, vê tudo na tela e paga no PIX ou no cartão. A compra pequena sai da fila.",
+      "segundos": 11.8,
+      "visual": "Tela do Caixa Rápido: leitor, lista de produtos e QR do PIX.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "E o melhor: a venda entra no sistema na hora, com estoque e caixa batendo certinho. Resultado: fila menor, cliente satisfeito e o seu operador livre pra atender quem precisa.",
+      "segundos": 10.7,
+      "visual": "Tela do Caixa Rápido: leitor, lista de produtos e QR do PIX.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Me chama no WhatsApp (96) 98115-7991 e fala FILA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 10.0,
+      "visual": "Você apontando para a tela com o @ da MS Tech.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    1,
+    2,
+    0,
+    0,
+    1,
+    3
+  ],
+  "criado_em": "2026-11-02T12:17:11",
+  "narracao": "Essa fila está levando seu dinheiro embora. Contratar mais um operador custa caro, e no horário calmo ele fica parado. E cliente que vai embora irritado conta pros amigos. Você perde a venda de hoje e a de amanhã. Com o Caixa Rápido da MS Tech Soluções, o próprio cliente passa o produto no leitor, vê tudo na tela e paga no PIX ou no cartão. A compra pequena sai da fila. E o melhor: a venda entra no sistema na hora, com estoque e caixa batendo certinho. Resultado: fila menor, cliente satisfeito e o seu operador livre pra atender quem precisa. Me chama no WhatsApp (96) 98115-7991 e fala FILA. A demonstração é por nossa conta. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 48.4
+}

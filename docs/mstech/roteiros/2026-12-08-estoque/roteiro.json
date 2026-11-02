@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121435-estoque-011002",
+  "tema": "estoque",
+  "titulo_tema": "Controle de estoque",
+  "palavra_direct": "ESTOQUE",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Cliente pediu e o produto tinha acabado?",
+      "segundos": 2.5,
+      "visual": "Prateleira vazia.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Sem controle, você compra o que ainda tem no depósito e deixa faltar o que mais vende.",
+      "segundos": 6.1,
+      "visual": "Depósito cheio do produto errado.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "E produto em falta faz o cliente se acostumar a comprar no concorrente.",
+      "segundos": 4.6,
+      "visual": "Depósito cheio do produto errado.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "No Gestão Comercial, cada venda já baixa o estoque sozinha. Você abre o sistema e vê quanto tem de cada produto.",
+      "segundos": 7.5,
+      "visual": "Tela de produtos do Gestão Comercial com a quantidade em estoque.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Você compra melhor, gasta menos e não deixa faltar o que mais vende. Tudo no mesmo sistema do caixa, sem planilha separada.",
+      "segundos": 7.9,
+      "visual": "Tela de produtos do Gestão Comercial com a quantidade em estoque.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Quer testar sete dias grátis? O link está na bio. Ou manda ESTOQUE no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 9.6,
+      "visual": "Prateleira cheia com o @ da MS Tech.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    0,
+    1,
+    1,
+    0,
+    0,
+    2
+  ],
+  "criado_em": "2026-11-02T12:14:35",
+  "narracao": "Cliente pediu e o produto tinha acabado? Sem controle, você compra o que ainda tem no depósito e deixa faltar o que mais vende. E produto em falta faz o cliente se acostumar a comprar no concorrente. No Gestão Comercial, cada venda já baixa o estoque sozinha. Você abre o sistema e vê quanto tem de cada produto. Você compra melhor, gasta menos e não deixa faltar o que mais vende. Tudo no mesmo sistema do caixa, sem planilha separada. Quer testar sete dias grátis? O link está na bio. Ou manda ESTOQUE no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 40.2
+}

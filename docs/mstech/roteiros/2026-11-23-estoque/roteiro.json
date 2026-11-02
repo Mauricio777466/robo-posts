@@ -1,0 +1,62 @@
+{
+  "id": "20261102-120926-estoque-110210",
+  "tema": "estoque",
+  "titulo_tema": "Controle de estoque",
+  "palavra_direct": "ESTOQUE",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "Seu estoque está só na sua cabeça?",
+      "segundos": 2.5,
+      "visual": "Prateleira vazia.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Sem controle, você compra o que ainda tem no depósito e deixa faltar o que mais vende.",
+      "segundos": 6.1,
+      "visual": "Depósito cheio do produto errado.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Dinheiro parado em mercadoria que não vende é dinheiro que falta pra pagar as contas.",
+      "segundos": 5.4,
+      "visual": "Depósito cheio do produto errado.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "O Gestão Comercial junta caixa e estoque no mesmo lugar: vendeu, baixou. Simples assim.",
+      "segundos": 5.0,
+      "visual": "Tela de produtos do Gestão Comercial com a quantidade em estoque.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Tudo no mesmo sistema do caixa, sem planilha separada. Você compra melhor, gasta menos e não deixa faltar o que mais vende.",
+      "segundos": 7.9,
+      "visual": "Tela de produtos do Gestão Comercial com a quantidade em estoque.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Manda ESTOQUE no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 8.6,
+      "visual": "Prateleira cheia com o @ da MS Tech.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    1,
+    1,
+    0,
+    2,
+    1,
+    0
+  ],
+  "criado_em": "2026-11-02T12:09:26",
+  "narracao": "Seu estoque está só na sua cabeça? Sem controle, você compra o que ainda tem no depósito e deixa faltar o que mais vende. Dinheiro parado em mercadoria que não vende é dinheiro que falta pra pagar as contas. O Gestão Comercial junta caixa e estoque no mesmo lugar: vendeu, baixou. Simples assim. Tudo no mesmo sistema do caixa, sem planilha separada. Você compra melhor, gasta menos e não deixa faltar o que mais vende. Manda ESTOQUE no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 37.5
+}

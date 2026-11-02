@@ -1,0 +1,78 @@
+{
+  "titulo": "Controle de estoque - Santana",
+  "formato": "9:16 (1080x1920)",
+  "duracao_estimada_s": 40.2,
+  "idioma": "pt-BR",
+  "marca": "MS Tech Soluções",
+  "instagram": "@ms_tech_solucoes_",
+  "estilo_legenda": "blocos de até 3 palavras, maiúsculas, palavra falada em amarelo #FACC15",
+  "narracao_completa": "Cliente pediu e o produto tinha acabado? Sem controle, você compra o que ainda tem no depósito e deixa faltar o que mais vende. E produto em falta faz o cliente se acostumar a comprar no concorrente. No Gestão Comercial, cada venda já baixa o estoque sozinha. Você abre o sistema e vê quanto tem de cada produto. Você compra melhor, gasta menos e não deixa faltar o que mais vende. Tudo no mesmo sistema do caixa, sem planilha separada. Quer testar sete dias grátis? O link está na bio. Ou manda ESTOQUE no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "cenas": [
+    {
+      "cena": 1,
+      "parte": "GANCHO",
+      "inicio_s": 0.0,
+      "duracao_s": 2.5,
+      "fala": "Cliente pediu e o produto tinha acabado?",
+      "emocao": "surpresa",
+      "enquadramento": "close",
+      "texto_na_tela": "Cliente pediu e o produto tinha acabado?",
+      "fundo_sugerido": "Prateleira vazia."
+    },
+    {
+      "cena": 2,
+      "parte": "DOR",
+      "inicio_s": 2.9,
+      "duracao_s": 6.1,
+      "fala": "Sem controle, você compra o que ainda tem no depósito e deixa faltar o que mais vende.",
+      "emocao": "preocupação",
+      "enquadramento": "médio",
+      "texto_na_tela": "Sem controle, você compra o que ainda tem no depósito e deix",
+      "fundo_sugerido": "Depósito cheio do produto errado."
+    },
+    {
+      "cena": 3,
+      "parte": "O PREJUÍZO",
+      "inicio_s": 9.4,
+      "duracao_s": 4.6,
+      "fala": "E produto em falta faz o cliente se acostumar a comprar no concorrente.",
+      "emocao": "seriedade",
+      "enquadramento": "médio",
+      "texto_na_tela": "E produto em falta faz o cliente se acostumar a comprar no c",
+      "fundo_sugerido": "Depósito cheio do produto errado."
+    },
+    {
+      "cena": 4,
+      "parte": "SOLUÇÃO MS TECH",
+      "inicio_s": 14.4,
+      "duracao_s": 7.5,
+      "fala": "No Gestão Comercial, cada venda já baixa o estoque sozinha. Você abre o sistema e vê quanto tem de cada produto.",
+      "emocao": "confiança",
+      "enquadramento": "médio",
+      "texto_na_tela": "No Gestão Comercial, cada venda já baixa o estoque sozinha",
+      "fundo_sugerido": "Tela de produtos do Gestão Comercial com a quantidade em estoque."
+    },
+    {
+      "cena": 5,
+      "parte": "O RESULTADO",
+      "inicio_s": 22.3,
+      "duracao_s": 7.9,
+      "fala": "Você compra melhor, gasta menos e não deixa faltar o que mais vende. Tudo no mesmo sistema do caixa, sem planilha separada.",
+      "emocao": "alegria",
+      "enquadramento": "médio",
+      "texto_na_tela": "Você compra melhor, gasta menos e não deixa faltar o que mai",
+      "fundo_sugerido": "Tela de produtos do Gestão Comercial com a quantidade em estoque."
+    },
+    {
+      "cena": 6,
+      "parte": "CHAMADA PARA AÇÃO",
+      "inicio_s": 30.6,
+      "duracao_s": 9.6,
+      "fala": "Quer testar sete dias grátis? O link está na bio. Ou manda ESTOQUE no direct. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "emocao": "animação",
+      "enquadramento": "close",
+      "texto_na_tela": "Quer testar sete dias grátis? O link está na bio",
+      "fundo_sugerido": "Prateleira cheia com o @ da MS Tech."
+    }
+  ]
+}

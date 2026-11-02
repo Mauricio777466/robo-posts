@@ -1,0 +1,62 @@
+{
+  "id": "20261102-122007-tributacao-000000",
+  "tema": "tributacao",
+  "titulo_tema": "Reforma tributária",
+  "palavra_direct": "REFORMA",
+  "cidade": "Santana",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "IBS e CBS: seu comércio já ouviu falar?",
+      "segundos": 2.9,
+      "visual": "Texto grande na tela: IBS + CBS.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar.",
+      "segundos": 8.9,
+      "visual": "Pilha de papéis e notas bagunçadas.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar.",
+      "segundos": 5.0,
+      "visual": "Pilha de papéis e notas bagunçadas.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente.",
+      "segundos": 12.1,
+      "visual": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto.",
+      "segundos": 10.7,
+      "visual": "Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Manda REFORMA no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+      "segundos": 8.6,
+      "visual": "Calendário com o texto: comece agora.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "criado_em": "2026-11-02T12:20:07",
+  "narracao": "IBS e CBS: seu comércio já ouviu falar? A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar. Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar. Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente. Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Manda REFORMA no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.",
+  "duracao_estimada_s": 50.2
+}

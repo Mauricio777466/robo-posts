@@ -1,0 +1,31 @@
+ROTEIRO REELS - NOVIDADES DO GESTÃO COMERCIAL
+Duração estimada: 47 segundos | Palavra do direct: NOVIDADE
+============================================================
+
+[00.0s - 02.1s] GANCHO  (tom: surpresa)
+FALA: Tem novidade chegando no seu caixa.
+TELA: Tela de 'Atualizações' do Gestão Comercial.
+
+[02.5s - 09.3s] DOR  (tom: preocupação)
+FALA: Você paga por um sistema e, quando pede uma melhoria, ninguém responde. Fica tudo do mesmo jeito por anos.
+TELA: Computador velho com sistema travado.
+
+[09.7s - 15.4s] O PREJUÍZO  (tom: seriedade)
+FALA: E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente.
+TELA: Computador velho com sistema travado.
+
+[15.8s - 28.3s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: No Gestão Comercial, as novidades chegam sem você reinstalar nada: troca de preço com senha do gerente, leitura da etiqueta da balança e o painel no celular. A nota fiscal está a caminho, em breve.
+TELA: Montagem: Caixa Rápido, app do dono e app do vendedor.
+
+[28.7s - 38.7s] O RESULTADO  (tom: alegria)
+FALA: Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região.
+TELA: Montagem: Caixa Rápido, app do dono e app do vendedor.
+
+[39.1s - 47.0s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Comenta NOVIDADE aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Selo EM BREVE: nota fiscal.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+Tem novidade chegando no seu caixa. Você paga por um sistema e, quando pede uma melhoria, ninguém responde. Fica tudo do mesmo jeito por anos. E sistema parado custa caro: você perde tempo, perde venda e fica pra trás do concorrente. No Gestão Comercial, as novidades chegam sem você reinstalar nada: troca de preço com senha do gerente, leitura da etiqueta da balança e o painel no celular. A nota fiscal está a caminho, em breve. Você acompanha as mudanças sem trocar de sistema e sem dor de cabeça. E tem suporte daqui, que fala a sua língua e conhece o comércio da região. Comenta NOVIDADE aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Santana.

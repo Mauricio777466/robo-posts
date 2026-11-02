@@ -1,0 +1,31 @@
+ROTEIRO REELS - REFORMA TRIBUTÁRIA
+Duração estimada: 50 segundos | Palavra do direct: REFORMA
+============================================================
+
+[00.0s - 02.9s] GANCHO  (tom: surpresa)
+FALA: IBS e CBS: seu comércio já ouviu falar?
+TELA: Texto grande na tela: IBS + CBS.
+
+[03.3s - 12.2s] DOR  (tom: preocupação)
+FALA: A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar.
+TELA: Pilha de papéis e notas bagunçadas.
+
+[12.6s - 17.6s] O PREJUÍZO  (tom: seriedade)
+FALA: Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar.
+TELA: Pilha de papéis e notas bagunçadas.
+
+[18.0s - 30.1s] SOLUÇÃO MS TECH  (tom: confiança)
+FALA: Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente.
+TELA: Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.
+
+[30.5s - 41.2s] O RESULTADO  (tom: alegria)
+FALA: Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto.
+TELA: Tela de cadastro de produtos organizada, selo EM BREVE para a nota fiscal.
+
+[41.6s - 50.2s] CHAMADA PARA AÇÃO  (tom: animação)
+FALA: Manda REFORMA no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.
+TELA: Calendário com o texto: comece agora.
+
+------------------------------------------------------------
+TEXTO CORRIDO (para colar na voz de IA):
+IBS e CBS: seu comércio já ouviu falar? A reforma tributária está chegando com o IBS e a CBS, e quem tem cadastro de produto bagunçado vai sofrer na hora de se adaptar. Quem deixar pra última hora vai correr, pagar mais caro e ainda arriscar errar. Com o Gestão Comercial, você já organiza hoje o cadastro dos produtos e o registro das vendas. A emissão de nota fiscal está chegando em breve, e quem já está organizado sai na frente. Com tudo registrado, você conversa com o contador com os números na mão. E quando a nota fiscal chegar ao sistema, em breve, o seu cadastro já vai estar pronto. Manda REFORMA no direct que eu te mostro funcionando na sua loja. E segue a gente pra mais dicas pro seu comércio em Santana.

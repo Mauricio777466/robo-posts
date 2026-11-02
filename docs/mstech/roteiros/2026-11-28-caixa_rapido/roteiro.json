@@ -1,0 +1,62 @@
+{
+  "id": "20261102-121105-caixa_rapido-100101",
+  "tema": "caixa_rapido",
+  "titulo_tema": "Caixa Rápido (autoatendimento)",
+  "palavra_direct": "RÁPIDO",
+  "cidade": "Macapá",
+  "partes": [
+    {
+      "tipo": "gancho",
+      "texto": "O cliente passa e paga sozinho.",
+      "segundos": 2.1,
+      "visual": "Cliente passando produto no leitor do Caixa Rápido.",
+      "emocao": "surpresa"
+    },
+    {
+      "tipo": "dor",
+      "texto": "Você vê autoatendimento nos mercados grandes e acha que é caro demais pra sua loja.",
+      "segundos": 5.4,
+      "visual": "Fila no balcão no horário de almoço.",
+      "emocao": "preocupação"
+    },
+    {
+      "tipo": "agravante",
+      "texto": "Enquanto isso, o cliente da compra rápida desiste e vai na loja do lado.",
+      "segundos": 5.0,
+      "visual": "Fila no balcão no horário de almoço.",
+      "emocao": "seriedade"
+    },
+    {
+      "tipo": "solucao",
+      "texto": "O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem.",
+      "segundos": 9.6,
+      "visual": "Tela do PIX com QR e a tela de compra aprovada.",
+      "emocao": "confiança"
+    },
+    {
+      "tipo": "beneficio",
+      "texto": "O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria.",
+      "segundos": 6.8,
+      "visual": "Tela do PIX com QR e a tela de compra aprovada.",
+      "emocao": "alegria"
+    },
+    {
+      "tipo": "cta",
+      "texto": "Comenta RÁPIDO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+      "segundos": 7.9,
+      "visual": "Cupom saindo da impressora.",
+      "emocao": "animação"
+    }
+  ],
+  "combinacao": [
+    1,
+    0,
+    0,
+    1,
+    0,
+    1
+  ],
+  "criado_em": "2026-11-02T12:11:05",
+  "narracao": "O cliente passa e paga sozinho. Você vê autoatendimento nos mercados grandes e acha que é caro demais pra sua loja. Enquanto isso, o cliente da compra rápida desiste e vai na loja do lado. O Caixa Rápido tem câmera ao vivo com aviso de monitoramento, PIX com QR na tela, e a venda cai no seu sistema. Estoque e caixa batem. O cliente ganha tempo, e você vende mais no mesmo horário. É ideal pra mercadinho, conveniência, padaria e açaiteria. Comenta RÁPIDO aqui embaixo que eu te chamo no direct. E segue a gente pra mais dicas pro seu comércio em Macapá.",
+  "duracao_estimada_s": 38.8
+}
